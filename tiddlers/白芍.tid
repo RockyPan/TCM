@@ -1,17 +1,17 @@
 created: 20231113011535345
 creator: KylePan
-difficulty: 5
-due: 20231116013209783
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20231122071227775
+grade: 1
+history: [{"due":"20231116013209783","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114013209783"}]
+interval: 2
 lapses: 0
-modified: 20231114013209783
+modified: 20231116071227775
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231114013209783
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20231116071227774
+stability: 5.512139752431654
 tags: 中药 ?
 title: 白芍
 
