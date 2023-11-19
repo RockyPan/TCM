@@ -7,7 +7,7 @@ grade: -1
 history: []
 interval: 0
 lapses: 0
-modified: 20231115055108817
+modified: 20231119081215544
 modifier: KylePan
 reps: 1
 retrievability: 1
@@ -15,14 +15,18 @@ review: 20231115055108817
 stability: 2
 tags: 中药 ?
 title: 枳实
+type: text/vnd.tiddlywiki
 
 【药性】　苦、辛、酸，微寒。归脾、胃经。
 
 【功效】　破气消积，化痰散痞。
 
-【应用】　
+【应用】
+
 # 积滞内停，痞满胀痛，泻痢后重，大便不通
 # 痰阻气滞，胸痹，结胸
 # 脏器下垂
 
 分类：理气药
+
+''枳壳'' 性味、归经与枳实相同，但作用较为缓和。功能理气宽中，行滞消胀。用于气滞胸胁胀满疼痛，食积不化，痰饮内停，脏器下垂。
