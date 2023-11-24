@@ -1,25 +1,27 @@
 created: 20231113014701822
 creator: KylePan
-difficulty: 5
-due: 20231117053827914
-grade: -1
-history: []
-interval: 0
+difficulty: 4.822431111850943
+due: 20231212123129058
+grade: 1
+history: [{"due":"20231117053827914","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115053827914"}]
+interval: 9
 lapses: 0
-modified: 20231115053827914
+modified: 20231124123129059
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231115053827914
-stability: 2
+reps: 2
+retrievability: 0.6224311118509421
+review: 20231124123129055
+stability: 17.93125127850223
 tags: 中药 ?
 title: 干姜
+type: text/vnd.tiddlywiki
 
 【药性】　辛，热。归脾、胃、肾、心、肺经。
 
 【功效】　温中散寒，回阳通脉，温肺化饮。
 
 【应用】
+
 # 脾胃寒证，脘腹冷痛，呕吐泄泻
 # 亡阳证，肢冷脉微
 # 寒饮喘咳

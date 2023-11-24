@@ -1,25 +1,27 @@
 created: 20231113023845502
 creator: KylePan
-difficulty: 5
-due: 20231117055155488
-grade: -1
-history: []
-interval: 0
+difficulty: 4.822431111850943
+due: 20231212122951013
+grade: 1
+history: [{"due":"20231117055155488","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115055155488"}]
+interval: 9
 lapses: 0
-modified: 20231117014521286
+modified: 20231124122951014
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231115055155488
-stability: 2
+reps: 2
+retrievability: 0.6224311118509421
+review: 20231124122951010
+stability: 17.93125127850223
 tags: 中药 ?
 title: 茯苓
+type: text/vnd.tiddlywiki
 
 【药性】　甘、淡，平。归心、肺、脾、肾经。
 
 【功效】　利水渗湿，健脾，宁心安神。
 
-【应用】　
+【应用】
+
 # 水肿尿少
 # 痰饮眩悸
 # 脾虚食少，便溏泄泻
@@ -27,6 +29,6 @@ title: 茯苓
 
 分类：利水渗湿药 利水消肿药
 
-茯苓皮 性味甘、淡、平；归肺、脾、肾经。功能利水消肿。适用于水肿，小便不利。
+''茯苓皮'' 性味甘、淡、平；归肺、脾、肾经。功能利水消肿。适用于水肿，小便不利。
 
-茯神 性味甘、淡、平；归心、脾、肾经。功能宁心安神。适用于心神不安，惊悸，健忘，失眠。
+''茯神'' 性味甘、淡、平；归心、脾、肾经。功能宁心安神。适用于心神不安，惊悸，健忘，失眠。
