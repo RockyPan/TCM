@@ -1,17 +1,17 @@
 created: 20231113024138687
 creator: KylePan
-difficulty: 5
-due: 20231117055404688
-grade: -1
-history: []
-interval: 0
+difficulty: 4.822431111850943
+due: 20231212124953965
+grade: 1
+history: [{"due":"20231117055404688","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115055404688"}]
+interval: 9
 lapses: 0
-modified: 20231124124830047
+modified: 20231124124953966
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231115055404688
-stability: 2
+reps: 2
+retrievability: 0.6224311118509421
+review: 20231124124953961
+stability: 17.93125127850223
 tags: 中药 ?
 title: 人参
 type: text/vnd.tiddlywiki

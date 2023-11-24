@@ -1,17 +1,17 @@
 created: 20231113014514544
 creator: KylePan
-difficulty: 5
-due: 20231117053759911
-grade: -1
-history: []
-interval: 0
+difficulty: 4.822431111850943
+due: 20231212131219709
+grade: 1
+history: [{"due":"20231117053759911","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115053759911"}]
+interval: 9
 lapses: 0
-modified: 20231124071822919
+modified: 20231124131219709
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231115053759911
-stability: 2
+reps: 2
+retrievability: 0.6224311118509421
+review: 20231124131219705
+stability: 17.93125127850223
 tags: 方剂 ?
 title: 小青龙汤
 type: text/vnd.tiddlywiki

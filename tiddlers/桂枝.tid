@@ -1,25 +1,27 @@
 created: 20231113010156683
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231122082414052
+difficulty: 5.1582034015854665
+due: 20231211130723003
 grade: 1
-history: [{"due":"20231116012630703","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012630703"}]
-interval: 2
+history: [{"due":"20231116012630703","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012630703"},{"due":"20231122082414052","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116082414052"}]
+interval: 8
 lapses: 0
-modified: 20231116082414052
+modified: 20231124130723003
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20231116082414052
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8582034015854654
+review: 20231124130722999
+stability: 16.869537326515847
 tags: 中药 ?
 title: 桂枝
+type: text/vnd.tiddlywiki
 
 【药性】　辛、甘，温。归心、肺、膀胱经。
 
 【功效】　发汗解肌，温通经脉，助阳化气，平冲降逆。
 
 【应用】
+
 # 风寒感冒
 # 脘腹冷痛、经闭痛经、关节痹痛等寒凝血滞诸痛证
 # 痰饮，水肿

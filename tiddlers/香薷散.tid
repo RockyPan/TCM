@@ -1,17 +1,17 @@
 created: 20231113015154816
 creator: KylePan
-difficulty: 5
-due: 20231117054207372
-grade: -1
-history: []
-interval: 0
+difficulty: 4.822431111850943
+due: 20231212125605085
+grade: 1
+history: [{"due":"20231117054207372","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115054207372"}]
+interval: 9
 lapses: 0
-modified: 20231124071920289
+modified: 20231124125605086
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231115054207372
-stability: 2
+reps: 2
+retrievability: 0.6224311118509421
+review: 20231124125605080
+stability: 17.93125127850223
 tags: 方剂 ?
 title: 香薷散
 type: text/vnd.tiddlywiki

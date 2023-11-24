@@ -1,25 +1,27 @@
 created: 20231113011535345
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231122071227775
+difficulty: 5.1582034015854665
+due: 20231211130215297
 grade: 1
-history: [{"due":"20231116013209783","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114013209783"}]
-interval: 2
+history: [{"due":"20231116013209783","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114013209783"},{"due":"20231122071227775","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116071227774"}]
+interval: 8
 lapses: 0
-modified: 20231116071227775
+modified: 20231124130215300
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20231116071227774
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8582034015854654
+review: 20231124130215294
+stability: 16.869537326515847
 tags: 中药 ?
 title: 白芍
+type: text/vnd.tiddlywiki
 
 【药性】　苦、酸，微寒。归肝、脾经。
 
 【功效】　养血调经，敛阴止汗，柔肝止痛，平抑肝阳。
 
 【应用】
+
 # 血虚萎黄，月经不调，崩漏
 # 自汗，盗汗
 # 胁肋脘腹疼痛，四肢挛急疼痛

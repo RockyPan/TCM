@@ -1,25 +1,27 @@
 created: 20231113010847946
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231122082258460
+difficulty: 5.1582034015854665
+due: 20231211130558902
 grade: 1
-history: [{"due":"20231116012758494","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012758494"}]
-interval: 2
+history: [{"due":"20231116012758494","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012758494"},{"due":"20231122082258460","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116082258460"}]
+interval: 8
 lapses: 0
-modified: 20231116082258460
+modified: 20231124130558902
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20231116082258460
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8582034015854654
+review: 20231124130558899
+stability: 16.869537326515847
 tags: 中药 ?
 title: 甘草
+type: text/vnd.tiddlywiki
 
 【药性】　甘，平。归心、肺、脾、胃经。
 
 【功效】　补脾益气，清热解毒，祛痰止咳，缓急止痛，调和诸药。
 
 【应用】
+
 # 脾胃虚弱，倦怠乏力
 # 心气不足，心悸气短，脉结代
 # 痈肿疮毒，咽喉肿痛
