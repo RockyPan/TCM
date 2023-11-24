@@ -1,25 +1,27 @@
 created: 20231113010440611
 creator: KylePan
-difficulty: 5
-due: 20231116012702543
-grade: -1
-history: []
-interval: 0
+difficulty: 4.79049
+due: 20231214102542627
+grade: 1
+history: [{"due":"20231116012702543","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012702543"}]
+interval: 10
 lapses: 0
-modified: 20231114012702543
+modified: 20231124102542627
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231114012702543
-stability: 2
+reps: 2
+retrievability: 0.5904900000000001
+review: 20231124102542624
+stability: 19.657456432345345
 tags: 中药 ?
 title: 苦杏仁
+type: text/vnd.tiddlywiki
 
 【药性】　苦，微温；有小毒。归肺、大肠经。
 
 【功效】　降气止咳平喘，润肠通便。
 
 【应用】
+
 # 咳嗽气喘，胸满痰多
 # 肠燥便秘
 

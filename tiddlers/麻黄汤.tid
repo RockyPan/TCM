@@ -1,17 +1,17 @@
 created: 20231110070541462
 creator: KylePan
-difficulty: 5
-due: 20231116012545788
-grade: -1
-history: []
-interval: 0
+difficulty: 4.79049
+due: 20231214103631145
+grade: 1
+history: [{"due":"20231116012545788","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012545788"}]
+interval: 10
 lapses: 0
-modified: 20231124071455192
+modified: 20231124103631145
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231114012545788
-stability: 2
+reps: 2
+retrievability: 0.5904900000000001
+review: 20231124103631142
+stability: 19.657456432345345
 tags: 方剂 ?
 title: 麻黄汤
 type: text/vnd.tiddlywiki

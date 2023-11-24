@@ -1,25 +1,27 @@
 created: 20231113012350161
 creator: KylePan
-difficulty: 5
-due: 20231116014229462
-grade: -1
-history: []
-interval: 0
+difficulty: 4.79049
+due: 20231214104556715
+grade: 1
+history: [{"due":"20231116014229462","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014229462"}]
+interval: 10
 lapses: 0
-modified: 20231114014229462
+modified: 20231124104556716
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231114014229462
-stability: 2
+reps: 2
+retrievability: 0.5904900000000001
+review: 20231124104556711
+stability: 19.657456432345345
 tags: 中药 ?
 title: 羌活
+type: text/vnd.tiddlywiki
 
 【药性】　辛、苦，温。归膀胱、肾经。
 
 【功效】　解表散寒，祛风除湿，止痛。
 
 【应用】
+
 # 风寒感冒，头痛项强
 # 风寒湿痹，肩背酸痛
 

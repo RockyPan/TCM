@@ -6,7 +6,7 @@ grade: -1
 history: []
 interval: 0
 lapses: 0
-modified: 20231114014336557
+modified: 20231124104922862
 modifier: KylePan
 reps: 1
 retrievability: 1
@@ -14,12 +14,14 @@ review: 20231114014336557
 stability: 2
 tags: 中药 ?
 title: 细辛
+type: text/vnd.tiddlywiki
 
 【药性】　辛，温；有小毒。归心、肺、肾经。
 
 【功效】　解表散寒，祛风止痛，通窍，温肺化饮。
 
 【应用】
+
 # 风寒感冒
 # 头痛，牙痛，风湿痹痛
 # 鼻鼽，鼻渊，鼻塞流涕
