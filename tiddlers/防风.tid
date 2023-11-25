@@ -1,25 +1,27 @@
 created: 20231113012652361
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231122082206349
+difficulty: 5.14195525232829
+due: 20231213040807282
 grade: 1
-history: [{"due":"20231116014246029","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014246029"}]
-interval: 2
+history: [{"due":"20231116014246029","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014246029"},{"due":"20231122082206349","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116082206348"}]
+interval: 9
 lapses: 0
-modified: 20231116082206349
+modified: 20231125040807282
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20231116082206348
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8419552523282889
+review: 20231125040807277
+stability: 18.30502694108274
 tags: 中药 ?
 title: 防风
+type: text/vnd.tiddlywiki
 
 【药性】　辛、甘，微温。归膀胱、肝、脾经。
 
 【功效】　祛风解表，胜湿止痛，止痉。
 
 【应用】
+
 # 感冒，头痛
 # 风湿痹痛
 # 风疹瘙痒

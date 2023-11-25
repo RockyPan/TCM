@@ -1,25 +1,27 @@
 created: 20231113013229480
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231122081025308
+difficulty: 5.14195525232829
+due: 20231213040618163
 grade: 1
-history: [{"due":"20231116014401184","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014401184"}]
-interval: 2
+history: [{"due":"20231116014401184","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014401184"},{"due":"20231122081025308","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116081025308"}]
+interval: 9
 lapses: 0
-modified: 20231116081025308
+modified: 20231125040618163
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20231116081025308
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8419552523282889
+review: 20231125040618158
+stability: 18.30502694108274
 tags: 中药 ?
 title: 川芎
+type: text/vnd.tiddlywiki
 
 【药性】　辛，温。归肝、胆、心包经。
 
 【功效】　活血行气，祛风止痛。
 
 【应用】
+
 # 血瘀气滞，胸痹心痛，胸胁刺痛，跌仆肿痛，月经不调，经闭痛经，癥瘕腹痛
 # 头痛
 # 风湿痹痛

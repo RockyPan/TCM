@@ -1,17 +1,17 @@
 created: 20231113030040558
 creator: KylePan
-difficulty: 5
-due: 20231117103600871
-grade: -1
-history: []
-interval: 0
+difficulty: 4.79049
+due: 20231215035858629
+grade: 1
+history: [{"due":"20231117103600871","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115103600871"}]
+interval: 10
 lapses: 0
-modified: 20231124072157587
+modified: 20231125035858629
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231115103600871
-stability: 2
+reps: 2
+retrievability: 0.5904900000000001
+review: 20231125035858623
+stability: 19.657456432345345
 tags: 方剂 ?
 title: 银翘散
 type: text/vnd.tiddlywiki

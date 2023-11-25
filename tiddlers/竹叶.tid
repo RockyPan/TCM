@@ -1,25 +1,27 @@
 created: 20231113032737828
 creator: KylePan
-difficulty: 5
-due: 20231117103718917
-grade: -1
-history: []
-interval: 0
+difficulty: 4.79049
+due: 20231215035557729
+grade: 1
+history: [{"due":"20231117103718917","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115103718917"}]
+interval: 10
 lapses: 0
-modified: 20231115103718917
+modified: 20231125035557729
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231115103718917
-stability: 2
+reps: 2
+retrievability: 0.5904900000000001
+review: 20231125035557723
+stability: 19.657456432345345
 tags: 中药 ?
 title: 竹叶
+type: text/vnd.tiddlywiki
 
 【药性】　甘、辛、淡，寒。归心、胃、小肠经。
 
 【功效】　清热泻火，除烦，生津，利尿。
 
-【应用】　
+【应用】
+
 # 热病烦渴
 # 口舌生疮，小便短赤涩痛
 

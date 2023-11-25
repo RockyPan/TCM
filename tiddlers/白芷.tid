@@ -1,25 +1,27 @@
 created: 20231113013420345
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231122073043903
+difficulty: 5.14195525232829
+due: 20231213040256738
 grade: 1
-history: [{"due":"20231116014526565","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014526565"}]
-interval: 2
+history: [{"due":"20231116014526565","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014526565"},{"due":"20231122073043903","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116073043902"}]
+interval: 9
 lapses: 0
-modified: 20231116073043903
+modified: 20231125040256738
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20231116073043902
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8419552523282889
+review: 20231125040256734
+stability: 18.30502694108274
 tags: 中药 ?
 title: 白芷
+type: text/vnd.tiddlywiki
 
 【药性】　辛，温。归肺、胃、大肠经。
 
 【功效】　解表散寒，祛风止痛，宣通鼻窍，燥湿止带，消肿排脓。
 
 【应用】
+
 # 风寒感冒
 # 头痛，眉棱骨痛，牙痛，风湿痹痛
 # 鼻鼽，鼻渊，鼻塞流涕

@@ -1,25 +1,27 @@
 created: 20231113012025969
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231122081043964
+difficulty: 5.14195525232829
+due: 20231213040659178
 grade: 1
-history: [{"due":"20231116013340309","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114013340309"}]
-interval: 2
+history: [{"due":"20231116013340309","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114013340309"},{"due":"20231122081043964","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116081043964"}]
+interval: 9
 lapses: 0
-modified: 20231116081043965
+modified: 20231125040659178
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20231116081043964
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8419552523282889
+review: 20231125040659177
+stability: 18.30502694108274
 tags: 中药 ?
 title: 大枣
+type: text/vnd.tiddlywiki
 
 【药性】　甘，温。归脾、胃、心经。
 
 【功效】　补中益气，养血安神。
 
 【应用】
+
 # 脾虚食少，乏力便溏
 # 妇人脏躁，失眠
 

@@ -1,25 +1,27 @@
 created: 20231113013617057
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231122080952995
+difficulty: 5.14195525232829
+due: 20231213040518647
 grade: 1
-history: [{"due":"20231116014906956","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014906956"}]
-interval: 2
+history: [{"due":"20231116014906956","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014906956"},{"due":"20231122080952995","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116080952995"}]
+interval: 9
 lapses: 0
-modified: 20231116080952995
+modified: 20231125040518647
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20231116080952995
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8419552523282889
+review: 20231125040518646
+stability: 18.30502694108274
 tags: 中药 ?
 title: 赤芍
+type: text/vnd.tiddlywiki
 
 【药性】　苦，微寒。归肝经
 
 【功效】　清热凉血，散瘀止痛。
 
 【应用】
+
 # 热入营血，温毒发斑，血热吐衄
 # 目赤肿痛，痈肿疮疡
 # 肝郁胁痛，经闭痛经，癥瘕腹痛，跌打损伤

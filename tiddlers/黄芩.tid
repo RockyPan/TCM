@@ -1,28 +1,29 @@
 created: 20231113014321698
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231122091235026
+difficulty: 5.14195525232829
+due: 20231213040954749
 grade: 1
-history: [{"due":"20231116015247614","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114015247614"}]
-interval: 2
+history: [{"due":"20231116015247614","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114015247614"},{"due":"20231122091235026","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116091235025"}]
+interval: 9
 lapses: 0
-modified: 20231116091235026
+modified: 20231125040954749
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20231116091235025
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8419552523282889
+review: 20231125040954742
+stability: 18.30502694108274
 tags: 中药 ?
 title: 黄芩
+type: text/vnd.tiddlywiki
 
 【药性】　苦，寒。归肺、胆、脾、大肠、小肠经。
 
 【功效】　清热燥湿，泻火解毒，止血，安胎。
 
 【应用】
+
 # 湿温暑湿、胸闷呕恶，湿热痞满、泻痢、黄疸
 # 肺热咳嗽，高热烦渴
-# 痈肿疮毒
 # 痈肿疮毒
 # 胎热胎动不安
 
