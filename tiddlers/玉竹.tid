@@ -1,15 +1,27 @@
 created: 20231113034735964
 creator: KylePan
-modified: 20231113034837092
+difficulty: 5
+due: 20231127064318506
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231125064318506
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231125064318506
+stability: 2
+tags: 中药 ?
 title: 玉竹
+type: text/vnd.tiddlywiki
 
 【药性】　甘，微寒。归肺、胃经。
 
 【功效】　养阴润燥，生津止渴。
 
 【应用】　
+
 # 肺阴不足，燥热咳嗽
 # 胃阴不足，咽干口渴，内热消渴
 
