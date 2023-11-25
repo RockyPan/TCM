@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20231116012545788","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012545788"}]
 interval: 10
 lapses: 0
-modified: 20231124103631145
+modified: 20231125033133334
 modifier: KylePan
 reps: 2
 retrievability: 0.5904900000000001
@@ -18,7 +18,7 @@ type: text/vnd.tiddlywiki
 
 一类
 
-__麻黄汤中用桂枝，杏仁甘草四般施，发热恶寒头项痛，喘而无汗服之宜。__
+__麻黄汤中臣桂枝，杏仁甘草四般施，发汗解表宣肺气，伤寒表实无汗宜。__
 
 【组成】[[麻黄]]去节，三两(9g)　[[桂枝]]去皮，二两(6g)　[[杏仁|苦杏仁]]去皮尖，七十个(6g)　[[甘草]]炙，一两(3g)
 

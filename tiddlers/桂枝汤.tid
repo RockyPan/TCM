@@ -1,24 +1,24 @@
 created: 20231113011218137
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231122091024752
+difficulty: 5.14195525232829
+due: 20231213033746384
 grade: 1
-history: [{"due":"20231116013135801","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114013135801"}]
-interval: 2
+history: [{"due":"20231116013135801","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114013135801"},{"due":"20231122091024752","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116091024751"}]
+interval: 9
 lapses: 0
-modified: 20231124071601055
+modified: 20231125033746384
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20231116091024751
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8419552523282889
+review: 20231125033746378
+stability: 18.30502694108274
 tags: 方剂 ?
 title: 桂枝汤
 type: text/vnd.tiddlywiki
 
 一类
 
-__桂枝汤治太阳风，芍药甘草姜枣同，解肌发表调营卫，表虚有汗此为功。__
+__桂枝芍药等量伍，姜枣甘草微火煮，解肌发表调营卫，中风表虚自汗出。__
 
 【组成】[[桂枝]]去皮，三两(9g)　[[芍药]]三两(9g)　[[甘草]]炙，二两(6g)　[[生姜]]切，三两(9g)　[[大枣]]擘，十二枚(6g)
 
