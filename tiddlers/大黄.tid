@@ -1,15 +1,27 @@
 created: 20231113035643003
 creator: KylePan
-modified: 20231113035820900
+difficulty: 5
+due: 20231127070601078
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231125070601078
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231125070601078
+stability: 2
+tags: 中药 ?
 title: 大黄
+type: text/vnd.tiddlywiki
 
 【药性】　苦，寒。归脾、胃、大肠、肝、心包经。
 
 【功效】　泻下攻积，清热泻火，凉血解毒，止血，逐瘀通经，利湿退黄。
 
 【应用】
+
 # 实热积滞便秘
 # 血热吐衄，目赤咽肿，牙龈肿痛
 # 痈肿疔疮，肠痈腹痛

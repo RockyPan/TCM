@@ -1,15 +1,27 @@
 created: 20231113040234195
 creator: KylePan
-modified: 20231113040349731
+difficulty: 5
+due: 20231127071759685
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231125071759685
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231125071759685
+stability: 2
+tags: 中药 ?
 title: 桃仁
+type: text/vnd.tiddlywiki
 
 【药性】　苦、甘，平。归心、肝、大肠、肺经。
 
 【功效】　活血祛瘀，润肠通便，止咳平喘。
 
 【应用】　
+
 # 瘀血阻滞之经闭痛经，产后腹痛，癥瘕痞块，跌仆损伤
 # 肺痈，肠痈
 # 肠燥便秘

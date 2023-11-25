@@ -1,15 +1,27 @@
 created: 20231113040044452
 creator: KylePan
-modified: 20231113040212828
+difficulty: 5
+due: 20231127071752603
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231125071752603
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231125071752603
+stability: 2
+tags: 中药 ?
 title: 牡丹皮
+type: text/vnd.tiddlywiki
 
 【药性】　苦、辛，微寒。归心、肝、肾经。
 
 【功效】　清热凉血，活血化瘀。
 
 【应用】　
+
 # 热入营血，温毒发斑，血热吐衄
 # 温邪伤阴，阴虚发热，夜热早凉，无汗骨蒸
 # 血滞经闭痛经，跌仆伤痛
