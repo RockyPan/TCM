@@ -1,15 +1,27 @@
 created: 20231113034043212
 creator: KylePan
-modified: 20231113034148741
+difficulty: 5
+due: 20231127060850794
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231125060850794
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231125060850794
+stability: 2
+tags: 中药 ?
 title: 石膏
+type: text/vnd.tiddlywiki
 
 【药性】　辛、甘，大寒。归肺、胃经。
 
 【功效】　生用：清热泻火，除烦止渴；煅用：收湿，生肌，敛疮，止血。
 
 【应用】　
+
 # 外感热病，高热烦渴
 # 肺热喘咳
 # 胃火亢盛，头痛牙痛，内热消渴

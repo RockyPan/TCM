@@ -1,15 +1,27 @@
 created: 20231113033511988
 creator: KylePan
-modified: 20231113033606837
+difficulty: 5
+due: 20231127055326054
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231125055326054
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231125055326054
+stability: 2
+tags: 中药 ?
 title: 菊花
+type: text/vnd.tiddlywiki
 
 【药性】　甘、苦，微寒。归肺、肝经。
 
 【功效】　疏散风热，平抑肝阳，清肝明目，清热解毒。
 
 【应用】
+
 # 风热感冒，温病初起
 # 肝阳上亢，头痛眩晕
 # 目赤肿痛，眼目昏花

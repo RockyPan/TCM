@@ -1,15 +1,27 @@
 created: 20231113033348156
 creator: KylePan
-modified: 20231113033501044
+difficulty: 5
+due: 20231127055222099
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231125055222099
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231125055222099
+stability: 2
+tags: 中药 ?
 title: 桑叶
+type: text/vnd.tiddlywiki
 
 【药性】　甘、苦，寒。归肺、肝经。
 
 【功效】　疏散风热，清肺润燥，平抑肝阳，清肝明目。
 
 【应用】　
+
 # 风热感冒，温病初起
 # 肺热咳嗽，燥热咳嗽
 # 肝阳上亢，头痛眩晕
