@@ -1,15 +1,27 @@
 created: 20231113055647463
 creator: KylePan
-modified: 20231113055746479
+difficulty: 5
+due: 20231128111346684
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231126111346684
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231126111346684
+stability: 2
+tags: 中药 ?
 title: 滑石
+type: text/vnd.tiddlywiki
 
 【药性】　甘、淡，寒。归膀胱、肺、胃经。
 
 【功效】　利尿通淋，清热解暑；外用祛湿敛疮。
 
 【应用】　
+
 # 热淋，石淋，尿热涩痛
 # 暑湿烦渴，湿温初起
 # 湿热水泻

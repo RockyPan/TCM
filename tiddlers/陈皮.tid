@@ -1,15 +1,27 @@
 created: 20231113055542215
 creator: KylePan
-modified: 20231123014650114
+difficulty: 5
+due: 20231128111324884
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231126111324884
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231126111324884
+stability: 2
+tags: 中药 ?
 title: 陈皮
+type: text/vnd.tiddlywiki
 
 【药性】　苦、辛，温。归脾、肺经。
 
 【功效】　理气健脾，燥湿化痰。
 
 【应用】
+
 # 脾胃气滞、湿阻之脘腹胀满、食少吐泻
 # 呕吐，呃逆
 # 湿痰寒痰，咳嗽痰多
