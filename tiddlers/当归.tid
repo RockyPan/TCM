@@ -1,15 +1,27 @@
 created: 20231113053146896
 creator: KylePan
-modified: 20231113053312828
+difficulty: 5
+due: 20231128025631686
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231126025631686
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231126025631685
+stability: 2
+tags: 中药 ?
 title: 当归
+type: text/vnd.tiddlywiki
 
 【药性】　甘、辛，温。归肝、心、脾经。
 
 【功效】　补血活血，调经止痛，润肠通便。
 
-【应用】　
+【应用】
+
 # 血虚萎黄，眩晕心悸
 # 血虚、血瘀之月经不调，经闭痛经
 # 虚寒腹痛，风湿痹痛，跌仆损伤，痈疽疮疡

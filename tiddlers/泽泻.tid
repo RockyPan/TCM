@@ -1,15 +1,27 @@
 created: 20231113053617256
 creator: KylePan
-modified: 20231113053734057
+difficulty: 5
+due: 20231128030106820
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231126030106820
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231126030106820
+stability: 2
+tags: 中药 ?
 title: 泽泻
+type: text/vnd.tiddlywiki
 
 【药性】　甘、淡，寒。归肾、膀胱经。
 
 【功效】　利水渗湿，泄热，化浊降脂。
 
-【应用】　
+【应用】
+
 # 水肿胀满，小便不利，泄泻尿少，痰饮眩晕
 # 热淋涩痛，遗精
 # 高脂血症

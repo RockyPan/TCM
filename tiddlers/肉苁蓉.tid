@@ -1,15 +1,27 @@
 created: 20231113053502456
 creator: KylePan
-modified: 20231113053609857
+difficulty: 5
+due: 20231128025953757
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231126025953757
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231126025953757
+stability: 2
+tags: 中药 ?
 title: 肉苁蓉
+type: text/vnd.tiddlywiki
 
 【药性】　甘、咸，温。归肾、大肠经。
 
 【功效】　补肾阳，益精血，润肠通便。
 
 【应用】
+
 # 肾阳不足，精血亏虚，阳痿不孕，腰膝酸软，筋骨无力
 # 肠燥便秘
 

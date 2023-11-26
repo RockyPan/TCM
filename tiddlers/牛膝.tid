@@ -1,15 +1,27 @@
 created: 20231113053320616
 creator: KylePan
-modified: 20231113053453481
+difficulty: 5
+due: 20231128025822081
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231126025822081
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231126025822081
+stability: 2
+tags: 中药 ?
 title: 牛膝
+type: text/vnd.tiddlywiki
 
 【药性】　苦、甘、酸，平。归肝、肾经。
 
 【功效】　逐瘀通经，补肝肾，强筋骨，利尿通淋，引血下行。
 
 【应用】
+
 # 瘀血阻滞之经闭，痛经，胞衣不下
 # 跌仆伤痛
 # 腰膝酸痛，筋骨无力

@@ -1,15 +1,27 @@
 created: 20231113053741927
 creator: KylePan
-modified: 20231113053904825
+difficulty: 5
+due: 20231128030243319
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231126030243319
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231126030243319
+stability: 2
+tags: 中药 ?
 title: 升麻
+type: text/vnd.tiddlywiki
 
 【药性】　辛、微甘，微寒。归肺、脾、胃、大肠经。
 
 【功效】　发表透疹，清热解毒，升举阳气。
 
 【应用】
+
 # 风热感冒，发热头痛
 # 麻疹不透
 # 齿痛，口疮，咽喉肿痛，阳毒发斑
