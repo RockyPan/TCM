@@ -1,15 +1,27 @@
 created: 20231113054257751
 creator: KylePan
-modified: 20231113054402960
+difficulty: 5
+due: 20231128102508473
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231126102508473
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231126102508473
+stability: 2
+tags: 中药 ?
 title: 甘遂
+type: text/vnd.tiddlywiki
 
 【药性】　苦，寒；有毒。归肺、肾、大肠经。
 
 【功效】　泻水逐饮，消肿散结。
 
 【应用】　
+
 # 水肿胀满，胸腹积水，痰饮积聚，气逆咳喘，二便不利
 # 风痰癫痫
 # 痈肿疮毒

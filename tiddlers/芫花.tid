@@ -1,15 +1,27 @@
 created: 20231113054140703
 creator: KylePan
-modified: 20231113054247432
+difficulty: 5
+due: 20231128102459706
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231126102459706
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231126102459706
+stability: 2
+tags: 中药 ?
 title: 芫花
+type: text/vnd.tiddlywiki
 
 【药性】　苦、辛，温；有毒。归肺、脾、肾经。
 
 【功效】　泻水逐饮，祛痰止咳；外用杀虫疗疮。
 
 【应用】　
+
 # 水肿胀满，胸腹积水，痰饮积聚，气逆咳喘，二便不利
 # 疥癣秃疮，痈肿，冻疮
 
