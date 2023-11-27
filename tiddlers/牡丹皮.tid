@@ -1,17 +1,17 @@
 created: 20231113040044452
 creator: KylePan
-difficulty: 5
-due: 20231127071752603
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20231203082636496
+grade: 1
+history: [{"due":"20231127071752603","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125071752603"}]
+interval: 2
 lapses: 0
-modified: 20231125071752603
+modified: 20231127082636496
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231125071752603
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20231127082636496
+stability: 5.512139752431654
 tags: 中药 ?
 title: 牡丹皮
 type: text/vnd.tiddlywiki
