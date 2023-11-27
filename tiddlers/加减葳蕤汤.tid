@@ -1,17 +1,17 @@
 created: 20231113034555204
 creator: KylePan
-difficulty: 5
-due: 20231127064303295
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20231203031301652
+grade: 1
+history: [{"due":"20231127064303295","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125064303295"}]
+interval: 2
 lapses: 0
-modified: 20231125064303295
+modified: 20231127031301652
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231125064303295
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20231127031301651
+stability: 5.512139752431654
 tags: 方剂 ?
 title: 加减葳蕤汤
 type: text/vnd.tiddlywiki

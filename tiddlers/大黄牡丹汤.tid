@@ -1,17 +1,17 @@
 created: 20231113035940388
 creator: KylePan
-difficulty: 5
-due: 20231127071746040
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231125071746040
+difficulty: 6.1000000000000005
+due: 20231128025642668
+grade: 0
+history: [{"due":"20231127071746040","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125071746040"}]
+interval: 2
+lapses: 1
+modified: 20231127025642668
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231125071746040
-stability: 2
+retrievability: 0.9
+review: 20231127025642668
+stability: 1.4816364413634358
 tags: 中药 ?
 title: 大黄牡丹汤
 type: text/vnd.tiddlywiki
