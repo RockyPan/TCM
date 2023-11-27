@@ -1,17 +1,17 @@
 created: 20231113034202500
 creator: KylePan
-difficulty: 5
-due: 20231127062543865
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20231203015337343
+grade: 1
+history: [{"due":"20231127062543865","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125062543865"}]
+interval: 2
 lapses: 0
-modified: 20231125062543865
+modified: 20231127015337343
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231125062543865
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20231127015337343
+stability: 5.512139752431654
 tags: 方剂 ?
 title: 柴葛解肌汤
 type: text/vnd.tiddlywiki
