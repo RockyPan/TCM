@@ -1,18 +1,18 @@
 caption: 
 created: 20231113033900892
 creator: KylePan
-difficulty: 5
-due: 20231127060832552
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231125060832552
+difficulty: 6.1000000000000005
+due: 20231128033205867
+grade: 0
+history: [{"due":"20231127060832552","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125060832552"}]
+interval: 2
+lapses: 1
+modified: 20231127033205867
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231125060832552
-stability: 2
+retrievability: 0.9
+review: 20231127033205867
+stability: 0.7778591317158038
 tags: 方剂 ?
 title: 麻黄杏仁甘草石膏汤
 type: text/vnd.tiddlywiki
