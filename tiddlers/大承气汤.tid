@@ -1,17 +1,17 @@
 created: 20231113035543244
 creator: KylePan
-difficulty: 5
-due: 20231127070545041
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231125070545041
+difficulty: 6.1000000000000005
+due: 20231128023707981
+grade: 0
+history: [{"due":"20231127070545041","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125070545041"}]
+interval: 2
+lapses: 1
+modified: 20231127023707981
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231125070545041
-stability: 2
+retrievability: 0.9
+review: 20231127023707981
+stability: 1.4816364413634358
 tags: 方剂 ?
 title: 大承气汤
 type: text/vnd.tiddlywiki
