@@ -1,17 +1,17 @@
 created: 20231113034043212
 creator: KylePan
-difficulty: 5
-due: 20231127060850794
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20231203085518206
+grade: 1
+history: [{"due":"20231127060850794","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125060850794"}]
+interval: 2
 lapses: 0
-modified: 20231125060850794
+modified: 20231127085518206
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231125060850794
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20231127085518206
+stability: 5.512139752431654
 tags: 中药 ?
 title: 石膏
 type: text/vnd.tiddlywiki
