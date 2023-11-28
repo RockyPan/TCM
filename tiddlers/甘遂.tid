@@ -1,17 +1,17 @@
 created: 20231113054257751
 creator: KylePan
-difficulty: 5
-due: 20231128102508473
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20231204013431530
+grade: 1
+history: [{"due":"20231128102508473","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102508473"}]
+interval: 2
 lapses: 0
-modified: 20231126102508473
+modified: 20231128013431530
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231126102508473
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20231128013431530
+stability: 5.512139752431654
 tags: 中药 ?
 title: 甘遂
 type: text/vnd.tiddlywiki
