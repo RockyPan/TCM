@@ -1,17 +1,17 @@
 created: 20231113054140703
 creator: KylePan
-difficulty: 5
-due: 20231128102459706
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20231204094308472
+grade: 1
+history: [{"due":"20231128102459706","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102459706"}]
+interval: 2
 lapses: 0
-modified: 20231126102459706
+modified: 20231128094308472
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231126102459706
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20231128094308472
+stability: 5.512139752431654
 tags: 中药 ?
 title: 芫花
 type: text/vnd.tiddlywiki

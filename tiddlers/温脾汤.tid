@@ -1,17 +1,17 @@
 created: 20231113052607464
 creator: KylePan
-difficulty: 6.1000000000000005
-due: 20231128090802438
+difficulty: 7.173323393532753
+due: 20231129093856042
 grade: 0
-history: [{"due":"20231127131526273","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125131526272"}]
-interval: 2
-lapses: 1
-modified: 20231127090802438
+history: [{"due":"20231127131526273","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125131526272"},{"due":"20231128090802438","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231127090802438"}]
+interval: 1
+lapses: 2
+modified: 20231128093856042
 modifier: KylePan
 reps: 1
-retrievability: 0.9
-review: 20231127090802438
-stability: 0.7778591317158038
+retrievability: 0.8733233935327525
+review: 20231128093856042
+stability: 0.5762522178987278
 tags: 方剂 ?
 title: 温脾汤
 type: text/vnd.tiddlywiki
