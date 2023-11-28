@@ -1,17 +1,17 @@
 created: 20231113053039544
 creator: KylePan
-difficulty: 5
-due: 20231128025452899
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20231204031900423
+grade: 1
+history: [{"due":"20231128025452899","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126025452899"}]
+interval: 2
 lapses: 0
-modified: 20231126025452899
+modified: 20231128031900423
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231126025452899
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20231128031900423
+stability: 5.512139752431654
 tags: 方剂 ?
 title: 济川煎
 type: text/vnd.tiddlywiki

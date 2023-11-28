@@ -1,18 +1,18 @@
 caption: 
 created: 20231113054411000
 creator: KylePan
-difficulty: 5
-due: 20231128102513686
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20231204031929278
+grade: 1
+history: [{"due":"20231128102513686","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102513686"}]
+interval: 2
 lapses: 0
-modified: 20231126102513686
+modified: 20231128031929279
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231126102513686
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20231128031929278
+stability: 5.512139752431654
 tags: 中药 ?
 title: 京大戟
 type: text/vnd.tiddlywiki
