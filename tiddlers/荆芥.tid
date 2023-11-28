@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20231117103732662","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115103732662"}]
 interval: 9
 lapses: 0
-modified: 20231124124136247
+modified: 20231128054619897
 modifier: KylePan
 reps: 2
 retrievability: 0.6224311118509421
@@ -15,6 +15,8 @@ stability: 17.93125127850223
 tags: 中药 ?
 title: 荆芥
 type: text/vnd.tiddlywiki
+
+一
 
 【药性】　辛，微温。归肺、肝经。
 
