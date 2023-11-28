@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20231116014229462","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014229462"}]
 interval: 10
 lapses: 0
-modified: 20231124104556716
+modified: 20231128055454273
 modifier: KylePan
 reps: 2
 retrievability: 0.5904900000000001
@@ -15,6 +15,8 @@ stability: 19.657456432345345
 tags: 中药 ?
 title: 羌活
 type: text/vnd.tiddlywiki
+
+一
 
 【药性】　辛、苦，温。归膀胱、肾经。
 
@@ -26,3 +28,7 @@ type: text/vnd.tiddlywiki
 # 风寒湿痹，肩背酸痛
 
 分类：解表药 发散风寒药
+
+---
+
+[[羌活]] [[独活]] [[藁本]] 都治 风 寒 湿

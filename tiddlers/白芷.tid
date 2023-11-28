@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20231116014526565","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014526565"},{"due":"20231122073043903","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116073043902"}]
 interval: 9
 lapses: 0
-modified: 20231125040256738
+modified: 20231128055903576
 modifier: KylePan
 reps: 3
 retrievability: 0.8419552523282889
@@ -15,6 +15,8 @@ stability: 18.30502694108274
 tags: 中药 ?
 title: 白芷
 type: text/vnd.tiddlywiki
+
+一
 
 【药性】　辛，温。归肺、胃、大肠经。
 

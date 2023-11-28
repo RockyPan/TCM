@@ -1,17 +1,17 @@
 created: 20231113053741927
 creator: KylePan
-difficulty: 5
-due: 20231128030243319
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231126030243319
+difficulty: 6.1000000000000005
+due: 20231129060505344
+grade: 0
+history: [{"due":"20231128030243319","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126030243319"}]
+interval: 2
+lapses: 1
+modified: 20231128060505344
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231126030243319
-stability: 2
+retrievability: 0.9
+review: 20231128060505344
+stability: 0.7778591317158038
 tags: 中药 ?
 title: 升麻
 type: text/vnd.tiddlywiki

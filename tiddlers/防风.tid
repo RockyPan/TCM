@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20231116014246029","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014246029"},{"due":"20231122082206349","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116082206348"}]
 interval: 9
 lapses: 0
-modified: 20231125040807282
+modified: 20231128055033321
 modifier: KylePan
 reps: 3
 retrievability: 0.8419552523282889
@@ -15,6 +15,8 @@ stability: 18.30502694108274
 tags: 中药 ?
 title: 防风
 type: text/vnd.tiddlywiki
+
+一
 
 【药性】　辛、甘，微温。归膀胱、肝、脾经。
 
