@@ -1,17 +1,17 @@
 created: 20231113053502456
 creator: KylePan
-difficulty: 5
-due: 20231128025953757
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20231204033542902
+grade: 1
+history: [{"due":"20231128025953757","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126025953757"}]
+interval: 2
 lapses: 0
-modified: 20231126025953757
+modified: 20231128033542902
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231126025953757
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20231128033542902
+stability: 5.512139752431654
 tags: 中药 ?
 title: 肉苁蓉
 type: text/vnd.tiddlywiki
