@@ -1,8 +1,18 @@
 created: 20231113060153255
 creator: KylePan
-modified: 20231113060253519
+difficulty: 3.7478003092274337
+due: 20231130031811653
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231129031811653
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231129031811653
+stability: 1.05
+tags: 中药 ?
 title: 白术
 
 【药性】　甘、苦，温。归脾、胃经。
@@ -10,6 +20,7 @@ title: 白术
 【功效】　补气健脾，燥湿利水，止汗，安胎。
 
 【应用】　
+
 # 脾气虚弱，食少倦怠，腹胀泄泻，痰饮病眩晕心悸，水肿，带下
 # 气虚自汗
 # 脾虚胎动不安
