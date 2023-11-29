@@ -1,8 +1,18 @@
 created: 20231113060933829
 creator: KylePan
-modified: 20231113061110439
+difficulty: 3.7478003092274337
+due: 20231130061106368
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231129061106368
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231129061106368
+stability: 1.05
+tags: 中药 ?
 title: 知母
 
 【药性】　苦、甘，寒。归肺、胃、肾经。
@@ -10,6 +20,7 @@ title: 知母
 【功效】　清热泻火，滋阴润燥。
 
 【应用】　
+
 # 外感热病，高热烦渴
 # 肺热咳嗽，阴虚燥咳
 # 骨蒸潮热
