@@ -1,17 +1,17 @@
 created: 20231113055031279
 creator: KylePan
-difficulty: 6.1000000000000005
-due: 20231129031503255
+difficulty: 7.173323393532753
+due: 20231130014043750
 grade: 0
-history: [{"due":"20231128111023241","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126111023241"}]
-interval: 2
-lapses: 1
-modified: 20231128031503255
+history: [{"due":"20231128111023241","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126111023241"},{"due":"20231129031503255","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128031503255"}]
+interval: 1
+lapses: 2
+modified: 20231129014043750
 modifier: KylePan
 reps: 1
-retrievability: 0.9
-review: 20231128031503255
-stability: 0.7778591317158038
+retrievability: 0.8733233935327525
+review: 20231129014043750
+stability: 0.5762522178987278
 tags: 方剂 ?
 title: 蒿芩清胆汤
 type: text/vnd.tiddlywiki
