@@ -1,17 +1,17 @@
 created: 20231113035543244
 creator: KylePan
-difficulty: 7.231358589403242
-due: 20231129012210539
-grade: 0
-history: [{"due":"20231127070545041","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125070545041"},{"due":"20231128023707981","interval":2,"difficulty":6.1000000000000005,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231127023707981"}]
+difficulty: 7.264262079851663
+due: 20231201011714066
+grade: 1
+history: [{"due":"20231127070545041","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125070545041"},{"due":"20231128023707981","interval":2,"difficulty":6.1000000000000005,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231127023707981"},{"due":"20231129012210539","interval":1,"difficulty":7.231358589403242,"stability":0.5762522178987278,"retrievability":0.9313585894032408,"grade":0,"lapses":2,"reps":1,"review":"20231128012210539"}]
 interval: 1
 lapses: 2
-modified: 20231128012210540
+modified: 20231129011714066
 modifier: KylePan
-reps: 1
-retrievability: 0.9313585894032408
-review: 20231128012210539
-stability: 0.5762522178987278
+reps: 2
+retrievability: 0.8329034904484198
+review: 20231129011714065
+stability: 2.3283742217317447
 tags: 方剂 ?
 title: 大承气汤
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231113035940388
 creator: KylePan
-difficulty: 7.231358589403242
-due: 20231129013223106
-grade: 0
-history: [{"due":"20231127071746040","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125071746040"},{"due":"20231128025642668","interval":2,"difficulty":6.1000000000000005,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231127025642668"}]
+difficulty: 7.264262079851663
+due: 20231201012028434
+grade: 1
+history: [{"due":"20231127071746040","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125071746040"},{"due":"20231128025642668","interval":2,"difficulty":6.1000000000000005,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231127025642668"},{"due":"20231129013223106","interval":1,"difficulty":7.231358589403242,"stability":0.5762522178987278,"retrievability":0.9313585894032408,"grade":0,"lapses":2,"reps":1,"review":"20231128013223106"}]
 interval: 1
 lapses: 2
-modified: 20231128013223106
+modified: 20231129012028434
 modifier: KylePan
-reps: 1
-retrievability: 0.9313585894032408
-review: 20231128013223106
-stability: 0.5762522178987278
+reps: 2
+retrievability: 0.8329034904484198
+review: 20231129012028434
+stability: 2.3283742217317447
 tags: 中药 ?
 title: 大黄牡丹汤
 type: text/vnd.tiddlywiki
