@@ -1,17 +1,17 @@
 created: 20231113054813031
 creator: KylePan
-difficulty: 6.1000000000000005
-due: 20231129094234146
+difficulty: 7.173323393532753
+due: 20231130023648184
 grade: 0
-history: [{"due":"20231128104115586","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126104115586"}]
-interval: 2
-lapses: 1
-modified: 20231128094234146
+history: [{"due":"20231128104115586","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126104115586"},{"due":"20231129094234146","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128094234146"}]
+interval: 1
+lapses: 2
+modified: 20231129023648184
 modifier: KylePan
 reps: 1
-retrievability: 0.9
-review: 20231128094234146
-stability: 0.7778591317158038
+retrievability: 0.8733233935327525
+review: 20231129023648184
+stability: 0.5762522178987278
 tags: 方剂 ?
 title: 小柴胡汤
 type: text/vnd.tiddlywiki
