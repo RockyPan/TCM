@@ -1,17 +1,17 @@
 created: 20231113054016296
 creator: KylePan
-difficulty: 6.1000000000000005
-due: 20231129093634634
-grade: 0
-history: [{"due":"20231128102452166","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102452166"}]
-interval: 2
+difficulty: 6.173323393532753
+due: 20231202022759289
+grade: 1
+history: [{"due":"20231128102452166","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102452166"},{"due":"20231129093634634","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128093634634"}]
+interval: 1
 lapses: 1
-modified: 20231128093634635
+modified: 20231129022759289
 modifier: KylePan
-reps: 1
-retrievability: 0.9
-review: 20231128093634634
-stability: 0.7778591317158038
+reps: 2
+retrievability: 0.8733233935327525
+review: 20231129022759289
+stability: 2.631403264144997
 tags: 方剂 ?
 title: 十枣汤
 type: text/vnd.tiddlywiki
