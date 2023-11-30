@@ -1,8 +1,18 @@
 created: 20231113091742826
 creator: KylePan
-modified: 20231113091900664
+difficulty: 3.7478003092274337
+due: 20231201034832367
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231130034832367
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231130034832367
+stability: 1.05
+tags: 中药 ?
 title: 栀子
 
 【药性】　苦，寒。归心、肺、三焦经。
@@ -10,6 +20,7 @@ title: 栀子
 【功效】　泻火除烦，清热利湿，凉血解毒；外用消肿止痛。
 
 【应用】　
+
 # 热病烦闷
 # 湿热黄疸
 # 淋证涩痛

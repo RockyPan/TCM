@@ -1,8 +1,18 @@
 created: 20231113091622696
 creator: KylePan
-modified: 20231113091733960
+difficulty: 3.7478003092274337
+due: 20231201034806885
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231130034806885
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231130034806885
+stability: 1.05
+tags: 中药 ?
 title: 黄柏
 
 【药性】　苦，寒。归肾、膀胱经。
@@ -10,6 +20,7 @@ title: 黄柏
 【功效】　清热燥湿，泻火解毒，除骨蒸。
 
 【应用】　
+
 # 湿热泻痢，黄疸尿赤，带下阴痒，热淋涩痛，脚气痿躄
 # 骨蒸劳热，盗汗，遗精
 # 疮疡肿毒，湿疹湿疮

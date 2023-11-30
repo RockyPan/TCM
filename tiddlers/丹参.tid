@@ -1,8 +1,18 @@
 created: 20231113072129701
 creator: KylePan
-modified: 20231113072735324
+difficulty: 3.7478003092274337
+due: 20231201033212730
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231130033212730
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231130033212730
+stability: 1.05
+tags: 中药 ?
 title: 丹参
 
 【药性】　苦，微寒。归心、肝经。
@@ -10,6 +20,7 @@ title: 丹参
 【功效】　活血祛瘀，通经止痛，清心除烦，凉血消痈。
 
 【应用】　
+
 # 瘀血阻滞之月经不调，痛经经闭，产后腹痛
 # 血瘀胸痹心痛，脘腹胁痛，癥瘕积聚，跌打损伤，热痹疼痛
 # 疮痈肿痛

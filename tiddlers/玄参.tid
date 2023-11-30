@@ -1,8 +1,18 @@
 created: 20231113072018948
 creator: KylePan
-modified: 20231113072120372
+difficulty: 3.7478003092274337
+due: 20231201033119169
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231130033119169
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231130033119169
+stability: 1.05
+tags: 中药 ?
 title: 玄参
 
 【药性】　甘、苦、咸，微寒。归肺、胃、肾经。
@@ -10,6 +20,7 @@ title: 玄参
 【功效】　清热凉血，滋阴降火，解毒散结。
 
 【应用】
+
 # 热入营血，温毒发斑
 # 热病伤阴，舌绛烦渴，津伤便秘，骨蒸劳嗽
 # 目赤肿痛，咽喉肿痛，白喉，瘰疬，痈肿疮毒
