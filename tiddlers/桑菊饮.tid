@@ -1,17 +1,17 @@
 created: 20231113033215733
 creator: KylePan
-difficulty: 8.206226883981172
-due: 20231130022508121
-grade: 0
-history: [{"due":"20231127055046505","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125055046505"},{"due":"20231128085403783","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231127085403783"},{"due":"20231129060443585","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231128060443585"}]
+difficulty: 8.187520062051549
+due: 20231202012853953
+grade: 1
+history: [{"due":"20231127055046505","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125055046505"},{"due":"20231128085403783","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231127085403783"},{"due":"20231129060443585","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231128060443585"},{"due":"20231130022508121","interval":1,"difficulty":8.206226883981172,"stability":0.42689814272762916,"retrievability":0.8329034904484198,"grade":0,"lapses":3,"reps":1,"review":"20231129022508121"}]
 interval: 1
 lapses: 3
-modified: 20231129022508122
+modified: 20231130012853953
 modifier: KylePan
-reps: 1
-retrievability: 0.8329034904484198
-review: 20231129022508121
-stability: 0.42689814272762916
+reps: 2
+retrievability: 0.7812931780703785
+review: 20231130012853953
+stability: 2.1307158513606046
 tags: 方剂 ?
 title: 桑菊饮
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 
 __桑菊饮中桔杏翘，芦根甘草薄荷饶，清疏肺卫轻宣剂，风温咳嗽服之消。__
 
-__茶叶杏花，草根更俏。__
+__荷叶杏花，草根更俏。__
 
 【组成】[[桑叶]]二钱五分(7.5g)　[[菊花]]一钱(3g)　[[杏仁|苦杏仁]]二钱(6g)　[[连翘]]一钱五分(5g)　[[薄荷]]八分(2.5g)　苦[[桔梗]]二钱(6g)　生[[甘草]]八分(2.5g)　苇根（[[芦根]]）二钱(6g)
 

@@ -1,17 +1,17 @@
 created: 20231113053741927
 creator: KylePan
-difficulty: 7.173323393532753
-due: 20231130022526433
+difficulty: 8.206226883981172
+due: 20231201012919104
 grade: 0
-history: [{"due":"20231128030243319","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126030243319"},{"due":"20231129060505344","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128060505344"}]
+history: [{"due":"20231128030243319","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126030243319"},{"due":"20231129060505344","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128060505344"},{"due":"20231130022526433","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231129022526433"}]
 interval: 1
-lapses: 2
-modified: 20231129022526433
+lapses: 3
+modified: 20231130012919104
 modifier: KylePan
 reps: 1
-retrievability: 0.8733233935327525
-review: 20231129022526433
-stability: 0.5762522178987278
+retrievability: 0.8329034904484198
+review: 20231130012919104
+stability: 0.42689814272762916
 tags: 中药 ?
 title: 升麻
 type: text/vnd.tiddlywiki
