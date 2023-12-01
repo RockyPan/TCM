@@ -1,17 +1,17 @@
 created: 20231113060045079
 creator: KylePan
-difficulty: 4.852327106252045
-due: 20231201014406167
+difficulty: 5.925650499784798
+due: 20231202030107792
 grade: 0
-history: [{"due":"20231130031600300","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129031600300"}]
+history: [{"due":"20231130031600300","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129031600300"},{"due":"20231201014406167","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231130014406167"}]
 interval: 1
-lapses: 1
-modified: 20231130014406167
+lapses: 2
+modified: 20231201030107792
 modifier: KylePan
 reps: 1
-retrievability: 0.9045267970246111
-review: 20231130014406167
-stability: 0.7778591317158038
+retrievability: 0.8733233935327525
+review: 20231201030107792
+stability: 0.5762522178987278
 tags: 方剂 ?
 title: 逍遥散
 type: text/vnd.tiddlywiki

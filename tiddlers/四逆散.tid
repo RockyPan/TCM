@@ -1,17 +1,17 @@
 created: 20231113055952246
 creator: KylePan
-difficulty: 4.852327106252045
-due: 20231201013318864
+difficulty: 5.925650499784798
+due: 20231202024825002
 grade: 0
-history: [{"due":"20231130025234072","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129025234072"}]
+history: [{"due":"20231130025234072","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129025234072"},{"due":"20231201013318864","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231130013318864"}]
 interval: 1
-lapses: 1
-modified: 20231130013318864
+lapses: 2
+modified: 20231201024825002
 modifier: KylePan
 reps: 1
-retrievability: 0.9045267970246111
-review: 20231130013318864
-stability: 0.7778591317158038
+retrievability: 0.8733233935327525
+review: 20231201024825002
+stability: 0.5762522178987278
 tags: 方剂 ?
 title: 四逆散
 type: text/vnd.tiddlywiki

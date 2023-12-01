@@ -1,17 +1,17 @@
 created: 20231113072018948
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231201033119169
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231130033119169
+difficulty: 4.852327106252045
+due: 20231202030256353
+grade: 0
+history: [{"due":"20231201033119169","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130033119169"}]
+interval: 1
+lapses: 1
+modified: 20231201030256353
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231130033119169
-stability: 1.05
+retrievability: 0.9045267970246111
+review: 20231201030256353
+stability: 0.7778591317158038
 tags: 中药 ?
 title: 玄参
 
