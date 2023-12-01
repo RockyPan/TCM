@@ -1,18 +1,18 @@
 caption: 
 created: 20231113033900892
 creator: KylePan
-difficulty: 7.206226883981173
-due: 20231201014630470
+difficulty: 7.320048849594188
+due: 20231206020127002
 grade: 1
-history: [{"due":"20231127060832552","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125060832552"},{"due":"20231128033205867","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231127033205867"},{"due":"20231129032552031","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231128032552031"}]
-interval: 1
+history: [{"due":"20231127060832552","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125060832552"},{"due":"20231128033205867","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231127033205867"},{"due":"20231129032552031","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231128032552031"},{"due":"20231201014630470","interval":1,"difficulty":7.206226883981173,"stability":2.338239805239507,"retrievability":0.8329034904484198,"grade":1,"lapses":2,"reps":2,"review":"20231129014630470"}]
+interval: 2
 lapses: 2
-modified: 20231129014630470
+modified: 20231201020127002
 modifier: KylePan
-reps: 2
-retrievability: 0.8329034904484198
-review: 20231129014630470
-stability: 2.338239805239507
+reps: 3
+retrievability: 0.9138219656130142
+review: 20231201020127002
+stability: 4.982760637233665
 tags: 方剂 ?
 title: 麻黄杏仁甘草石膏汤
 type: text/vnd.tiddlywiki
