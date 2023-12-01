@@ -1,9 +1,19 @@
 caption: 
 created: 20231113094324039
 creator: KylePan
-modified: 20231113094614495
+difficulty: 3.7478003092274337
+due: 20231202032351829
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231201032351829
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231201032351829
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 皂荚
 
 【药性】　辛、咸，温；有小毒。归肺、大肠经。
@@ -11,6 +21,7 @@ title: 皂荚
 【功效】　祛痰开窍，散结消肿。
 
 【应用】　
+
 # 中风口噤，昏迷不醒，癫痫痰盛，关窍不通，痰阻喉痹
 # 顽痰喘咳，咳痰不爽
 # 大便燥结

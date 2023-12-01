@@ -1,8 +1,18 @@
 created: 20231113095021743
 creator: KylePan
-modified: 20231113095058824
+difficulty: 3.7478003092274337
+due: 20231202032548113
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231201032548113
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231201032548113
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 没药
 
 【药性】　辛、苦，平。归心、肝、脾经。
@@ -10,6 +20,7 @@ title: 没药
 【功效】　活血定痛，消肿生肌。
 
 【应用】
+
 # 跌打损伤，痈肿疮疡 
 # 气滞血瘀，胸痹心痛，胃脘疼痛，痛经经闭，产后瘀阻，癥瘕腹痛，风湿痹痛，筋脉拘挛
 

@@ -1,8 +1,18 @@
 created: 20231113094804031
 creator: KylePan
-modified: 20231113094907951
+difficulty: 3.7478003092274337
+due: 20231202032456282
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231201032456282
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231201032456282
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 天花粉
 
 【药性】　甘、微苦，微寒。归肺、胃经。
@@ -10,6 +20,7 @@ title: 天花粉
 【功效】　清热泻火，生津止渴，消肿排脓。
 
 【应用】　
+
 # 热病烦渴
 # 肺热燥咳
 # 内热消渴

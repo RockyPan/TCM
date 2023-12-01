@@ -1,8 +1,18 @@
 created: 20231114005355831
 creator: KylePan
-modified: 20231114005508582
+difficulty: 3.7478003092274337
+due: 20231202033353655
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231201033353655
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231201033353655
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 木通
 
 【药性】　苦，寒。归心、小肠、膀胱经。
@@ -10,6 +20,7 @@ title: 木通
 【功效】　利尿通淋，清心除烦，通经下乳。
 
 【应用】　
+
 # 淋证，水肿
 # 心烦尿赤，口舌生疮
 # 经闭乳少，湿热痹痛
