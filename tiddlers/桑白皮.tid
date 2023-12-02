@@ -1,15 +1,27 @@
 created: 20231114005801825
 creator: KylePan
-modified: 20231114005858965
+difficulty: 3.7478003092274337
+due: 20231203042218678
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231202042218678
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231202042218678
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 桑白皮
+type: text/vnd.tiddlywiki
 
 【药性】　甘，寒。归肺经。
 
 【功效】　泻肺平喘，利水消肿。
 
 【应用】
+
 # 肺热喘咳
 # 水肿胀满尿少，面目肌肤浮肿
 

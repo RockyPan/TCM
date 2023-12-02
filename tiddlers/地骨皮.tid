@@ -1,15 +1,27 @@
 created: 20231114005637253
 creator: KylePan
-modified: 20231114005753550
+difficulty: 3.7478003092274337
+due: 20231203042200429
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231202042200429
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231202042200429
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 地骨皮
+type: text/vnd.tiddlywiki
 
 【药性】　甘，寒。归肺、肝、肾经。
 
 【功效】　凉血除蒸，清肺降火。
 
 【应用】　
+
 # 阴虚潮热，骨蒸盗汗
 # 肺热咳嗽
 # 血热咳血衄血

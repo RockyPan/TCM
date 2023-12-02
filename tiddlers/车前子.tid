@@ -1,15 +1,27 @@
 created: 20231114010230925
 creator: KylePan
-modified: 20231114010339694
+difficulty: 3.7478003092274337
+due: 20231203042259341
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231202042259341
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231202042259341
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 车前子
+type: text/vnd.tiddlywiki
 
 【药性】　甘，寒。归肝、肾、肺、小肠经。
 
 【功效】　清热利尿通淋，渗湿止泻，明目，祛痰。
 
 【应用】　
+
 # 热淋涩痛，水肿胀满
 # 暑湿泄泻
 # 目赤肿痛，目暗昏花
