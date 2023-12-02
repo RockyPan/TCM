@@ -1,15 +1,27 @@
 created: 20231114011157037
 creator: KylePan
-modified: 20231114011250941
+difficulty: 3.7478003092274337
+due: 20231203073612927
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231202073612927
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231202073612927
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 槟榔
+type: text/vnd.tiddlywiki
 
 【药性】　苦、辛，温。归胃、大肠经。
 
 【功效】　杀虫，消积，行气，利水，截疟。
 
 【应用】　
+
 # 绦虫病，蛔虫病，姜片虫病，虫积腹痛
 # 食积气滞，腹胀便秘，泻痢后重
 # 水肿，脚气肿痛

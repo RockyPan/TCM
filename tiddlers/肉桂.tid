@@ -1,15 +1,27 @@
 created: 20231114011457869
 creator: KylePan
-modified: 20231114011604437
+difficulty: 3.7478003092274337
+due: 20231203073716892
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231202073716892
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231202073716892
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 肉桂
+type: text/vnd.tiddlywiki
 
 【药性】　辛、甘，大热。归肾、脾、心、肝经。
 
 【功效】　补火助阳，散寒止痛，温通经脉，引火归元。
 
 【应用】　
+
 # 肾阳不足，命门火衰，阳痿宫冷，腰膝冷痛
 # 心腹冷痛，虚寒吐泻，寒疝腹痛
 # 冲任虚寒、寒凝血滞之痛经经闭，寒湿痹痛，阴疽流注

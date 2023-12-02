@@ -1,15 +1,27 @@
 created: 20231114010927918
 creator: KylePan
-modified: 20231114011022293
+difficulty: 3.7478003092274337
+due: 20231203072815283
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231202072815283
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231202072815283
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 秦皮
+type: text/vnd.tiddlywiki
 
 【药性】　苦、涩，寒。归肝、胆、大肠经。
 
 【功效】　清热燥湿，收涩止痢，止带，明目。
 
 【应用】　
+
 # 湿热泻痢，赤白带下
 # 肝热目赤肿痛，目生翳膜
 

@@ -1,15 +1,27 @@
 created: 20231114011300149
 creator: KylePan
-modified: 20231114011429125
+difficulty: 3.7478003092274337
+due: 20231203073635156
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231202073635156
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231202073635156
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 木香
+type: text/vnd.tiddlywiki
 
 【药性】　辛、苦，温。归脾、胃、大肠、三焦、胆经。
 
 【功效】　行气止痛，健脾消食。
 
 【应用】
+
 # 脾胃气滞，脘腹胀痛，食积不消，不思饮食
 # 泻痢后重
 # 胸胁胀痛，黄疸，疝气疼痛
