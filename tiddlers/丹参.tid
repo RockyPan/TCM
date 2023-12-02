@@ -1,19 +1,20 @@
 created: 20231113072129701
 creator: KylePan
-difficulty: 4.852327106252045
-due: 20231202012557475
-grade: 0
-history: [{"due":"20231201033212730","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130033212730"}]
+difficulty: 4.925650499784798
+due: 20231205024603330
+grade: 1
+history: [{"due":"20231201033212730","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130033212730"},{"due":"20231202012557475","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201012557475"}]
 interval: 1
 lapses: 1
-modified: 20231201012557475
+modified: 20231202024603330
 modifier: KylePan
-reps: 1
-retrievability: 0.9045267970246111
-review: 20231201012557475
-stability: 0.7778591317158038
+reps: 2
+retrievability: 0.8733233935327525
+review: 20231202024603328
+stability: 2.94876871382978
 tags: 中药 ?
 title: 丹参
+type: text/vnd.tiddlywiki
 
 【药性】　苦，微寒。归心、肝经。
 

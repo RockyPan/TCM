@@ -1,19 +1,20 @@
 created: 20231113060153255
 creator: KylePan
-difficulty: 5.925650499784798
-due: 20231202011439339
+difficulty: 6.958553990233217
+due: 20231203023639528
 grade: 0
-history: [{"due":"20231130031811653","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129031811653"},{"due":"20231201005811404","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231130005811404"}]
+history: [{"due":"20231130031811653","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129031811653"},{"due":"20231201005811404","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231130005811404"},{"due":"20231202011439339","interval":1,"difficulty":5.925650499784798,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231201011439339"}]
 interval: 1
-lapses: 2
-modified: 20231201011439339
+lapses: 3
+modified: 20231202023639531
 modifier: KylePan
 reps: 1
-retrievability: 0.8733233935327525
-review: 20231201011439339
-stability: 0.5762522178987278
+retrievability: 0.8329034904484198
+review: 20231202023639519
+stability: 0.23377755435084455
 tags: 中药 ?
 title: 白术
+type: text/vnd.tiddlywiki
 
 【药性】　甘、苦，温。归脾、胃经。
 
