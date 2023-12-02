@@ -1,19 +1,20 @@
 created: 20231113091742826
 creator: KylePan
-difficulty: 4.852327106252045
-due: 20231202030344840
+difficulty: 5.833200464434024
+due: 20231203041221409
 grade: 0
-history: [{"due":"20231201034832367","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130034832367"}]
+history: [{"due":"20231201034832367","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130034832367"},{"due":"20231202030344840","interval":1,"difficulty":4.852327106252045,"stability":0.4259704768919878,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201030344840"}]
 interval: 1
-lapses: 1
-modified: 20231201030344840
+lapses: 2
+modified: 20231202041221410
 modifier: KylePan
 reps: 1
-retrievability: 0.9045267970246111
-review: 20231201030344840
-stability: 0.4259704768919878
+retrievability: 0.780873358181979
+review: 20231202041221408
+stability: 0.3155666907540653
 tags: 中药 ?
 title: 栀子
+type: text/vnd.tiddlywiki
 
 【药性】　苦，寒。归心、肺、三焦经。
 

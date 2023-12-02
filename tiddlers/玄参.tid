@@ -1,19 +1,20 @@
 created: 20231113072018948
 creator: KylePan
-difficulty: 4.852327106252045
-due: 20231202030256353
-grade: 0
-history: [{"due":"20231201033119169","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130033119169"}]
+difficulty: 4.925650499784798
+due: 20231205041046486
+grade: 1
+history: [{"due":"20231201033119169","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130033119169"},{"due":"20231202030256353","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201030256353"}]
 interval: 1
 lapses: 1
-modified: 20231201030256353
+modified: 20231202041046487
 modifier: KylePan
-reps: 1
-retrievability: 0.9045267970246111
-review: 20231201030256353
-stability: 0.7778591317158038
+reps: 2
+retrievability: 0.8733233935327525
+review: 20231202041046484
+stability: 2.94876871382978
 tags: 中药 ?
 title: 玄参
+type: text/vnd.tiddlywiki
 
 【药性】　甘、苦、咸，微寒。归肺、胃、肾经。
 

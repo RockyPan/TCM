@@ -1,19 +1,20 @@
 created: 20231113094117390
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231202032322614
-grade: -1
-history: []
-interval: 0
+difficulty: 3.780372221787294
+due: 20231205041202701
+grade: 1
+history: [{"due":"20231202032322614","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032322614"}]
+interval: 1
 lapses: 0
-modified: 20231201032322614
+modified: 20231202041202701
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231201032322614
-stability: 0.5750000000000001
+reps: 2
+retrievability: 0.8325719125598604
+review: 20231202041202700
+stability: 3.3438749088254522
 tags: 中药 ?
 title: 浙贝母
+type: text/vnd.tiddlywiki
 
 【药性】　苦，寒。归肺、心经。
 

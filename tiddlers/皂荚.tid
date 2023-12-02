@@ -1,20 +1,21 @@
 caption: 
 created: 20231113094324039
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231202032351829
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231201032351829
+difficulty: 4.780372221787294
+due: 20231203041104151
+grade: 0
+history: [{"due":"20231202032351829","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032351829"}]
+interval: 1
+lapses: 1
+modified: 20231202041104151
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231201032351829
-stability: 0.5750000000000001
+retrievability: 0.8325719125598604
+review: 20231202041104148
+stability: 0.4259704768919878
 tags: 中药 ?
 title: 皂荚
+type: text/vnd.tiddlywiki
 
 【药性】　辛、咸，温；有小毒。归肺、大肠经。
 

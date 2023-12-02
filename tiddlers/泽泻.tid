@@ -1,17 +1,17 @@
 created: 20231113053617256
 creator: KylePan
-difficulty: 9.187520062051549
-due: 20231202030318896
+difficulty: 9.931760645969105
+due: 20231203041117568
 grade: 0
-history: [{"due":"20231128030106820","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126030106820"},{"due":"20231129094327032","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128094327032"},{"due":"20231130023659400","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231129023659399"},{"due":"20231201014651798","interval":1,"difficulty":8.206226883981172,"stability":0.42689814272762916,"retrievability":0.8329034904484198,"grade":0,"lapses":3,"reps":1,"review":"20231130014651798"}]
+history: [{"due":"20231128030106820","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126030106820"},{"due":"20231129094327032","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128094327032"},{"due":"20231130023659400","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231129023659399"},{"due":"20231201014651798","interval":1,"difficulty":8.206226883981172,"stability":0.42689814272762916,"retrievability":0.8329034904484198,"grade":0,"lapses":3,"reps":1,"review":"20231130014651798"},{"due":"20231202030318896","interval":1,"difficulty":9.187520062051549,"stability":0.17318667184951622,"retrievability":0.7812931780703785,"grade":0,"lapses":4,"reps":1,"review":"20231201030318896"}]
 interval: 1
-lapses: 4
-modified: 20231201030318897
+lapses: 5
+modified: 20231202041117568
 modifier: KylePan
 reps: 1
-retrievability: 0.7812931780703785
-review: 20231201030318896
-stability: 0.17318667184951622
+retrievability: 0.5442405839175557
+review: 20231202041117560
+stability: 0.12829984208534717
 tags: 中药 ?
 title: 泽泻
 type: text/vnd.tiddlywiki
