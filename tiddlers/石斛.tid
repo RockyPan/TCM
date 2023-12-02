@@ -1,15 +1,27 @@
 created: 20231114012122084
 creator: KylePan
-modified: 20231114012217637
+difficulty: 3.7478003092274337
+due: 20231203075545988
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231202075545988
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231202075545988
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 石斛
+type: text/vnd.tiddlywiki
 
 【药性】　甘，微寒。归胃、肾经。
 
 【功效】　益胃生津，滋阴清热。
 
 【应用】
+
 # 热病津伤，口干烦渴，胃阴不足，食少干呕，病后虚热不退
 # 肾阴亏虚、目暗不明、筋骨痿软，阴虚火旺、骨蒸劳热
 

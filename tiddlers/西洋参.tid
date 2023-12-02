@@ -1,15 +1,27 @@
 created: 20231114011951940
 creator: KylePan
-modified: 20231114012114173
+difficulty: 3.7478003092274337
+due: 20231203075525733
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231202075525733
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231202075525733
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 西洋参
+type: text/vnd.tiddlywiki
 
 【药性】　甘、微苦，凉。归心、肺、肾经。
 
 【功效】　补气养阴，清热生津。
 
 【应用】　
+
 # 气阴两脱证
 # 气虚阴亏，虚热烦倦，咳喘痰血
 # 气虚津伤，口燥咽干，内热消渴
