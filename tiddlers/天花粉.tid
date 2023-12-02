@@ -1,19 +1,20 @@
 created: 20231113094804031
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231202032456282
-grade: -1
-history: []
-interval: 0
+difficulty: 3.780372221787294
+due: 20231205034016020
+grade: 1
+history: [{"due":"20231202032456282","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032456282"}]
+interval: 1
 lapses: 0
-modified: 20231201032456282
+modified: 20231202034016021
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231201032456282
-stability: 0.5750000000000001
+reps: 2
+retrievability: 0.8325719125598604
+review: 20231202034016018
+stability: 3.3438749088254522
 tags: 中药 ?
 title: 天花粉
+type: text/vnd.tiddlywiki
 
 【药性】　甘、微苦，微寒。归肺、胃经。
 
