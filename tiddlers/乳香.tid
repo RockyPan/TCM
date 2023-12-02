@@ -1,19 +1,20 @@
 created: 20231113094920504
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231202032530521
-grade: -1
-history: []
-interval: 0
+difficulty: 3.780372221787294
+due: 20231205031616198
+grade: 1
+history: [{"due":"20231202032530521","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032530521"}]
+interval: 1
 lapses: 0
-modified: 20231201032530521
+modified: 20231202031616199
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231201032530521
-stability: 0.5750000000000001
+reps: 2
+retrievability: 0.8325719125598604
+review: 20231202031616195
+stability: 3.3438749088254522
 tags: 中药 ?
 title: 乳香
+type: text/vnd.tiddlywiki
 
 【药性】　辛、苦，温。归心、肝、脾经。
 

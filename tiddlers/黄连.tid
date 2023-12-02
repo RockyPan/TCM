@@ -1,19 +1,20 @@
 created: 20231113060428240
 creator: KylePan
-difficulty: 5.925650499784798
-due: 20231202012713410
-grade: 0
-history: [{"due":"20231130033326375","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129033326375"},{"due":"20231201012337897","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231130012337897"}]
+difficulty: 5.958553990233217
+due: 20231205030127155
+grade: 1
+history: [{"due":"20231130033326375","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129033326375"},{"due":"20231201012337897","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231130012337897"},{"due":"20231202012713410","interval":1,"difficulty":5.925650499784798,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231201012713409"}]
 interval: 1
 lapses: 2
-modified: 20231201012713410
+modified: 20231202030127156
 modifier: KylePan
-reps: 1
-retrievability: 0.8733233935327525
-review: 20231201012713409
-stability: 0.5762522178987278
+reps: 2
+retrievability: 0.8329034904484198
+review: 20231202030127154
+stability: 2.5890483143108414
 tags: 中药 ?
 title: 黄连
+type: text/vnd.tiddlywiki
 
 【药性】　苦，寒。归心、脾、胃、肝、胆、大肠经。
 

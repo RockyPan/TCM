@@ -1,20 +1,21 @@
 caption: 
 created: 20231113071340924
 creator: KylePan
-difficulty: 4.852327106252045
-due: 20231202024438537
+difficulty: 5.925650499784798
+due: 20231203031921074
 grade: 0
-history: [{"due":"20231201032846356","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130032846356"}]
+history: [{"due":"20231201032846356","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130032846356"},{"due":"20231202024438537","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201024438537"}]
 interval: 1
-lapses: 1
-modified: 20231201024438537
+lapses: 2
+modified: 20231202031921075
 modifier: KylePan
 reps: 1
-retrievability: 0.9045267970246111
-review: 20231201024438537
-stability: 0.7778591317158038
+retrievability: 0.8733233935327525
+review: 20231202031921071
+stability: 0.3155666907540653
 tags: 中药 ?
 title: 水牛角
+type: text/vnd.tiddlywiki
 
 【药性】　苦，寒。归心、肝经。
 

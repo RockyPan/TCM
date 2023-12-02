@@ -1,19 +1,20 @@
 created: 20231113061307007
 creator: KylePan
-difficulty: 4.852327106252045
-due: 20231202020626218
+difficulty: 5.925650499784798
+due: 20231203030959330
 grade: 0
-history: [{"due":"20231201022514251","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130022514251"}]
+history: [{"due":"20231201022514251","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130022514251"},{"due":"20231202020626218","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201020626218"}]
 interval: 1
-lapses: 1
-modified: 20231201020626218
+lapses: 2
+modified: 20231202030959330
 modifier: KylePan
 reps: 1
-retrievability: 0.9045267970246111
-review: 20231201020626218
-stability: 0.7778591317158038
+retrievability: 0.8733233935327525
+review: 20231202030959329
+stability: 0.3155666907540653
 tags: 中药 ?
 title: 麦冬
+type: text/vnd.tiddlywiki
 
 【药性】　甘、微苦，微寒。归心、肺、胃经。
 
