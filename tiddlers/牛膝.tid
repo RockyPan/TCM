@@ -1,17 +1,17 @@
 created: 20231113053320616
 creator: KylePan
-difficulty: 7.260138286834374
-due: 20231203031058899
-grade: 0
-history: [{"due":"20231128025822081","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126025822081"},{"due":"20231129033359054","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128033359054"},{"due":"20231202015100413","interval":1,"difficulty":6.173323393532753,"stability":2.631403264144997,"retrievability":0.8733233935327525,"grade":1,"lapses":1,"reps":2,"review":"20231129015100413"}]
-interval: 3
+difficulty: 7.176280022804848
+due: 20231205025619104
+grade: 1
+history: [{"due":"20231128025822081","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126025822081"},{"due":"20231129033359054","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128033359054"},{"due":"20231202015100413","interval":1,"difficulty":6.173323393532753,"stability":2.631403264144997,"retrievability":0.8733233935327525,"grade":1,"lapses":1,"reps":2,"review":"20231129015100413"},{"due":"20231203031058899","interval":3,"difficulty":7.260138286834374,"stability":0.3155666907540653,"retrievability":0.8868148933016202,"grade":0,"lapses":2,"reps":1,"review":"20231202031058896"}]
+interval: 1
 lapses: 2
-modified: 20231202031058899
+modified: 20231203025619104
 modifier: KylePan
-reps: 1
-retrievability: 0.8868148933016202
-review: 20231202031058896
-stability: 0.3155666907540653
+reps: 2
+retrievability: 0.7161417359704745
+review: 20231203025619101
+stability: 2.2856848639393608
 tags: 中药 ?
 title: 牛膝
 type: text/vnd.tiddlywiki

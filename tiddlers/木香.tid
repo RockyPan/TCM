@@ -1,17 +1,17 @@
 created: 20231114011300149
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231203073635156
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231202073635156
+difficulty: 4.780372221787294
+due: 20231204025543716
+grade: 0
+history: [{"due":"20231203073635156","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202073635156"}]
+interval: 1
+lapses: 1
+modified: 20231203025543717
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231202073635156
-stability: 0.5750000000000001
+retrievability: 0.8325719125598604
+review: 20231203025543713
+stability: 0.4259704768919878
 tags: 中药 ?
 title: 木香
 type: text/vnd.tiddlywiki

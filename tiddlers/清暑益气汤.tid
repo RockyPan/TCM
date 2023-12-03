@@ -1,17 +1,17 @@
 created: 20231114011851156
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231203075510204
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231202075510204
+difficulty: 4.780372221787294
+due: 20231204030732832
+grade: 0
+history: [{"due":"20231203075510204","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202075510204"}]
+interval: 1
+lapses: 1
+modified: 20231203030732832
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231202075510204
-stability: 0.5750000000000001
+retrievability: 0.8325719125598604
+review: 20231203030732830
+stability: 0.4259704768919878
 tags: 方剂 ?
 title: 清暑益气汤
 type: text/vnd.tiddlywiki
@@ -21,7 +21,7 @@ type: text/vnd.tiddlywiki
 __王氏清暑益气汤，善治中暑气阴伤，
 洋参冬斛荷瓜翠，连竹知母甘粳裹。__
 
-【组成】[[西洋参]](5g)　[[石斛]](15g)　[[麦冬]](9g)　[[黄连]](3g)　[[竹叶]](6g)　[[荷梗]](15g)　[[知母]](6g)　[[甘草]](3g)　[[粳米]](15g)　西瓜翠衣(30g)（原书未著用量）
+【组成】[[西洋参]](5g)　[[石斛]](15g)　[[麦冬]](9g)　[[黄连]](3g)　[[竹叶]](6g)　[[荷梗]](15g)　[[知母]](6g)　[[甘草]](3g)　[[粳米]](15g)　[[西瓜翠衣]](30g)（原书未著用量）
 
 【用法】水煎服。
 
