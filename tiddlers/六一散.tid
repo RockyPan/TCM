@@ -1,17 +1,17 @@
 created: 20231114011812084
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231203074659167
-grade: -1
-history: []
-interval: 0
+difficulty: 3.780372221787294
+due: 20231206025038348
+grade: 1
+history: [{"due":"20231203074659167","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202074659167"}]
+interval: 1
 lapses: 0
-modified: 20231202074659167
+modified: 20231203025038349
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231202074659167
-stability: 0.5750000000000001
+reps: 2
+retrievability: 0.8325719125598604
+review: 20231203025038343
+stability: 3.3438749088254522
 tags: 方剂 ?
 title: 六一散
 type: text/vnd.tiddlywiki

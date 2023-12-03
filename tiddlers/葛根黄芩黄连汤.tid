@@ -1,17 +1,17 @@
 created: 20231114010652277
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231203071334741
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231202071334741
+difficulty: 4.780372221787294
+due: 20231204024022783
+grade: 0
+history: [{"due":"20231203071334741","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202071334741"}]
+interval: 1
+lapses: 1
+modified: 20231203024022783
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231202071334741
-stability: 0.5750000000000001
+retrievability: 0.8325719125598604
+review: 20231203024022779
+stability: 0.4259704768919878
 tags: 方剂 ?
 title: 葛根黄芩黄连汤
 type: text/vnd.tiddlywiki

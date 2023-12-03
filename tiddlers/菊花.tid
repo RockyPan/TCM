@@ -1,17 +1,17 @@
 created: 20231113033511988
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231203031636723
+difficulty: 5.191646427147878
+due: 20231217024905320
 grade: 1
-history: [{"due":"20231127055326054","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125055326054"}]
-interval: 2
+history: [{"due":"20231127055326054","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125055326054"},{"due":"20231203031636723","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127031636723"}]
+interval: 6
 lapses: 0
-modified: 20231127031636723
+modified: 20231203024905320
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20231127031636723
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.891646427147878
+review: 20231203024905316
+stability: 14.005473642002045
 tags: 中药 ?
 title: 菊花
 type: text/vnd.tiddlywiki

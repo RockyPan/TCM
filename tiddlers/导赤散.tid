@@ -1,17 +1,17 @@
 created: 20231114005248925
 creator: KylePan
-difficulty: 4.780372221787294
-due: 20231203025812207
+difficulty: 5.761245579969273
+due: 20231204023421615
 grade: 0
-history: [{"due":"20231202033332945","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201033332945"}]
+history: [{"due":"20231202033332945","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201033332945"},{"due":"20231203025812207","interval":1,"difficulty":4.780372221787294,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231202025812205"}]
 interval: 1
-lapses: 1
-modified: 20231202025812208
+lapses: 2
+modified: 20231203023421616
 modifier: KylePan
 reps: 1
-retrievability: 0.8325719125598604
-review: 20231202025812205
-stability: 0.4259704768919878
+retrievability: 0.780873358181979
+review: 20231203023421611
+stability: 0.3155666907540653
 tags: 方剂 ?
 title: 导赤散
 type: text/vnd.tiddlywiki
