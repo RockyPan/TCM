@@ -1,17 +1,17 @@
 created: 20231113060330743
 creator: KylePan
-difficulty: 6.958553990233217
-due: 20231203024227579
+difficulty: 7.795744211714042
+due: 20231204020554594
 grade: 0
-history: [{"due":"20231130032708872","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129032708872"},{"due":"20231201011122434","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231130011122434"},{"due":"20231202012054826","interval":1,"difficulty":5.925650499784798,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231201012054826"}]
+history: [{"due":"20231130032708872","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129032708872"},{"due":"20231201011122434","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231130011122434"},{"due":"20231202012054826","interval":1,"difficulty":5.925650499784798,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231201012054826"},{"due":"20231203024227579","interval":1,"difficulty":6.958553990233217,"stability":0.23377755435084455,"retrievability":0.8329034904484198,"grade":0,"lapses":3,"reps":1,"review":"20231202024227576"}]
 interval: 1
-lapses: 3
-modified: 20231202024227580
+lapses: 4
+modified: 20231203020554594
 modifier: KylePan
 reps: 1
-retrievability: 0.8329034904484198
-review: 20231202024227576
-stability: 0.23377755435084455
+retrievability: 0.6371902214808245
+review: 20231203020554591
+stability: 0.17318667184951622
 tags: 方剂 ?
 title: 半夏泻心汤
 type: text/vnd.tiddlywiki

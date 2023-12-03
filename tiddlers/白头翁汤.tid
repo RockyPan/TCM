@@ -1,17 +1,17 @@
 created: 20231114010736909
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231203072729101
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231202072729101
+difficulty: 4.780372221787294
+due: 20231204020029694
+grade: 0
+history: [{"due":"20231203072729101","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202072729101"}]
+interval: 1
+lapses: 1
+modified: 20231203020029694
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231202072729101
-stability: 0.5750000000000001
+retrievability: 0.8325719125598604
+review: 20231203020029691
+stability: 0.4259704768919878
 tags: 方剂 ?
 title: 白头翁汤
 type: text/vnd.tiddlywiki
