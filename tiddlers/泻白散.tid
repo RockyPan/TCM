@@ -1,18 +1,18 @@
 caption: 
 created: 20231114005520133
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231203042136725
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231202042136725
+difficulty: 4.640976298811018
+due: 20231205024916782
+grade: 0
+history: [{"due":"20231203042136725","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202042136725"}]
+interval: 2
+lapses: 1
+modified: 20231204024916782
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231202042136725
-stability: 0.5750000000000001
+retrievability: 0.6931759895835838
+review: 20231204024916782
+stability: 0.4259704768919878
 tags: 方剂 ?
 title: 泻白散
 type: text/vnd.tiddlywiki

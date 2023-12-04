@@ -1,17 +1,17 @@
 created: 20231113060831431
 creator: KylePan
-difficulty: 4.925650499784798
-due: 20231204011415866
+difficulty: 5.024004546458028
+due: 20231212030407534
 grade: 1
-history: [{"due":"20231130060930006","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129060930006"},{"due":"20231201005632165","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231130005632165"}]
-interval: 1
+history: [{"due":"20231130060930006","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129060930006"},{"due":"20231201005632165","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231130005632165"},{"due":"20231204011415866","interval":1,"difficulty":4.925650499784798,"stability":2.94876871382978,"retrievability":0.8733233935327525,"grade":1,"lapses":1,"reps":2,"review":"20231201011415866"}]
+interval: 3
 lapses: 1
-modified: 20231201011415866
+modified: 20231204030407534
 modifier: KylePan
-reps: 2
-retrievability: 0.8733233935327525
-review: 20231201011415866
-stability: 2.94876871382978
+reps: 3
+retrievability: 0.89835404667323
+review: 20231204030407534
+stability: 7.874582381398883
 tags: 方剂 ?
 title: 白虎汤
 type: text/vnd.tiddlywiki

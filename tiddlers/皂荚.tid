@@ -1,18 +1,18 @@
 caption: 
 created: 20231113094324039
 creator: KylePan
-difficulty: 4.780372221787294
-due: 20231203041104151
+difficulty: 5.5901354233056955
+due: 20231205025020014
 grade: 0
-history: [{"due":"20231202032351829","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032351829"}]
-interval: 1
-lapses: 1
-modified: 20231202041104151
+history: [{"due":"20231202032351829","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032351829"},{"due":"20231203041104151","interval":1,"difficulty":4.780372221787294,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231202041104148"}]
+interval: 2
+lapses: 2
+modified: 20231204025020014
 modifier: KylePan
 reps: 1
-retrievability: 0.8325719125598604
-review: 20231202041104148
-stability: 0.4259704768919878
+retrievability: 0.6097632015184012
+review: 20231204025020014
+stability: 0.3155666907540653
 tags: 中药 ?
 title: 皂荚
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231114010817476
 creator: KylePan
-difficulty: 4.780372221787294
-due: 20231204015753586
-grade: 0
-history: [{"due":"20231203072752521","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202072752521"}]
+difficulty: 4.761245579969273
+due: 20231207030500278
+grade: 1
+history: [{"due":"20231203072752521","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202072752521"},{"due":"20231204015753586","interval":1,"difficulty":4.780372221787294,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231203015753584"}]
 interval: 1
 lapses: 1
-modified: 20231203015753586
+modified: 20231204030500278
 modifier: KylePan
-reps: 1
-retrievability: 0.8325719125598604
-review: 20231203015753584
-stability: 0.4259704768919878
+reps: 2
+retrievability: 0.780873358181979
+review: 20231204030500278
+stability: 2.917103456876367
 tags: 中药 ?
 title: 白头翁
 type: text/vnd.tiddlywiki

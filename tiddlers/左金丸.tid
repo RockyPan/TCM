@@ -1,17 +1,17 @@
 created: 20231114010350261
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231203065103820
-grade: -1
-history: []
-interval: 0
+difficulty: 3.640976298811018
+due: 20231210030137942
+grade: 1
+history: [{"due":"20231203065103820","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202065103820"}]
+interval: 2
 lapses: 0
-modified: 20231202065103820
+modified: 20231204030137942
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231202065103820
-stability: 0.5750000000000001
+reps: 2
+retrievability: 0.6931759895835838
+review: 20231204030137942
+stability: 6.175806421831119
 tags: 方剂 ?
 title: 左金丸
 type: text/vnd.tiddlywiki
