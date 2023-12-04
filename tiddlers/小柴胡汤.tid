@@ -6,7 +6,7 @@ grade: 0
 history: [{"due":"20231128104115586","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126104115586"},{"due":"20231129094234146","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128094234146"},{"due":"20231130023648184","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231129023648184"},{"due":"20231201014637311","interval":1,"difficulty":8.206226883981172,"stability":0.42689814272762916,"retrievability":0.8329034904484198,"grade":0,"lapses":3,"reps":1,"review":"20231130014637311"},{"due":"20231202030239033","interval":1,"difficulty":9.187520062051549,"stability":0.3162539225078122,"retrievability":0.7812931780703785,"grade":0,"lapses":4,"reps":1,"review":"20231201030239033"},{"due":"20231203041031736","interval":1,"difficulty":10,"stability":0.12829984208534717,"retrievability":0.7166615052049388,"grade":0,"lapses":5,"reps":1,"review":"20231202041031734"},{"due":"20231204022004944","interval":1,"difficulty":10,"stability":0.09504686072741228,"retrievability":0.43990110368518354,"grade":0,"lapses":6,"reps":1,"review":"20231203022004942"}]
 interval: 1
 lapses: 7
-modified: 20231204035832789
+modified: 20231204053311035
 modifier: KylePan
 reps: 1
 retrievability: 0.330049952982872
@@ -19,6 +19,8 @@ type: text/vnd.tiddlywiki
 一类
 
 __小柴胡汤和解功，半夏人参甘草从，更加黄芩生姜枣，少阳为病此方宗。__
+
+__生芹菜炒大虾仁__
 
 【组成】[[柴胡]]半斤(24g)　[[黄芩]]三两(9g)　[[人参]]三两(9g)　[[甘草]]炙，三两(9g)　[[半夏]]洗，半升(9g)　[[生姜]]切，三两(9g)　[[大枣]]擘，十二枚(6g)
 

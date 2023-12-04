@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20231130032708872","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129032708872"},{"due":"20231201011122434","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231130011122434"},{"due":"20231202012054826","interval":1,"difficulty":5.925650499784798,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231201012054826"},{"due":"20231203024227579","interval":1,"difficulty":6.958553990233217,"stability":0.23377755435084455,"retrievability":0.8329034904484198,"grade":0,"lapses":3,"reps":1,"review":"20231202024227576"},{"due":"20231204020554594","interval":1,"difficulty":7.795744211714042,"stability":0.17318667184951622,"retrievability":0.6371902214808245,"grade":0,"lapses":4,"reps":1,"review":"20231203020554591"}]
 interval: 1
 lapses: 4
-modified: 20231204030853167
+modified: 20231204055330283
 modifier: KylePan
 reps: 2
 retrievability: 0.5442405839175557
@@ -19,6 +19,8 @@ type: text/vnd.tiddlywiki
 一类
 
 __半夏泻心配芩连，干姜人参草枣全，辛开苦降除痞满，寒热错杂痞证蠲。__
+
+[[小柴胡汤]]化裁，[[生姜]]换成[[干姜]]，[[柴胡]]换成[[黄连]]。
 
 【组成】[[半夏]]洗，半升(12g)　[[黄芩]]　[[干姜]]　[[人参]]各三两(9g)　[[黄连]]一两(3g)　[[大枣]]擘，十二枚(6g)　[[甘草]]炙，三两(9g)
 

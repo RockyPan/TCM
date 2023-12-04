@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20231130025234072","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129025234072"},{"due":"20231201013318864","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231130013318864"},{"due":"20231202024825002","interval":1,"difficulty":5.925650499784798,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231201024825002"},{"due":"20231203033955631","interval":1,"difficulty":6.958553990233217,"stability":0.23377755435084455,"retrievability":0.8329034904484198,"grade":0,"lapses":3,"reps":1,"review":"20231202033955629"}]
 interval: 2
 lapses: 3
-modified: 20231204014225681
+modified: 20231204054512115
 modifier: KylePan
 reps: 2
 retrievability: 0.40601137835078216
@@ -19,6 +19,8 @@ type: text/vnd.tiddlywiki
 一类
 
 __阳郁厥逆四逆散，等分柴芍枳实甘，透邪解郁理肝脾，肝郁脾滞力能堪。__
+
+__四逆只烧柴草__
 
 【组成】[[甘草]]炙　[[枳实]]破，水渍，炙干　[[柴胡]]　[[芍药]]各十分(6g)
 
