@@ -1,17 +1,17 @@
 created: 20231114011951940
 creator: KylePan
-difficulty: 3.7478003092274337
-due: 20231203075525733
-grade: -1
-history: []
-interval: 0
+difficulty: 3.640976298811018
+due: 20231210014616344
+grade: 1
+history: [{"due":"20231203075525733","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202075525733"}]
+interval: 2
 lapses: 0
-modified: 20231202075525733
+modified: 20231204014616344
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231202075525733
-stability: 0.5750000000000001
+reps: 2
+retrievability: 0.6931759895835838
+review: 20231204014616344
+stability: 6.175806421831119
 tags: 中药 ?
 title: 西洋参
 type: text/vnd.tiddlywiki

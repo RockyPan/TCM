@@ -1,17 +1,17 @@
 created: 20231113072800036
 creator: KylePan
-difficulty: 5.925650499784798
-due: 20231203035403994
-grade: 0
-history: [{"due":"20231201034214349","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130034214349"},{"due":"20231202025606760","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201025606760"}]
-interval: 1
+difficulty: 5.638509485783603
+due: 20231209015125656
+grade: 1
+history: [{"due":"20231201034214349","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130034214349"},{"due":"20231202025606760","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201025606760"},{"due":"20231203035403994","interval":1,"difficulty":5.925650499784798,"stability":0.3155666907540653,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231202035403991"}]
+interval: 2
 lapses: 2
-modified: 20231202035403995
+modified: 20231204015125656
 modifier: KylePan
-reps: 1
-retrievability: 0.8733233935327525
-review: 20231202035403991
-stability: 0.3155666907540653
+reps: 2
+retrievability: 0.5128589859988048
+review: 20231204015125656
+stability: 4.775526229158205
 tags: 方剂 ?
 title: 犀角地黄汤
 type: text/vnd.tiddlywiki
