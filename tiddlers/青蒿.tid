@@ -1,17 +1,17 @@
 created: 20231113055158168
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231204033514549
+difficulty: 5.191646427147878
+due: 20231218035331829
 grade: 1
-history: [{"due":"20231128111058608","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126111058608"}]
-interval: 2
+history: [{"due":"20231128111058608","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126111058608"},{"due":"20231204033514549","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128033514549"}]
+interval: 6
 lapses: 0
-modified: 20231128033514549
+modified: 20231204035331829
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20231128033514549
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.891646427147878
+review: 20231204035331829
+stability: 14.005473642002045
 tags: 中药 ?
 title: 青蒿
 type: text/vnd.tiddlywiki

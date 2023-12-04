@@ -1,17 +1,17 @@
 created: 20231114011851156
 creator: KylePan
-difficulty: 4.780372221787294
-due: 20231204030732832
+difficulty: 5.761245579969273
+due: 20231205035622470
 grade: 0
-history: [{"due":"20231203075510204","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202075510204"}]
+history: [{"due":"20231203075510204","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202075510204"},{"due":"20231204030732832","interval":1,"difficulty":4.780372221787294,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231203030732830"}]
 interval: 1
-lapses: 1
-modified: 20231203030732832
+lapses: 2
+modified: 20231204035622470
 modifier: KylePan
 reps: 1
-retrievability: 0.8325719125598604
-review: 20231203030732830
-stability: 0.4259704768919878
+retrievability: 0.780873358181979
+review: 20231204035622470
+stability: 0.3155666907540653
 tags: 方剂 ?
 title: 清暑益气汤
 type: text/vnd.tiddlywiki
