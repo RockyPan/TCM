@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20231201021559106","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130021559106"},{"due":"20231202030832921","interval":1,"difficulty":4.852327106252045,"stability":0.4259704768919878,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201030832921"}]
 interval: 1
 lapses: 1
-modified: 20231202041250641
+modified: 20231204104955606
 modifier: KylePan
 reps: 2
 retrievability: 0.780873358181979
@@ -19,6 +19,8 @@ type: text/vnd.tiddlywiki
 二类
 
 __竹叶石膏汤人参，麦冬半夏甘草临，再加粳米同煎服，清热益气养阴津。__
+
+__竹杆下十人卖米__
 
 【组成】[[竹叶]]二把(6g)　[[石膏]]一斤(50g)　[[半夏]]洗，半升(9g)　[[麦门冬|麦冬]]去心，一升(18g)　[[人参]]二两(6g)　[[甘草]]炙，二两(6g)　[[粳米]]半升(9g)
 
