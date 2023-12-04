@@ -1,17 +1,17 @@
 created: 20231113093949431
 creator: KylePan
-difficulty: 4.780372221787294
-due: 20231203040205308
+difficulty: 5.5901354233056955
+due: 20231205022822807
 grade: 0
-history: [{"due":"20231202032110377","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032110377"}]
-interval: 1
-lapses: 1
-modified: 20231202040205309
+history: [{"due":"20231202032110377","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032110377"},{"due":"20231203040205308","interval":1,"difficulty":4.780372221787294,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231202040205307"}]
+interval: 2
+lapses: 2
+modified: 20231204022822807
 modifier: KylePan
 reps: 1
-retrievability: 0.8325719125598604
-review: 20231202040205307
-stability: 0.4259704768919878
+retrievability: 0.6097632015184012
+review: 20231204022822807
+stability: 0.3155666907540653
 tags: 方剂 ?
 title: 仙方活命饮
 type: text/vnd.tiddlywiki
