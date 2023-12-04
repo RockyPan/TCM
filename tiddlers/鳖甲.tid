@@ -1,15 +1,27 @@
 created: 20231114093150706
 creator: KylePan
-modified: 20231114093246731
+difficulty: 2.9854211216321387
+due: 20231205131127862
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231204131127862
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231204131127862
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 鳖甲
+type: text/vnd.tiddlywiki
 
 【药性】　咸，微寒。归肝、肾经。
 
 【功效】　滋阴潜阳，退热除蒸，软坚散结。
 
 【应用】　
+
 # 阴虚发热、骨蒸劳热，阴虚阳亢、头晕目眩，虚风内动、手足瘛疭
 # 经闭，癥瘕，久疟疟母
 

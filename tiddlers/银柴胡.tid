@@ -1,15 +1,27 @@
 created: 20231114093458298
 creator: KylePan
-modified: 20231114093553667
+difficulty: 2.9854211216321387
+due: 20231205131717348
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231204131717348
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231204131717348
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 银柴胡
+type: text/vnd.tiddlywiki
 
 【药性】　甘，微寒。归肝、胃经。
 
 【功效】　清虚热，除疳热。
 
 【应用】　
+
 # 阴虚发热，骨蒸劳热
 # 小儿疳积发热
 

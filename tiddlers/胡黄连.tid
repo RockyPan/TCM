@@ -1,15 +1,27 @@
 created: 20231114093601843
 creator: KylePan
-modified: 20231114093647659
+difficulty: 2.9854211216321387
+due: 20231205131736573
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231204131736573
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231204131736573
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 胡黄连
+type: text/vnd.tiddlywiki
 
 【药性】　苦，寒。归肝、胃、大肠经。
 
 【功效】　退虚热，除疳热，清湿热。
 
-【应用】　
+【应用】
+
 # 阴虚发热，骨蒸潮热
 # 小儿疳积发热
 # 湿热泻痢，黄疸尿赤，痔疮肿痛
