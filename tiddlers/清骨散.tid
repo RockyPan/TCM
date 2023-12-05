@@ -1,17 +1,17 @@
 created: 20231114093355322
 creator: KylePan
-difficulty: 2.9854211216321387
-due: 20231205131629601
-grade: -1
-history: []
-interval: 0
+difficulty: 3.017993034191999
+due: 20231209012341476
+grade: 1
+history: [{"due":"20231205131629601","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131629601"}]
+interval: 1
 lapses: 0
-modified: 20231204131629601
+modified: 20231205012341476
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231204131629601
-stability: 0.5750000000000001
+reps: 2
+retrievability: 0.8325719125598604
+review: 20231205012341476
+stability: 3.816714525315593
 tags: 方剂 ?
 title: 清骨散
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231114093048782
 creator: KylePan
-difficulty: 2.9854211216321387
-due: 20231205131044926
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231204131044926
+difficulty: 4.017993034191999
+due: 20231206012109956
+grade: 0
+history: [{"due":"20231205131044926","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131044926"}]
+interval: 1
+lapses: 1
+modified: 20231205012109956
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231204131044926
-stability: 0.5750000000000001
+retrievability: 0.8325719125598604
+review: 20231205012109956
+stability: 0.4259704768919878
 tags: 方剂 ?
 title: 青蒿鳖甲汤
 type: text/vnd.tiddlywiki
