@@ -1,17 +1,17 @@
 created: 20231113053617256
 creator: KylePan
 difficulty: 10
-due: 20231205025049999
+due: 20231206024124282
 grade: 0
-history: [{"due":"20231128030106820","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126030106820"},{"due":"20231129094327032","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128094327032"},{"due":"20231130023659400","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231129023659399"},{"due":"20231201014651798","interval":1,"difficulty":8.206226883981172,"stability":0.42689814272762916,"retrievability":0.8329034904484198,"grade":0,"lapses":3,"reps":1,"review":"20231130014651798"},{"due":"20231202030318896","interval":1,"difficulty":9.187520062051549,"stability":0.17318667184951622,"retrievability":0.7812931780703785,"grade":0,"lapses":4,"reps":1,"review":"20231201030318896"},{"due":"20231203041117568","interval":1,"difficulty":9.931760645969105,"stability":0.12829984208534717,"retrievability":0.5442405839175557,"grade":0,"lapses":5,"reps":1,"review":"20231202041117560"}]
-interval: 2
-lapses: 6
-modified: 20231204025050000
+history: [{"due":"20231128030106820","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126030106820"},{"due":"20231129094327032","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128094327032"},{"due":"20231130023659400","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231129023659399"},{"due":"20231201014651798","interval":1,"difficulty":8.206226883981172,"stability":0.42689814272762916,"retrievability":0.8329034904484198,"grade":0,"lapses":3,"reps":1,"review":"20231130014651798"},{"due":"20231202030318896","interval":1,"difficulty":9.187520062051549,"stability":0.17318667184951622,"retrievability":0.7812931780703785,"grade":0,"lapses":4,"reps":1,"review":"20231201030318896"},{"due":"20231203041117568","interval":1,"difficulty":9.931760645969105,"stability":0.12829984208534717,"retrievability":0.5442405839175557,"grade":0,"lapses":5,"reps":1,"review":"20231202041117560"},{"due":"20231205025049999","interval":2,"difficulty":10,"stability":0.09504686072741228,"retrievability":0.1935129810234426,"grade":0,"lapses":6,"reps":1,"review":"20231204025049999"}]
+interval: 1
+lapses: 7
+modified: 20231205024124282
 modifier: KylePan
 reps: 1
-retrievability: 0.1935129810234426
-review: 20231204025049999
-stability: 0.09504686072741228
+retrievability: 0.330049952982872
+review: 20231205024124282
+stability: 0.07041244624546461
 tags: 中药 ?
 title: 泽泻
 type: text/vnd.tiddlywiki
