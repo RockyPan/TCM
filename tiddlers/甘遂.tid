@@ -1,17 +1,17 @@
 created: 20231113054257751
 creator: KylePan
-difficulty: 6.191646427147878
-due: 20231205032431135
-grade: 0
-history: [{"due":"20231128102508473","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102508473"},{"due":"20231204013431530","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128013431530"}]
-interval: 6
+difficulty: 6.1725197853298575
+due: 20231208010243851
+grade: 1
+history: [{"due":"20231128102508473","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102508473"},{"due":"20231204013431530","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128013431530"},{"due":"20231205032431135","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231204032431135"}]
+interval: 1
 lapses: 1
-modified: 20231204032431136
+modified: 20231205010243851
 modifier: KylePan
-reps: 1
-retrievability: 0.891646427147878
-review: 20231204032431135
-stability: 0.4259704768919878
+reps: 2
+retrievability: 0.780873358181979
+review: 20231205010243851
+stability: 2.5031669457276235
 tags: 中药 ?
 title: 甘遂
 type: text/vnd.tiddlywiki

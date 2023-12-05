@@ -1,17 +1,17 @@
 created: 20231114093150706
 creator: KylePan
-difficulty: 2.9854211216321387
-due: 20231205131127862
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231204131127862
+difficulty: 4.017993034191999
+due: 20231206005238652
+grade: 0
+history: [{"due":"20231205131127862","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131127862"}]
+interval: 1
+lapses: 1
+modified: 20231205005238652
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231204131127862
-stability: 0.5750000000000001
+retrievability: 0.8325719125598604
+review: 20231205005238652
+stability: 0.4259704768919878
 tags: 中药 ?
 title: 鳖甲
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231113091915711
 creator: KylePan
-difficulty: 4.965537627432878
-due: 20231205034929134
-grade: 0
-history: [{"due":"20231201035047152","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130035047152"},{"due":"20231204015349827","interval":1,"difficulty":3.852327106252045,"stability":3.481502087013605,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20231201015349827"}]
-interval: 3
+difficulty: 4.9464109856148575
+due: 20231208010926764
+grade: 1
+history: [{"due":"20231201035047152","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130035047152"},{"due":"20231204015349827","interval":1,"difficulty":3.852327106252045,"stability":3.481502087013605,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20231201015349827"},{"due":"20231205034929134","interval":3,"difficulty":4.965537627432878,"stability":0.4259704768919878,"retrievability":0.9132105211808327,"grade":0,"lapses":1,"reps":1,"review":"20231204034929134"}]
+interval: 1
 lapses: 1
-modified: 20231204110123325
+modified: 20231205010926764
 modifier: KylePan
-reps: 1
-retrievability: 0.9132105211808327
-review: 20231204034929134
-stability: 0.4259704768919878
+reps: 2
+retrievability: 0.780873358181979
+review: 20231205010926764
+stability: 2.851453172292702
 tags: 方剂 ?
 title: 凉膈散
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231113054920176
 creator: KylePan
-difficulty: 9.901479654992567
-due: 20231205031132870
+difficulty: 10
+due: 20231206005915436
 grade: 0
-history: [{"due":"20231128105318968","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126105318968"},{"due":"20231129011319487","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128011319483"},{"due":"20231130011430113","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231129011430113"},{"due":"20231202012052850","interval":1,"difficulty":7.206226883981173,"stability":2.338239805239507,"retrievability":0.8329034904484198,"grade":1,"lapses":2,"reps":2,"review":"20231130012052850"},{"due":"20231203024542366","interval":2,"difficulty":8.320048849594187,"stability":0.23377755435084455,"retrievability":0.9138219656130142,"grade":0,"lapses":3,"reps":1,"review":"20231202024542365"},{"due":"20231204021903074","interval":1,"difficulty":9.157239071075011,"stability":0.17318667184951622,"retrievability":0.6371902214808245,"grade":0,"lapses":4,"reps":1,"review":"20231203021903071"}]
+history: [{"due":"20231128105318968","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126105318968"},{"due":"20231129011319487","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128011319483"},{"due":"20231130011430113","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231129011430113"},{"due":"20231202012052850","interval":1,"difficulty":7.206226883981173,"stability":2.338239805239507,"retrievability":0.8329034904484198,"grade":1,"lapses":2,"reps":2,"review":"20231130012052850"},{"due":"20231203024542366","interval":2,"difficulty":8.320048849594187,"stability":0.23377755435084455,"retrievability":0.9138219656130142,"grade":0,"lapses":3,"reps":1,"review":"20231202024542365"},{"due":"20231204021903074","interval":1,"difficulty":9.157239071075011,"stability":0.17318667184951622,"retrievability":0.6371902214808245,"grade":0,"lapses":4,"reps":1,"review":"20231203021903071"},{"due":"20231205031132870","interval":1,"difficulty":9.901479654992567,"stability":0.12829984208534717,"retrievability":0.5442405839175557,"grade":0,"lapses":5,"reps":1,"review":"20231204031132870"}]
 interval: 1
-lapses: 5
-modified: 20231204031132870
+lapses: 6
+modified: 20231205005915436
 modifier: KylePan
 reps: 1
-retrievability: 0.5442405839175557
-review: 20231204031132870
-stability: 0.12829984208534717
+retrievability: 0.43990110368518354
+review: 20231205005915436
+stability: 0.09504686072741228
 tags: 方剂 ?
 title: 大柴胡汤
 type: text/vnd.tiddlywiki

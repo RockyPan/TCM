@@ -1,17 +1,17 @@
 created: 20231114093601843
 creator: KylePan
-difficulty: 2.9854211216321387
-due: 20231205131736573
-grade: -1
-history: []
-interval: 0
+difficulty: 3.017993034191999
+due: 20231209010324428
+grade: 1
+history: [{"due":"20231205131736573","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131736573"}]
+interval: 1
 lapses: 0
-modified: 20231204131736573
+modified: 20231205010324428
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231204131736573
-stability: 0.5750000000000001
+reps: 2
+retrievability: 0.8325719125598604
+review: 20231205010324428
+stability: 3.816714525315593
 tags: 中药 ?
 title: 胡黄连
 type: text/vnd.tiddlywiki
