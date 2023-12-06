@@ -1,17 +1,17 @@
 created: 20231113094804031
 creator: KylePan
-difficulty: 4.8901767290898945
-due: 20231206013825117
-grade: 0
-history: [{"due":"20231202032456282","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032456282"},{"due":"20231205034016020","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231202034016018"}]
-interval: 3
+difficulty: 4.871050087271874
+due: 20231209013827632
+grade: 1
+history: [{"due":"20231202032456282","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032456282"},{"due":"20231205034016020","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231202034016018"},{"due":"20231206013825117","interval":3,"difficulty":4.8901767290898945,"stability":0.4259704768919878,"retrievability":0.9098045073026005,"grade":0,"lapses":1,"reps":1,"review":"20231205013825117"}]
+interval: 1
 lapses: 1
-modified: 20231205013825117
+modified: 20231206013827632
 modifier: KylePan
-reps: 1
-retrievability: 0.9098045073026005
-review: 20231205013825117
-stability: 0.4259704768919878
+reps: 2
+retrievability: 0.780873358181979
+review: 20231206013827632
+stability: 2.8776601763773564
 tags: 中药 ?
 title: 天花粉
 type: text/vnd.tiddlywiki
