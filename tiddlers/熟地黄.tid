@@ -1,6 +1,18 @@
 created: 20231114131521290
-modified: 20231114131800159
-tags: ? 中药
+creator: KylePan
+difficulty: 2.4476805400532036
+due: 20231207065106230
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231206065106230
+modifier: KylePan
+reps: 1
+retrievability: 1
+review: 20231206065106230
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 熟地黄
 type: text/vnd.tiddlywiki
 
@@ -9,6 +21,7 @@ type: text/vnd.tiddlywiki
 【功效】　补血滋阴，益精填髓。
 
 【应用】
+
 # 血虚萎黄，心悸怔忡，月经不调，崩漏下血
 # 肝肾阴虚，腰膝酸软，骨蒸潮热，盗汗遗精，内热消渴
 # 肝肾不足，精血亏虚，眩晕耳鸣，须发早白

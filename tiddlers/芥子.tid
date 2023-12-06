@@ -1,6 +1,18 @@
 created: 20231114132247118
-modified: 20231114132435421
-tags: ? 中药
+creator: KylePan
+difficulty: 2.4476805400532036
+due: 20231207065138735
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231206065138735
+modifier: KylePan
+reps: 1
+retrievability: 1
+review: 20231206065138735
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 芥子
 type: text/vnd.tiddlywiki
 
@@ -9,6 +21,7 @@ type: text/vnd.tiddlywiki
 【功效】　温肺豁痰利气，散结通络止痛。
 
 【应用】　
+
 # 寒痰咳喘，悬饮胸胁胀痛
 # 痰滞经络，关节麻木疼痛，痰湿流注，阴疽肿毒
 

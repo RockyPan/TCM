@@ -1,15 +1,26 @@
 created: 20231114105653272
 creator: KylePan
-modified: 20231114105747296
+difficulty: 2.4476805400532036
+due: 20231207064041048
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231206064041048
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231206064041048
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 饴糖
 
 【药性】　甘，温。归脾、胃、肺经。
 
 【功效】　补中益气，缓急止痛，润肺止咳。
 
-【应用】　
+【应用】
+
 # 脾胃虚寒，脘腹疼痛
 # 肺虚燥咳
 

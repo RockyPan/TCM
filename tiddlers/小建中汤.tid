@@ -1,8 +1,18 @@
 created: 20231114105511183
 creator: KylePan
-modified: 20231205112306329
+difficulty: 2.4476805400532036
+due: 20231207064021491
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231206064021491
 modifier: KylePan
-tags: ? 方剂
+reps: 1
+retrievability: 1
+review: 20231206064021491
+stability: 0.5750000000000001
+tags: 方剂 ?
 title: 小建中汤
 type: text/vnd.tiddlywiki
 
@@ -11,7 +21,7 @@ type: text/vnd.tiddlywiki
 __小建中汤芍药多，桂姜甘草大枣和，
 更加饴糖补中脏，虚劳腹冷服之瘥。__
 
-__桂枝汤倍芍药加饴糖__
+__[[桂枝汤]]倍芍药加饴糖__
 
 【组成】[[桂枝]]去皮，三两(9g)　[[甘草]]炙，二两(6g)　[[大枣]]擘，十二枚(6g)　[[芍药]]六两(18g)　[[生姜]]切，三两(9g)　[[胶饴|饴糖]]一升(30g)
 

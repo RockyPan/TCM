@@ -1,6 +1,18 @@
 created: 20231114131814782
-modified: 20231114132234957
-tags: ? 中药
+creator: KylePan
+difficulty: 2.4476805400532036
+due: 20231207065125204
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231206065125204
+modifier: KylePan
+reps: 1
+retrievability: 1
+review: 20231206065125204
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 鹿茸
 type: text/vnd.tiddlywiki
 
@@ -9,6 +21,7 @@ type: text/vnd.tiddlywiki
 【功效】　补肾壮阳，益精血，强筋骨，调冲任，托疮毒。
 
 【应用】　
+
 # 肾阳不足，精血亏虚，阳痿遗精，宫冷不孕，羸瘦，神疲，畏寒，眩晕，耳鸣耳聋
 # 肾虚腰脊冷痛，筋骨痿软
 # 冲任虚寒，崩漏带下
