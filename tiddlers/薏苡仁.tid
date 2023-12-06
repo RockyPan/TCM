@@ -1,15 +1,27 @@
 created: 20231115010200448
 creator: KylePan
-modified: 20231115010320881
+difficulty: 2.4476805400532036
+due: 20231207124032726
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231206124032726
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231206124032726
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 薏苡仁
+type: text/vnd.tiddlywiki
 
 【药性】　甘、淡，凉。归脾、胃、肺经。
 
 【功效】　利水渗湿，健脾止泻，除痹，排脓，解毒散结。
 
 【应用】　
+
 # 水肿，脚气浮肿，小便不利
 # 脾虚泄泻
 # 湿痹拘挛

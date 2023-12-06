@@ -1,15 +1,27 @@
 created: 20231115010448689
 creator: KylePan
-modified: 20231115010552665
+difficulty: 2.4476805400532036
+due: 20231207124122781
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231206124122781
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231206124122781
+stability: 0.5750000000000001
+tags: 中药 ?
 title: 山药
+type: text/vnd.tiddlywiki
 
 【药性】　甘，平。归脾、肺、肾经。
 
 【功效】　益气养阴，补脾肺肾，涩精止带。
 
 【应用】　
+
 # 脾虚食少，大便溏泻，白带过多
 # 肺虚喘咳
 # 肾虚遗精，带下，尿频
