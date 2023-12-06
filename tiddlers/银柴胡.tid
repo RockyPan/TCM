@@ -1,17 +1,17 @@
 created: 20231114093458298
 creator: KylePan
-difficulty: 4.017993034191999
-due: 20231206024049458
-grade: 0
-history: [{"due":"20231205131717348","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131717348"}]
+difficulty: 3.9988663923739782
+due: 20231209015931024
+grade: 1
+history: [{"due":"20231205131717348","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131717348"},{"due":"20231206024049458","interval":1,"difficulty":4.017993034191999,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231205024049458"}]
 interval: 1
 lapses: 1
-modified: 20231205024049458
+modified: 20231206015931024
 modifier: KylePan
-reps: 1
-retrievability: 0.8325719125598604
-review: 20231205024049458
-stability: 0.4259704768919878
+reps: 2
+retrievability: 0.780873358181979
+review: 20231206015931023
+stability: 3.240757196476688
 tags: 中药 ?
 title: 银柴胡
 type: text/vnd.tiddlywiki

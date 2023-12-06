@@ -1,17 +1,17 @@
 created: 20231113091742826
 creator: KylePan
-difficulty: 7.383249671913654
-due: 20231206024212642
-grade: 0
-history: [{"due":"20231201034832367","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130034832367"},{"due":"20231202030344840","interval":1,"difficulty":4.852327106252045,"stability":0.4259704768919878,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201030344840"},{"due":"20231203041221409","interval":1,"difficulty":5.833200464434024,"stability":0.3155666907540653,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231202041221408"},{"due":"20231205025202158","interval":2,"difficulty":6.546059450432829,"stability":0.23377755435084455,"retrievability":0.5128589859988048,"grade":0,"lapses":3,"reps":1,"review":"20231204025202158"}]
+difficulty: 7.127490255831209
+due: 20231208020145783
+grade: 1
+history: [{"due":"20231201034832367","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130034832367"},{"due":"20231202030344840","interval":1,"difficulty":4.852327106252045,"stability":0.4259704768919878,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201030344840"},{"due":"20231203041221409","interval":1,"difficulty":5.833200464434024,"stability":0.3155666907540653,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231202041221408"},{"due":"20231205025202158","interval":2,"difficulty":6.546059450432829,"stability":0.23377755435084455,"retrievability":0.5128589859988048,"grade":0,"lapses":3,"reps":1,"review":"20231204025202158"},{"due":"20231206024212642","interval":1,"difficulty":7.383249671913654,"stability":0.17318667184951622,"retrievability":0.6371902214808245,"grade":0,"lapses":4,"reps":1,"review":"20231205024212642"}]
 interval: 1
 lapses: 4
-modified: 20231205024212642
+modified: 20231206020145783
 modifier: KylePan
-reps: 1
-retrievability: 0.6371902214808245
-review: 20231205024212642
-stability: 0.17318667184951622
+reps: 2
+retrievability: 0.5442405839175557
+review: 20231206020145783
+stability: 2.3277635941813526
 tags: 中药 ?
 title: 栀子
 type: text/vnd.tiddlywiki
