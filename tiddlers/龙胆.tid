@@ -1,17 +1,17 @@
 created: 20231114010105261
 creator: KylePan
-difficulty: 3.780372221787294
-due: 20231206025105220
+difficulty: 3.8901767290898945
+due: 20231215011745200
 grade: 1
-history: [{"due":"20231203042239072","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202042239072"}]
-interval: 1
+history: [{"due":"20231203042239072","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202042239072"},{"due":"20231206025105220","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231203025105218"}]
+interval: 3
 lapses: 0
-modified: 20231203025105221
+modified: 20231206011745200
 modifier: KylePan
-reps: 2
-retrievability: 0.8325719125598604
-review: 20231203025105218
-stability: 3.3438749088254522
+reps: 3
+retrievability: 0.9098045073026005
+review: 20231206011745200
+stability: 9.091527048314079
 tags: 中药 ?
 title: 龙胆
 type: text/vnd.tiddlywiki

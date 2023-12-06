@@ -1,17 +1,17 @@
 created: 20231113061307007
 creator: KylePan
-difficulty: 5.841792235755272
-due: 20231206025431265
+difficulty: 5.926942231821633
+due: 20231213012038024
 grade: 1
-history: [{"due":"20231201022514251","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130022514251"},{"due":"20231202020626218","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201020626218"},{"due":"20231203030959330","interval":1,"difficulty":5.925650499784798,"stability":0.3155666907540653,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231202030959329"}]
-interval: 1
+history: [{"due":"20231201022514251","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130022514251"},{"due":"20231202020626218","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201020626218"},{"due":"20231203030959330","interval":1,"difficulty":5.925650499784798,"stability":0.3155666907540653,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231202030959329"},{"due":"20231206025431265","interval":1,"difficulty":5.841792235755272,"stability":2.5908714010295832,"retrievability":0.7161417359704745,"grade":1,"lapses":2,"reps":2,"review":"20231203025431264"}]
+interval: 3
 lapses: 2
-modified: 20231203025431266
+modified: 20231206012038024
 modifier: KylePan
-reps: 2
-retrievability: 0.7161417359704745
-review: 20231203025431264
-stability: 2.5908714010295832
+reps: 3
+retrievability: 0.8851499960663614
+review: 20231206012038024
+stability: 7.091109480616553
 tags: 中药 ?
 title: 麦冬
 type: text/vnd.tiddlywiki

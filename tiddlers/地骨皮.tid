@@ -1,17 +1,17 @@
 created: 20231114005637253
 creator: KylePan
-difficulty: 3.780372221787294
-due: 20231206023439970
+difficulty: 3.8901767290898945
+due: 20231215011337680
 grade: 1
-history: [{"due":"20231203042200429","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202042200429"}]
-interval: 1
+history: [{"due":"20231203042200429","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202042200429"},{"due":"20231206023439970","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231203023439968"}]
+interval: 3
 lapses: 0
-modified: 20231203023439971
+modified: 20231206011337680
 modifier: KylePan
-reps: 2
-retrievability: 0.8325719125598604
-review: 20231203023439968
-stability: 3.3438749088254522
+reps: 3
+retrievability: 0.9098045073026005
+review: 20231206011337680
+stability: 9.091527048314079
 tags: 中药 ?
 title: 地骨皮
 type: text/vnd.tiddlywiki

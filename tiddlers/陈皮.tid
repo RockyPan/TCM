@@ -1,17 +1,17 @@
 created: 20231113055542215
 creator: KylePan
-difficulty: 7.1725197853298575
-due: 20231206005326916
-grade: 0
-history: [{"due":"20231128111324884","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126111324884"},{"due":"20231204010512766","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128010512766"},{"due":"20231205030921879","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231204030921878"}]
+difficulty: 7.088661521300332
+due: 20231208010304608
+grade: 1
+history: [{"due":"20231128111324884","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126111324884"},{"due":"20231204010512766","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128010512766"},{"due":"20231205030921879","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231204030921878"},{"due":"20231206005326916","interval":1,"difficulty":7.1725197853298575,"stability":0.3155666907540653,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231205005326916"}]
 interval: 1
 lapses: 2
-modified: 20231205005326916
+modified: 20231206010304609
 modifier: KylePan
-reps: 1
-retrievability: 0.780873358181979
-review: 20231205005326916
-stability: 0.3155666907540653
+reps: 2
+retrievability: 0.7161417359704745
+review: 20231206010304608
+stability: 2.3026994048604035
 tags: 中药 ?
 title: 陈皮
 type: text/vnd.tiddlywiki
