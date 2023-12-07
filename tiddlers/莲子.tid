@@ -1,17 +1,17 @@
 created: 20231115005958064
 creator: KylePan
-difficulty: 2.4476805400532036
-due: 20231207124012172
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231206124012172
+difficulty: 3.480252452613064
+due: 20231208024715841
+grade: 0
+history: [{"due":"20231207124012172","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206124012172"}]
+interval: 1
+lapses: 1
+modified: 20231207024715841
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231206124012172
-stability: 0.5750000000000001
+retrievability: 0.8325719125598604
+review: 20231207024715840
+stability: 0.4259704768919878
 tags: 中药 ?
 title: 莲子
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231114093048782
 creator: KylePan
-difficulty: 4.998866392373978
-due: 20231207012601394
+difficulty: 5.915008128344453
+due: 20231208025940162
 grade: 0
-history: [{"due":"20231205131044926","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131044926"},{"due":"20231206012109956","interval":1,"difficulty":4.017993034191999,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231205012109956"}]
+history: [{"due":"20231205131044926","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131044926"},{"due":"20231206012109956","interval":1,"difficulty":4.017993034191999,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231205012109956"},{"due":"20231207012601394","interval":1,"difficulty":4.998866392373978,"stability":0.3155666907540653,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231206012601394"}]
 interval: 1
-lapses: 2
-modified: 20231206012601394
+lapses: 3
+modified: 20231207025940162
 modifier: KylePan
 reps: 1
-retrievability: 0.780873358181979
-review: 20231206012601394
-stability: 0.3155666907540653
+retrievability: 0.7161417359704745
+review: 20231207025940162
+stability: 0.23377755435084455
 tags: 方剂 ?
 title: 青蒿鳖甲汤
 type: text/vnd.tiddlywiki
@@ -36,4 +36,4 @@ __母青鳖生蛋__
 
 配伍特点：滋清兼备，清中有透，标本兼顾。
 
-''辨证要点''　本方为治温病后期，热伏阴分证之常用方。以夜热早凉，热退无汗，舌红少苔，脉细数为辨证要点。因青蒿有清虚热之功，故阴虚内热之骨蒸潮热，盗汗颧赤，舌红少苔，脉细数者，亦常用之。
+''辨证要点''　本方为治温病后期，热伏阴分证之常用方。以夜热早凉，热退无汗，舌红少苔，脉细数为辨证要点。因青蒿有清虚热之功，故阴虚内热之骨蒸潮热，盗汗颧赤，__舌红少苔，脉细数者__，亦常用之。

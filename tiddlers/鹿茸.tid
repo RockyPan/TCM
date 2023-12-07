@@ -1,17 +1,17 @@
 created: 20231114131814782
 creator: KylePan
-difficulty: 2.4476805400532036
-due: 20231207065125204
-grade: -1
-history: []
-interval: 0
+difficulty: 2.480252452613064
+due: 20231211024735176
+grade: 1
+history: [{"due":"20231207065125204","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206065125204"}]
+interval: 1
 lapses: 0
-modified: 20231206065125204
+modified: 20231207024735176
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231206065125204
-stability: 0.5750000000000001
+reps: 2
+retrievability: 0.8325719125598604
+review: 20231207024735176
+stability: 4.2940362257416975
 tags: 中药 ?
 title: 鹿茸
 type: text/vnd.tiddlywiki
