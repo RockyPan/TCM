@@ -1,17 +1,17 @@
 created: 20231114131157782
 creator: KylePan
-difficulty: 2.4476805400532036
-due: 20231207064704877
-grade: -1
-history: []
-interval: 0
+difficulty: 2.480252452613064
+due: 20231211032809120
+grade: 1
+history: [{"due":"20231207064704877","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206064704877"}]
+interval: 1
 lapses: 0
-modified: 20231206064704877
+modified: 20231207032809120
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231206064704877
-stability: 0.5750000000000001
+reps: 2
+retrievability: 0.8325719125598604
+review: 20231207032809120
+stability: 4.2940362257416975
 tags: 中药 ?
 title: 通草
 type: text/vnd.tiddlywiki

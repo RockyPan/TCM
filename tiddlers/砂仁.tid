@@ -1,17 +1,17 @@
 created: 20231115010328296
 creator: KylePan
-difficulty: 2.4476805400532036
-due: 20231207124057023
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231206124057023
+difficulty: 3.480252452613064
+due: 20231208031845160
+grade: 0
+history: [{"due":"20231207124057023","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206124057023"}]
+interval: 1
+lapses: 1
+modified: 20231207031845161
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231206124057023
-stability: 0.5750000000000001
+retrievability: 0.8325719125598604
+review: 20231207031845160
+stability: 0.4259704768919878
 tags: 中药 ?
 title: 砂仁
 type: text/vnd.tiddlywiki
