@@ -1,17 +1,17 @@
 created: 20231113093949431
 creator: KylePan
-difficulty: 7.343467380756994
-due: 20231207014339074
+difficulty: 8.08770796467455
+due: 20231208033339520
 grade: 0
-history: [{"due":"20231202032110377","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032110377"},{"due":"20231203040205308","interval":1,"difficulty":4.780372221787294,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231202040205307"},{"due":"20231205022822807","interval":2,"difficulty":5.5901354233056955,"stability":0.3155666907540653,"retrievability":0.6097632015184012,"grade":0,"lapses":2,"reps":1,"review":"20231204022822807"},{"due":"20231206014401803","interval":1,"difficulty":6.50627715927617,"stability":0.23377755435084455,"retrievability":0.7161417359704745,"grade":0,"lapses":3,"reps":1,"review":"20231205014401803"}]
+history: [{"due":"20231202032110377","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032110377"},{"due":"20231203040205308","interval":1,"difficulty":4.780372221787294,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231202040205307"},{"due":"20231205022822807","interval":2,"difficulty":5.5901354233056955,"stability":0.3155666907540653,"retrievability":0.6097632015184012,"grade":0,"lapses":2,"reps":1,"review":"20231204022822807"},{"due":"20231206014401803","interval":1,"difficulty":6.50627715927617,"stability":0.23377755435084455,"retrievability":0.7161417359704745,"grade":0,"lapses":3,"reps":1,"review":"20231205014401803"},{"due":"20231207014339074","interval":1,"difficulty":7.343467380756994,"stability":0.17318667184951622,"retrievability":0.6371902214808245,"grade":0,"lapses":4,"reps":1,"review":"20231206014339074"}]
 interval: 1
-lapses: 4
-modified: 20231206014339074
+lapses: 5
+modified: 20231207033339520
 modifier: KylePan
 reps: 1
-retrievability: 0.6371902214808245
-review: 20231206014339074
-stability: 0.17318667184951622
+retrievability: 0.5442405839175557
+review: 20231207033339520
+stability: 0.12829984208534717
 tags: 方剂 ?
 title: 仙方活命饮
 type: text/vnd.tiddlywiki

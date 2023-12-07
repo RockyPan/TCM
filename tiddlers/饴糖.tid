@@ -1,17 +1,17 @@
 created: 20231114105653272
 creator: KylePan
-difficulty: 2.4476805400532036
-due: 20231207064041048
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231206064041048
+difficulty: 3.480252452613064
+due: 20231208035139968
+grade: 0
+history: [{"due":"20231207064041048","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206064041048"}]
+interval: 1
+lapses: 1
+modified: 20231207035139968
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231206064041048
-stability: 0.5750000000000001
+retrievability: 0.8325719125598604
+review: 20231207035139967
+stability: 0.2500261494800798
 tags: 中药 ?
 title: 饴糖
 
