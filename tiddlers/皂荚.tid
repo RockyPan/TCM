@@ -1,18 +1,18 @@
 caption: 
 created: 20231113094324039
 creator: KylePan
-difficulty: 6.343467380756994
-due: 20231208015949578
+difficulty: 6.4621639880533195
+due: 20231213031051955
 grade: 1
-history: [{"due":"20231202032351829","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032351829"},{"due":"20231203041104151","interval":1,"difficulty":4.780372221787294,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231202041104148"},{"due":"20231205025020014","interval":2,"difficulty":5.5901354233056955,"stability":0.3155666907540653,"retrievability":0.6097632015184012,"grade":0,"lapses":2,"reps":1,"review":"20231204025020014"},{"due":"20231206024103138","interval":1,"difficulty":6.50627715927617,"stability":0.23377755435084455,"retrievability":0.7161417359704745,"grade":0,"lapses":3,"reps":1,"review":"20231205024103138"}]
-interval: 1
+history: [{"due":"20231202032351829","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032351829"},{"due":"20231203041104151","interval":1,"difficulty":4.780372221787294,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231202041104148"},{"due":"20231205025020014","interval":2,"difficulty":5.5901354233056955,"stability":0.3155666907540653,"retrievability":0.6097632015184012,"grade":0,"lapses":2,"reps":1,"review":"20231204025020014"},{"due":"20231206024103138","interval":1,"difficulty":6.50627715927617,"stability":0.23377755435084455,"retrievability":0.7161417359704745,"grade":0,"lapses":3,"reps":1,"review":"20231205024103138"},{"due":"20231208015949578","interval":1,"difficulty":6.343467380756994,"stability":2.4849370261337,"retrievability":0.6371902214808245,"grade":1,"lapses":3,"reps":2,"review":"20231206015949577"}]
+interval: 2
 lapses: 3
-modified: 20231206015949578
+modified: 20231208031051955
 modifier: KylePan
-reps: 2
-retrievability: 0.6371902214808245
-review: 20231206015949577
-stability: 2.4849370261337
+reps: 3
+retrievability: 0.9186966072963252
+review: 20231208031051955
+stability: 5.336100138299438
 tags: 中药 ?
 title: 皂荚
 type: text/vnd.tiddlywiki
