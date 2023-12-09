@@ -1,15 +1,27 @@
 created: 20231115084559192
 creator: KylePan
-modified: 20231115084701784
+difficulty: 2.043253369025958
+due: 20231210105737654
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231209105737654
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231209105737654
+stability: 0.3375
+tags: 中药 ?
 title: 酸枣仁
+type: text/vnd.tiddlywiki
 
 【药性】　甘、酸，平。归肝、胆、心经。
 
 【功效】　养心补肝，宁心安神，敛汗，生津。
 
-【应用】　
+【应用】
+
 # 虚烦不眠，惊悸多梦
 # 体虚多汗
 # 津伤口渴

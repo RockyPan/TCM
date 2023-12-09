@@ -1,15 +1,27 @@
 created: 20231115084447624
 creator: KylePan
-modified: 20231115084550456
+difficulty: 2.043253369025958
+due: 20231210105722299
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231209105722299
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231209105722299
+stability: 0.3375
+tags: 中药 ?
 title: 远志
+type: text/vnd.tiddlywiki
 
 【药性】　苦、辛，温。归心、肾、肺经。
 
 【功效】　安神益智，交通心肾，祛痰开窍，消散痈肿。
 
 【应用】　
+
 # 心肾不交引起的失眠多梦、健忘惊悸、神志恍惚
 # 癫痫惊狂
 # 咳痰不爽
