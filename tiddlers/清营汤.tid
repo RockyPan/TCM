@@ -1,17 +1,17 @@
 created: 20231113071207173
 creator: KylePan
-difficulty: 5.638509485783603
-due: 20231209012831281
+difficulty: 5.734063277617334
+due: 20231221073844511
 grade: 1
-history: [{"due":"20231201031719098","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130031719098"},{"due":"20231202024352873","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201024352873"},{"due":"20231203031557797","interval":1,"difficulty":5.925650499784798,"stability":0.3155666907540653,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231202031557795"}]
-interval: 2
+history: [{"due":"20231201031719098","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130031719098"},{"due":"20231202024352873","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201024352873"},{"due":"20231203031557797","interval":1,"difficulty":5.925650499784798,"stability":0.3155666907540653,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231202031557795"},{"due":"20231209012831281","interval":2,"difficulty":5.638509485783603,"stability":4.775526229158205,"retrievability":0.5128589859988048,"grade":1,"lapses":2,"reps":2,"review":"20231204012831280"}]
+interval: 5
 lapses: 2
-modified: 20231204012831281
+modified: 20231209073844512
 modifier: KylePan
-reps: 2
-retrievability: 0.5128589859988048
-review: 20231204012831280
-stability: 4.775526229158205
+reps: 3
+retrievability: 0.8955537918337317
+review: 20231209073844506
+stability: 11.57092226204628
 tags: 方剂 ?
 title: 清营汤
 type: text/vnd.tiddlywiki

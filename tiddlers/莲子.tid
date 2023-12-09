@@ -1,17 +1,17 @@
 created: 20231115005958064
 creator: KylePan
-difficulty: 4.4611258107950436
-due: 20231209020009020
-grade: 0
-history: [{"due":"20231207124012172","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206124012172"},{"due":"20231208024715841","interval":1,"difficulty":3.480252452613064,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231207024715840"}]
+difficulty: 4.227314557331674
+due: 20231212072459131
+grade: 1
+history: [{"due":"20231207124012172","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206124012172"},{"due":"20231208024715841","interval":1,"difficulty":3.480252452613064,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231207024715840"},{"due":"20231209020009020","interval":1,"difficulty":4.4611258107950436,"stability":0.18522392718173394,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231208020009019"}]
 interval: 1
 lapses: 2
-modified: 20231208020009020
+modified: 20231209072459132
 modifier: KylePan
-reps: 1
-retrievability: 0.780873358181979
-review: 20231208020009019
-stability: 0.18522392718173394
+reps: 2
+retrievability: 0.5661887465366303
+review: 20231209072459129
+stability: 3.268167546893202
 tags: 中药 ?
 title: 莲子
 type: text/vnd.tiddlywiki
