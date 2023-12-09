@@ -1,17 +1,17 @@
 created: 20231113094117390
 creator: KylePan
-difficulty: 4.871050087271874
-due: 20231209020117977
+difficulty: 4.967027768882524
+due: 20231217081037133
 grade: 1
-history: [{"due":"20231202032322614","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032322614"},{"due":"20231205041202701","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231202041202700"},{"due":"20231206024200091","interval":3,"difficulty":4.8901767290898945,"stability":0.4259704768919878,"retrievability":0.9098045073026005,"grade":0,"lapses":1,"reps":1,"review":"20231205024200091"}]
-interval: 1
+history: [{"due":"20231202032322614","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032322614"},{"due":"20231205041202701","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231202041202700"},{"due":"20231206024200091","interval":3,"difficulty":4.8901767290898945,"stability":0.4259704768919878,"retrievability":0.9098045073026005,"grade":0,"lapses":1,"reps":1,"review":"20231205024200091"},{"due":"20231209020117977","interval":1,"difficulty":4.871050087271874,"stability":2.8776601763773564,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231206020117977"}]
+interval: 3
 lapses: 1
-modified: 20231206020117977
+modified: 20231209081037133
 modifier: KylePan
-reps: 2
-retrievability: 0.780873358181979
-review: 20231206020117977
-stability: 2.8776601763773564
+reps: 3
+retrievability: 0.89597768161065
+review: 20231209081037131
+stability: 7.866800521086298
 tags: 中药 ?
 title: 浙贝母
 type: text/vnd.tiddlywiki

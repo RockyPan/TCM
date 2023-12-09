@@ -1,17 +1,17 @@
 created: 20231114093458298
 creator: KylePan
-difficulty: 3.9988663923739782
-due: 20231209015931024
+difficulty: 4.105938583035431
+due: 20231218081018095
 grade: 1
-history: [{"due":"20231205131717348","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131717348"},{"due":"20231206024049458","interval":1,"difficulty":4.017993034191999,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231205024049458"}]
-interval: 1
+history: [{"due":"20231205131717348","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131717348"},{"due":"20231206024049458","interval":1,"difficulty":4.017993034191999,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231205024049458"},{"due":"20231209015931024","interval":1,"difficulty":3.9988663923739782,"stability":3.240757196476688,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231206015931023"}]
+interval: 3
 lapses: 1
-modified: 20231206015931024
+modified: 20231209081018096
 modifier: KylePan
-reps: 2
-retrievability: 0.780873358181979
-review: 20231206015931023
-stability: 3.240757196476688
+reps: 3
+retrievability: 0.9070721906614518
+review: 20231209081018094
+stability: 8.809545427327551
 tags: 中药 ?
 title: 银柴胡
 type: text/vnd.tiddlywiki
