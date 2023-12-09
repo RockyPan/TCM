@@ -1,15 +1,27 @@
 created: 20231115011006528
 creator: KylePan
-modified: 20231115011146209
+difficulty: 2.043253369025958
+due: 20231210103310861
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231209103310861
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231209103310861
+stability: 0.3375
+tags: 中药 ?
 title: 黄芪
+type: text/vnd.tiddlywiki
 
 【药性】　甘，微温。归脾、肺经。
 
 【功效】　补气升阳，益卫固表，利水消肿，生津养血，行滞通痹，托毒排脓，敛疮生肌。
 
 【应用】
+
 # 气虚乏力，食少便溏，水肿尿少，中气下陷，久泻脱肛，便血崩漏
 # 肺气虚弱，咳喘气短
 # 表虚自汗
