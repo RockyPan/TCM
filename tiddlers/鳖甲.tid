@@ -1,17 +1,17 @@
 created: 20231114093150706
 creator: KylePan
-difficulty: 3.9988663923739782
-due: 20231209010206040
+difficulty: 4.105938583035431
+due: 20231218063709566
 grade: 1
-history: [{"due":"20231205131127862","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131127862"},{"due":"20231206005238652","interval":1,"difficulty":4.017993034191999,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231205005238652"}]
-interval: 1
+history: [{"due":"20231205131127862","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131127862"},{"due":"20231206005238652","interval":1,"difficulty":4.017993034191999,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231205005238652"},{"due":"20231209010206040","interval":1,"difficulty":3.9988663923739782,"stability":3.240757196476688,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231206010206040"}]
+interval: 3
 lapses: 1
-modified: 20231206010206040
+modified: 20231209063709567
 modifier: KylePan
-reps: 2
-retrievability: 0.780873358181979
-review: 20231206010206040
-stability: 3.240757196476688
+reps: 3
+retrievability: 0.9070721906614518
+review: 20231209063709561
+stability: 8.809545427327551
 tags: 中药 ?
 title: 鳖甲
 type: text/vnd.tiddlywiki

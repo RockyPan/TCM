@@ -1,17 +1,17 @@
 created: 20231115005841936
 creator: KylePan
-difficulty: 4.4611258107950436
-due: 20231209005558678
+difficulty: 5.227314557331674
+due: 20231210064258111
 grade: 0
-history: [{"due":"20231207123954945","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206123954945"},{"due":"20231208012600525","interval":1,"difficulty":3.480252452613064,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231207012600525"}]
+history: [{"due":"20231207123954945","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206123954945"},{"due":"20231208012600525","interval":1,"difficulty":3.480252452613064,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231207012600525"},{"due":"20231209005558678","interval":1,"difficulty":4.4611258107950436,"stability":0.18522392718173394,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231208005558678"}]
 interval: 1
-lapses: 2
-modified: 20231208005558678
+lapses: 3
+modified: 20231209064258112
 modifier: KylePan
 reps: 1
-retrievability: 0.780873358181979
-review: 20231208005558678
-stability: 0.18522392718173394
+retrievability: 0.5661887465366303
+review: 20231209064258108
+stability: 0.13721726016245223
 tags: 方剂 ?
 title: 参苓白术散
 type: text/vnd.tiddlywiki

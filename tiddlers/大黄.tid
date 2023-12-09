@@ -1,17 +1,17 @@
 created: 20231113035643003
 creator: KylePan
-difficulty: 8.670092326698711
-due: 20231209013348483
+difficulty: 8.77248235965914
+due: 20231213064805747
 grade: 1
-history: [{"due":"20231127070601078","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125070601078"},{"due":"20231203023839781","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127023839780"},{"due":"20231204022615241","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231203022615238"},{"due":"20231205031208862","interval":1,"difficulty":7.1725197853298575,"stability":0.3155666907540653,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231204031208862"},{"due":"20231206005948700","interval":1,"difficulty":8.088661521300331,"stability":0.23377755435084455,"retrievability":0.7161417359704745,"grade":0,"lapses":3,"reps":1,"review":"20231205005948700"},{"due":"20231207010837728","interval":1,"difficulty":8.925851742781155,"stability":0.17318667184951622,"retrievability":0.6371902214808245,"grade":0,"lapses":4,"reps":1,"review":"20231206010837728"}]
-interval: 1
+history: [{"due":"20231127070601078","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125070601078"},{"due":"20231203023839781","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127023839780"},{"due":"20231204022615241","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231203022615238"},{"due":"20231205031208862","interval":1,"difficulty":7.1725197853298575,"stability":0.3155666907540653,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231204031208862"},{"due":"20231206005948700","interval":1,"difficulty":8.088661521300331,"stability":0.23377755435084455,"retrievability":0.7161417359704745,"grade":0,"lapses":3,"reps":1,"review":"20231205005948700"},{"due":"20231207010837728","interval":1,"difficulty":8.925851742781155,"stability":0.17318667184951622,"retrievability":0.6371902214808245,"grade":0,"lapses":4,"reps":1,"review":"20231206010837728"},{"due":"20231209013348483","interval":1,"difficulty":8.670092326698711,"stability":2.051642732328606,"retrievability":0.5442405839175557,"grade":1,"lapses":4,"reps":2,"review":"20231207013348483"}]
+interval: 2
 lapses: 4
-modified: 20231207013348483
+modified: 20231209064805747
 modifier: KylePan
-reps: 2
-retrievability: 0.5442405839175557
-review: 20231207013348483
-stability: 2.051642732328606
+reps: 3
+retrievability: 0.902390032960429
+review: 20231209064805744
+stability: 4.4422552203435
 tags: 中药 ?
 title: 大黄
 type: text/vnd.tiddlywiki
