@@ -1,17 +1,17 @@
 created: 20231113054016296
 creator: KylePan
-difficulty: 7.359449348765014
-due: 20231210075141875
-grade: 0
-history: [{"due":"20231128102452166","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102452166"},{"due":"20231129093634634","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128093634634"},{"due":"20231202022759289","interval":1,"difficulty":6.173323393532753,"stability":2.631403264144997,"retrievability":0.8733233935327525,"grade":1,"lapses":1,"reps":2,"review":"20231129022759289"},{"due":"20231209031905906","interval":3,"difficulty":6.260138286834374,"stability":6.949489811915884,"retrievability":0.8868148933016202,"grade":1,"lapses":1,"reps":3,"review":"20231202031905904"}]
-interval: 7
+difficulty: 7.125638095301644
+due: 20231212030245881
+grade: 1
+history: [{"due":"20231128102452166","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102452166"},{"due":"20231129093634634","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128093634634"},{"due":"20231202022759289","interval":1,"difficulty":6.173323393532753,"stability":2.631403264144997,"retrievability":0.8733233935327525,"grade":1,"lapses":1,"reps":2,"review":"20231129022759289"},{"due":"20231209031905906","interval":3,"difficulty":6.260138286834374,"stability":6.949489811915884,"retrievability":0.8868148933016202,"grade":1,"lapses":1,"reps":3,"review":"20231202031905904"},{"due":"20231210075141875","interval":7,"difficulty":7.359449348765014,"stability":0.18522392718173394,"retrievability":0.8993110619306397,"grade":0,"lapses":2,"reps":1,"review":"20231209075141870"}]
+interval: 1
 lapses: 2
-modified: 20231209075141876
+modified: 20231210030245882
 modifier: KylePan
-reps: 1
-retrievability: 0.8993110619306397
-review: 20231209075141870
-stability: 0.18522392718173394
+reps: 2
+retrievability: 0.5661887465366303
+review: 20231210030245876
+stability: 2.3243389873314353
 tags: 方剂 ?
 title: 十枣汤
 type: text/vnd.tiddlywiki

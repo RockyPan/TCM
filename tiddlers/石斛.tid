@@ -1,17 +1,17 @@
 created: 20231114012122084
 creator: KylePan
-difficulty: 3.640976298811018
-due: 20231210013918055
+difficulty: 3.743679714987201
+due: 20231227030304467
 grade: 1
-history: [{"due":"20231203075545988","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202075545988"}]
-interval: 2
+history: [{"due":"20231203075545988","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202075545988"},{"due":"20231210013918055","interval":2,"difficulty":3.640976298811018,"stability":6.175806421831119,"retrievability":0.6931759895835838,"grade":1,"lapses":0,"reps":2,"review":"20231204013918055"}]
+interval: 6
 lapses: 0
-modified: 20231204013918055
+modified: 20231210030304467
 modifier: KylePan
-reps: 2
-retrievability: 0.6931759895835838
-review: 20231204013918055
-stability: 6.175806421831119
+reps: 3
+retrievability: 0.9027034161761834
+review: 20231210030304466
+stability: 16.61804658423306
 tags: 中药 ?
 title: 石斛
 type: text/vnd.tiddlywiki

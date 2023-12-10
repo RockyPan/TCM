@@ -1,17 +1,17 @@
 created: 20231113072800036
 creator: KylePan
-difficulty: 6.734063277617334
-due: 20231210075807864
-grade: 0
-history: [{"due":"20231201034214349","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130034214349"},{"due":"20231202025606760","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201025606760"},{"due":"20231203035403994","interval":1,"difficulty":5.925650499784798,"stability":0.3155666907540653,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231202035403991"},{"due":"20231209015125656","interval":2,"difficulty":5.638509485783603,"stability":4.775526229158205,"retrievability":0.5128589859988048,"grade":1,"lapses":2,"reps":2,"review":"20231204015125656"}]
-interval: 5
+difficulty: 6.398078838272943
+due: 20231213031209643
+grade: 1
+history: [{"due":"20231201034214349","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130034214349"},{"due":"20231202025606760","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201025606760"},{"due":"20231203035403994","interval":1,"difficulty":5.925650499784798,"stability":0.3155666907540653,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231202035403991"},{"due":"20231209015125656","interval":2,"difficulty":5.638509485783603,"stability":4.775526229158205,"retrievability":0.5128589859988048,"grade":1,"lapses":2,"reps":2,"review":"20231204015125656"},{"due":"20231210075807864","interval":5,"difficulty":6.734063277617334,"stability":0.13721726016245223,"retrievability":0.8955537918337317,"grade":0,"lapses":3,"reps":1,"review":"20231209075807860"}]
+interval: 1
 lapses: 3
-modified: 20231209075807865
+modified: 20231210031209644
 modifier: KylePan
-reps: 1
-retrievability: 0.8955537918337317
-review: 20231209075807860
-stability: 0.13721726016245223
+reps: 2
+retrievability: 0.4640155606556087
+review: 20231210031209639
+stability: 2.5062407211706743
 tags: 方剂 ?
 title: 犀角地黄汤
 type: text/vnd.tiddlywiki
