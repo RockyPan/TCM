@@ -1,17 +1,17 @@
 created: 20231115010602817
 creator: KylePan
-difficulty: 2.043253369025958
-due: 20231210101133668
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231209101133668
+difficulty: 2.97510366059459
+due: 20231211021153607
+grade: 0
+history: [{"due":"20231210101133668","interval":0,"difficulty":2.043253369025958,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231209101133668"}]
+interval: 1
+lapses: 1
+modified: 20231210021153608
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231209101133668
-stability: 0.3375
+retrievability: 0.7318502915686316
+review: 20231210021153605
+stability: 0.2500261494800798
 tags: 方剂 ?
 title: 补中益气汤
 type: text/vnd.tiddlywiki
