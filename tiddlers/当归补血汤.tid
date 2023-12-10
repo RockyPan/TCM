@@ -1,17 +1,17 @@
 created: 20231115084049624
 creator: KylePan
-difficulty: 2.043253369025958
-due: 20231210104457335
-grade: -1
-history: []
-interval: 0
+difficulty: 1.9751036605945897
+due: 20231215022756214
+grade: 1
+history: [{"due":"20231210104457335","interval":0,"difficulty":2.043253369025958,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231209104457335"}]
+interval: 1
 lapses: 0
-modified: 20231209104457335
+modified: 20231210022756214
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231209104457335
-stability: 0.3375
+reps: 2
+retrievability: 0.7318502915686316
+review: 20231210022756211
+stability: 5.143270388606108
 tags: 方剂 ?
 title: 当归补血汤
 type: text/vnd.tiddlywiki
