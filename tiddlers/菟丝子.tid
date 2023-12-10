@@ -1,6 +1,16 @@
 created: 20231115134218020
-modified: 20231115134410850
-tags: ? 中药
+difficulty: 1.7275095844283441
+due: 20231211072253118
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231210072253118
+reps: 1
+retrievability: 1
+review: 20231210072253118
+stability: 0.3375
+tags: 中药 ?
 title: 菟丝子
 type: text/vnd.tiddlywiki
 
@@ -9,6 +19,7 @@ type: text/vnd.tiddlywiki
 【功效】　补益肝肾，固精缩尿，安胎，明目，止泻；外用消风祛斑。
 
 【应用】　
+
 # 肝肾不足，腰膝酸软，阳痿遗精，遗尿尿频　
 # 肾虚胎漏，胎动不安
 # 肝肾不足，目昏耳鸣

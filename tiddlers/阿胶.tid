@@ -1,15 +1,27 @@
 created: 20231115105252482
 creator: KylePan
-modified: 20231115105359875
+difficulty: 1.7275095844283441
+due: 20231211071131413
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231210071131413
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231210071131413
+stability: 0.3375
+tags: 中药 ?
 title: 阿胶
+type: text/vnd.tiddlywiki
 
 【药性】　甘，平。归肺、肝、肾经。
 
 【功效】　补血，止血，滋阴润燥。
 
 【应用】
+
 # 血虚萎黄，眩晕心悸，肌痿无力
 # 吐血尿血，便血崩漏，妊娠胎漏
 # 热病伤阴、心烦不眠，虚风内动、手足瘛疭

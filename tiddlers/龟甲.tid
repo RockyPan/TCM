@@ -1,6 +1,16 @@
 created: 20231115134013577
-modified: 20231115134154274
-tags: ? 中药
+difficulty: 1.7275095844283441
+due: 20231211072226664
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231210072226664
+reps: 1
+retrievability: 1
+review: 20231210072226664
+stability: 0.3375
+tags: 中药 ?
 title: 龟甲
 type: text/vnd.tiddlywiki
 
@@ -8,7 +18,8 @@ type: text/vnd.tiddlywiki
 
 【功效】　滋阴潜阳，益肾强骨，养血补心，固经止崩。
 
-【应用】　
+【应用】
+
 # 阴虚潮热、骨蒸盗汗，阴虚阳亢、头晕目眩，虚风内动
 # 肾虚筋骨痿软，囟门不合
 # 阴血亏虚，惊悸、失眠、健忘
