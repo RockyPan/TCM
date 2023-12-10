@@ -1,15 +1,27 @@
 created: 20231116054919817
 creator: KylePan
-modified: 20231116055033514
+difficulty: 1.7275095844283441
+due: 20231211075313686
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231210075313686
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231210075313686
+stability: 0.3375
+tags: 中药 ?
 title: 罂粟壳
+type: text/vnd.tiddlywiki
 
 【药性】　酸、涩，平；有毒。归肺、大肠、肾经。
 
 【功效】　敛肺，涩肠，止痛。
 
 【应用】
+
 # 肺虚久咳
 # 久泻久痢，脱肛
 # 脘腹疼痛，筋骨疼痛

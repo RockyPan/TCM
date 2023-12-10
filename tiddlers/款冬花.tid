@@ -1,15 +1,27 @@
 created: 20231116054658097
 creator: KylePan
-modified: 20231116054744770
+difficulty: 1.7275095844283441
+due: 20231211075248456
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231210075248456
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231210075248456
+stability: 0.3375
+tags: 中药 ?
 title: 款冬花
+type: text/vnd.tiddlywiki
 
 【药性】　辛、微苦，温。归肺经。
 
 【功效】　润肺下气，止咳化痰。
 
 【应用】　
+
 # 新久咳嗽，喘咳痰多，劳嗽咳血
 
 分类：化痰止咳平喘药 止咳平喘药

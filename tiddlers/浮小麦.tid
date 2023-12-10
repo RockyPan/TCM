@@ -1,15 +1,27 @@
 created: 20231116053749923
 creator: KylePan
-modified: 20231116053839098
+difficulty: 1.7275095844283441
+due: 20231211075153245
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231210075153245
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231210075153245
+stability: 0.3375
+tags: 中药 ?
 title: 浮小麦
+type: text/vnd.tiddlywiki
 
 【药性】　甘，凉。归心经。
 
 【功效】　固表止汗，益气，除热。
 
 【应用】　
+
 # 自汗，盗汗
 # 阴虚发热，骨蒸劳热
 

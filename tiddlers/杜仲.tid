@@ -1,15 +1,27 @@
 created: 20231116052745898
 creator: KylePan
-modified: 20231116052908402
+difficulty: 1.7275095844283441
+due: 20231211074933993
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231210074933993
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231210074933993
+stability: 0.3375
+tags: 中药 ?
 title: 杜仲
+type: text/vnd.tiddlywiki
 
 【药性】　甘，温。归肝、肾经。
 
 【功效】　补肝肾，强筋骨，安胎。
 
 【应用】　
+
 # 肝肾不足，腰膝酸痛，筋骨无力，头晕目眩
 # 肝肾亏虚，妊娠漏血，胎动不安
 

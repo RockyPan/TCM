@@ -1,15 +1,27 @@
 created: 20231116053512258
 creator: KylePan
-modified: 20231116053553018
+difficulty: 1.7275095844283441
+due: 20231211075123859
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231210075123859
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231210075123859
+stability: 0.3375
+tags: 中药 ?
 title: 麻黄根
+type: text/vnd.tiddlywiki
 
 【药性】　甘、涩，平。归心、肺经。
 
 【功效】　固表止汗。
 
 【应用】　
+
 # 自汗，盗汗
 
 分类：收涩药 固表止汗药

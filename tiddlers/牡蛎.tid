@@ -1,15 +1,27 @@
 created: 20231116053601674
 creator: KylePan
-modified: 20231116053725354
+difficulty: 1.7275095844283441
+due: 20231211075139222
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231210075139222
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231210075139222
+stability: 0.3375
+tags: 中药 ?
 title: 牡蛎
+type: text/vnd.tiddlywiki
 
 【药性】　咸，微寒。归肝、胆、肾经。
 
 【功效】　潜阳补阴，重镇安神，软坚散结，收敛固涩，制酸止痛。
 
 【应用】　
+
 # 肝阳上亢，眩晕耳鸣
 # 心神不宁，惊悸失眠
 # 瘰疬痰核，癥瘕痞块

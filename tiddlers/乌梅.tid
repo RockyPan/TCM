@@ -1,15 +1,27 @@
 created: 20231116054755585
 creator: KylePan
-modified: 20231116054906609
+difficulty: 1.7275095844283441
+due: 20231211075259754
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231210075259754
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231210075259754
+stability: 0.3375
+tags: 中药 ?
 title: 乌梅
+type: text/vnd.tiddlywiki
 
 【药性】　酸、涩，平。归肝、脾、肺、大肠经。
 
 【功效】　敛肺，涩肠，生津，安蛔。
 
 【应用】　
+
 # 肺虚久咳
 # 久泻久痢
 # 虚热消渴
