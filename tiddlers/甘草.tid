@@ -1,17 +1,17 @@
 created: 20231113010847946
 creator: KylePan
-difficulty: 5.1582034015854665
-due: 20231211130558902
+difficulty: 5.257470363438438
+due: 20240116011747257
 grade: 1
-history: [{"due":"20231116012758494","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012758494"},{"due":"20231122082258460","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116082258460"}]
-interval: 8
+history: [{"due":"20231116012758494","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012758494"},{"due":"20231122082258460","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116082258460"},{"due":"20231211130558902","interval":8,"difficulty":5.1582034015854665,"stability":16.869537326515847,"retrievability":0.8582034015854654,"grade":1,"lapses":0,"reps":3,"review":"20231124130558899"}]
+interval: 17
 lapses: 0
-modified: 20231124130558902
+modified: 20231211011747257
 modifier: KylePan
-reps: 3
-retrievability: 0.8582034015854654
-review: 20231124130558899
-stability: 16.869537326515847
+reps: 4
+retrievability: 0.8992669618529714
+review: 20231211011747257
+stability: 35.94694856062865
 tags: 中药 ?
 title: 甘草
 type: text/vnd.tiddlywiki

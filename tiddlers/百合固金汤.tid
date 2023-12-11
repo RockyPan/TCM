@@ -1,15 +1,17 @@
 created: 20231115134808075
-difficulty: 1.7275095844283441
-due: 20231211073903245
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231210073903245
+creator: KylePan
+difficulty: 2.6593598759969757
+due: 20231212010413256
+grade: 0
+history: [{"due":"20231211073903245","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210073903245"}]
+interval: 1
+lapses: 1
+modified: 20231211010413256
+modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231210073903245
-stability: 0.3375
+retrievability: 0.7318502915686316
+review: 20231211010413256
+stability: 0.2500261494800798
 tags: 方剂 ?
 title: 百合固金汤
 type: text/vnd.tiddlywiki
