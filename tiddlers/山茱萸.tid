@@ -1,15 +1,17 @@
 created: 20231115133248726
-difficulty: 1.7275095844283441
-due: 20231211072005968
-grade: -1
-history: []
-interval: 0
+creator: KylePan
+difficulty: 1.6593598759969754
+due: 20231217022240399
+grade: 1
+history: [{"due":"20231211072005968","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210072005968"}]
+interval: 1
 lapses: 0
-modified: 20231210072005968
-reps: 1
-retrievability: 1
-review: 20231210072005968
-stability: 0.3375
+modified: 20231211022240399
+modifier: KylePan
+reps: 2
+retrievability: 0.7318502915686316
+review: 20231211022240399
+stability: 5.766471149385786
 tags: 中药 ?
 title: 山茱萸
 type: text/vnd.tiddlywiki

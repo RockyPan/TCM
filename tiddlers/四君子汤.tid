@@ -1,17 +1,17 @@
 created: 20231115005751994
 creator: KylePan
-difficulty: 2.480252452613064
-due: 20231211032432064
+difficulty: 2.5867690832763808
+due: 20231225022748872
 grade: 1
-history: [{"due":"20231207123146548","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206123146548"}]
-interval: 1
+history: [{"due":"20231207123146548","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206123146548"},{"due":"20231211032432064","interval":1,"difficulty":2.480252452613064,"stability":4.2940362257416975,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231207032432064"}]
+interval: 4
 lapses: 0
-modified: 20231207032432065
+modified: 20231211022748872
 modifier: KylePan
-reps: 2
-retrievability: 0.8325719125598604
-review: 20231207032432064
-stability: 4.2940362257416975
+reps: 3
+retrievability: 0.9065166306633163
+review: 20231211022748872
+stability: 13.992559034256445
 tags: 方剂 ?
 title: 四君子汤
 type: text/vnd.tiddlywiki
