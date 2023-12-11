@@ -1,15 +1,17 @@
 created: 20231115135509175
-difficulty: 1.7275095844283441
-due: 20231211074116394
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231210074116394
+creator: KylePan
+difficulty: 2.6593598759969757
+due: 20231212015356175
+grade: 0
+history: [{"due":"20231211074116394","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210074116394"}]
+interval: 1
+lapses: 1
+modified: 20231211015356175
+modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231210074116394
-stability: 0.3375
+retrievability: 0.7318502915686316
+review: 20231211015356175
+stability: 0.2500261494800798
 tags: 中药 ?
 title: 南沙参
 type: text/vnd.tiddlywiki
