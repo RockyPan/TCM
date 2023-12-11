@@ -1,17 +1,17 @@
 created: 20231115083938632
 creator: KylePan
-difficulty: 2.97510366059459
-due: 20231211030453566
+difficulty: 3.831232580383168
+due: 20231212024002486
 grade: 0
-history: [{"due":"20231210104257373","interval":0,"difficulty":2.043253369025958,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231209104257373"}]
+history: [{"due":"20231210104257373","interval":0,"difficulty":2.043253369025958,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231209104257373"},{"due":"20231211030453566","interval":1,"difficulty":2.97510366059459,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231210030453564"}]
 interval: 1
-lapses: 1
-modified: 20231210030453566
+lapses: 2
+modified: 20231211024002486
 modifier: KylePan
 reps: 1
-retrievability: 0.7318502915686316
-review: 20231210030453564
-stability: 0.2500261494800798
+retrievability: 0.6561289197885782
+review: 20231211024002486
+stability: 0.18522392718173394
 tags: 方剂 ?
 title: 四物汤
 type: text/vnd.tiddlywiki
