@@ -1,17 +1,17 @@
 created: 20231113020901583
 creator: KylePan
-difficulty: 4.822431111850943
-due: 20231212122348325
+difficulty: 4.922067626668077
+due: 20240120011813991
 grade: 1
-history: [{"due":"20231117055018272","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115055018272"}]
-interval: 9
+history: [{"due":"20231117055018272","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115055018272"},{"due":"20231212122348325","interval":9,"difficulty":4.822431111850943,"stability":17.93125127850223,"retrievability":0.6224311118509421,"grade":1,"lapses":0,"reps":2,"review":"20231124122348322"}]
+interval: 18
 lapses: 0
-modified: 20231124122348326
+modified: 20231212011813991
 modifier: KylePan
-reps: 2
-retrievability: 0.6224311118509421
-review: 20231124122348322
-stability: 17.93125127850223
+reps: 3
+retrievability: 0.8996365148171338
+review: 20231212011813990
+stability: 38.82844990724686
 tags: 中药 ?
 title: 柴胡
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231113020003720
 creator: KylePan
-difficulty: 4.822431111850943
-due: 20231212110657269
+difficulty: 4.922067626668077
+due: 20240120010753064
 grade: 1
-history: [{"due":"20231117054930254","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115054930254"}]
-interval: 9
+history: [{"due":"20231117054930254","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115054930254"},{"due":"20231212110657269","interval":9,"difficulty":4.822431111850943,"stability":17.93125127850223,"retrievability":0.6224311118509421,"grade":1,"lapses":0,"reps":2,"review":"20231124110657267"}]
+interval: 18
 lapses: 0
-modified: 20231125033322631
+modified: 20231212010753064
 modifier: KylePan
-reps: 2
-retrievability: 0.6224311118509421
-review: 20231124110657267
-stability: 17.93125127850223
+reps: 3
+retrievability: 0.8996365148171338
+review: 20231212010753063
+stability: 38.82844990724686
 tags: 方剂 ?
 title: 败毒散
 type: text/vnd.tiddlywiki
