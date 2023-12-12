@@ -1,15 +1,27 @@
 created: 20231117014924661
 creator: KylePan
-modified: 20231117015101733
+difficulty: 1.4747668508725869
+due: 20231213134258585
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231212134258585
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231212134258585
+stability: 0.3375
+tags: 中药 ?
 title: 五倍子
+type: text/vnd.tiddlywiki
 
 【药性】　酸、涩，寒。归肺、大肠、肾经。
 
 【功效】　敛肺降火，涩肠止泻，敛汗，固精止遗，止血，收湿敛疮。
 
 【应用】　
+
 # 肺虚久咳，肺热痰嗽
 # 久泻久痢
 # 自汗，盗汗

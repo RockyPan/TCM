@@ -1,15 +1,27 @@
 created: 20231117014218942
 creator: KylePan
-modified: 20231117014324718
+difficulty: 1.4747668508725869
+due: 20231213133336453
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231212133336453
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231212133336453
+stability: 0.3375
+tags: 中药 ?
 title: 石菖蒲
+type: text/vnd.tiddlywiki
 
 【药性】　辛、苦，温。归心、胃经。
 
 【功效】　开窍豁痰，醒神益智，化湿和胃。
 
 【应用】
+
 # 痰蒙清窍，神昏癫痫
 # 健忘失眠，耳鸣耳聋
 # 湿阻中焦，脘痞不饥，噤口下痢

@@ -1,15 +1,27 @@
 created: 20231117023313924
 creator: KylePan
-modified: 20231117023413436
+difficulty: 1.4747668508725869
+due: 20231213134513620
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231212134513620
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231212134513620
+stability: 0.3375
+tags: 中药 ?
 title: 椿皮
+type: text/vnd.tiddlywiki
 
 【药性】　苦、涩，寒。归大肠、胃、肝经。
 
 【功效】　清热燥湿，收涩止带，止泻，止血。
 
-【应用】　
+【应用】
+
 # 赤白带下
 # 久泻久痢，湿热泻痢
 # 崩漏经多，便血痔血
