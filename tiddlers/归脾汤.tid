@@ -1,17 +1,17 @@
 created: 20231115084212384
 creator: KylePan
-difficulty: 3.831232580383168
-due: 20231212012300848
+difficulty: 4.5974213269197985
+due: 20231213013803879
 grade: 0
-history: [{"due":"20231210105637011","interval":0,"difficulty":2.043253369025958,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231209105637011"},{"due":"20231211024337549","interval":1,"difficulty":2.97510366059459,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231210024337545"}]
+history: [{"due":"20231210105637011","interval":0,"difficulty":2.043253369025958,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231209105637011"},{"due":"20231211024337549","interval":1,"difficulty":2.97510366059459,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231210024337545"},{"due":"20231212012300848","interval":1,"difficulty":3.831232580383168,"stability":0.18522392718173394,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231211012300847"}]
 interval: 1
-lapses: 2
-modified: 20231211012300848
+lapses: 3
+modified: 20231212013803879
 modifier: KylePan
 reps: 1
-retrievability: 0.6561289197885782
-review: 20231211012300847
-stability: 0.18522392718173394
+retrievability: 0.5661887465366303
+review: 20231212013803878
+stability: 0.13721726016245223
 tags: 方剂 ?
 title: 归脾汤
 type: text/vnd.tiddlywiki
