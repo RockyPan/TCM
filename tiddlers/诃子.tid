@@ -1,15 +1,27 @@
 created: 20231116060022905
 creator: KylePan
-modified: 20231116060106233
+difficulty: 1.4747668508725869
+due: 20231213132124897
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231212132124897
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231212132124897
+stability: 0.3375
+tags: 中药 ?
 title: 诃子
+type: text/vnd.tiddlywiki
 
 【药性】　苦、酸、涩，平。归肺、大肠经。
 
 【功效】　涩肠止泻，敛肺止咳，降火利咽。
 
 【应用】
+
 # 久泻久痢，便血脱肛
 # 肺虚喘咳，久嗽不止，咽痛音哑
 
