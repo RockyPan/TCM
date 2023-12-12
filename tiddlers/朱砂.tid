@@ -1,15 +1,27 @@
 created: 20231117094857828
 creator: KylePan
-modified: 20231117095008924
+difficulty: 1.4747668508725869
+due: 20231213135629106
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231212135629106
 modifier: KylePan
-tags: ? 中药
+reps: 1
+retrievability: 1
+review: 20231212135629106
+stability: 0.3375
+tags: 中药 ?
 title: 朱砂
+type: text/vnd.tiddlywiki
 
 【药性】　甘，微寒；有毒。归心经。
 
 【功效】　清心镇惊，安神，明目，解毒。
 
 【应用】　
+
 # 心神不宁，心悸易惊，失眠多梦
 # 癫痫发狂，小儿惊风
 # 视物昏花
