@@ -1,17 +1,17 @@
 created: 20231114131521290
 creator: KylePan
-difficulty: 3.5867690832763808
-due: 20231212022642750
-grade: 0
-history: [{"due":"20231207065106230","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206065106230"},{"due":"20231211031955208","interval":1,"difficulty":2.480252452613064,"stability":4.2940362257416975,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231207031955208"}]
-interval: 4
+difficulty: 3.4428980030649594
+due: 20231216081314567
+grade: 1
+history: [{"due":"20231207065106230","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206065106230"},{"due":"20231211031955208","interval":1,"difficulty":2.480252452613064,"stability":4.2940362257416975,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231207031955208"},{"due":"20231212022642750","interval":4,"difficulty":3.5867690832763808,"stability":0.2500261494800798,"retrievability":0.9065166306633163,"grade":0,"lapses":1,"reps":1,"review":"20231211022642750"}]
+interval: 1
 lapses: 1
-modified: 20231211022642750
+modified: 20231212081314567
 modifier: KylePan
-reps: 1
-retrievability: 0.9065166306633163
-review: 20231211022642750
-stability: 0.2500261494800798
+reps: 2
+retrievability: 0.6561289197885782
+review: 20231212081314567
+stability: 3.6690068395720172
 tags: 中药 ?
 title: 熟地黄
 type: text/vnd.tiddlywiki

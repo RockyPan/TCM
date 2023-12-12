@@ -1,17 +1,17 @@
 created: 20231115010813160
 creator: KylePan
-difficulty: 3.831232580383168
-due: 20231212022625766
-grade: 0
-history: [{"due":"20231210102053142","interval":0,"difficulty":2.043253369025958,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231209102053142"},{"due":"20231211030003944","interval":1,"difficulty":2.97510366059459,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231210030003940"}]
+difficulty: 3.5974213269197985
+due: 20231216081209607
+grade: 1
+history: [{"due":"20231210102053142","interval":0,"difficulty":2.043253369025958,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231209102053142"},{"due":"20231211030003944","interval":1,"difficulty":2.97510366059459,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231210030003940"},{"due":"20231212022625766","interval":1,"difficulty":3.831232580383168,"stability":0.18522392718173394,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231211022625766"}]
 interval: 1
 lapses: 2
-modified: 20231211022625766
+modified: 20231212081209607
 modifier: KylePan
-reps: 1
-retrievability: 0.6561289197885782
-review: 20231211022625766
-stability: 0.18522392718173394
+reps: 2
+retrievability: 0.5661887465366303
+review: 20231212081209607
+stability: 3.636795350208455
 tags: 方剂 ?
 title: 生脉散
 type: text/vnd.tiddlywiki

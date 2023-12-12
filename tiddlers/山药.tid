@@ -1,17 +1,17 @@
 created: 20231115010448689
 creator: KylePan
-difficulty: 3.4611258107950436
-due: 20231212023510307
+difficulty: 3.5488936091141934
+due: 20231224081043375
 grade: 1
-history: [{"due":"20231207124122781","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206124122781"},{"due":"20231208031916168","interval":1,"difficulty":3.480252452613064,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231207031916168"}]
-interval: 1
+history: [{"due":"20231207124122781","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206124122781"},{"due":"20231208031916168","interval":1,"difficulty":3.480252452613064,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231207031916168"},{"due":"20231212023510307","interval":1,"difficulty":3.4611258107950436,"stability":3.5401894687382867,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231208023510307"}]
+interval: 4
 lapses: 1
-modified: 20231208023510307
+modified: 20231212081043375
 modifier: KylePan
-reps: 2
-retrievability: 0.780873358181979
-review: 20231208023510307
-stability: 3.5401894687382867
+reps: 3
+retrievability: 0.8877677983191496
+review: 20231212081043375
+stability: 11.612979820825618
 tags: 中药 ?
 title: 山药
 type: text/vnd.tiddlywiki
