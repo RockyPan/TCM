@@ -1,17 +1,17 @@
 created: 20231113032630629
 creator: KylePan
-difficulty: 5.922067626668077
-due: 20231213080154264
+difficulty: 6.778196546456655
+due: 20231214020036393
 grade: 0
-history: [{"due":"20231117103710533","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115103710533"},{"due":"20231212124644398","interval":9,"difficulty":4.822431111850943,"stability":17.93125127850223,"retrievability":0.6224311118509421,"grade":1,"lapses":0,"reps":2,"review":"20231124124644395"}]
-interval: 18
-lapses: 1
-modified: 20231212080154264
+history: [{"due":"20231117103710533","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115103710533"},{"due":"20231212124644398","interval":9,"difficulty":4.822431111850943,"stability":17.93125127850223,"retrievability":0.6224311118509421,"grade":1,"lapses":0,"reps":2,"review":"20231124124644395"},{"due":"20231213080154264","interval":18,"difficulty":5.922067626668077,"stability":0.2500261494800798,"retrievability":0.8996365148171338,"grade":0,"lapses":1,"reps":1,"review":"20231212080154263"}]
+interval: 1
+lapses: 2
+modified: 20231213020036393
 modifier: KylePan
 reps: 1
-retrievability: 0.8996365148171338
-review: 20231212080154263
-stability: 0.2500261494800798
+retrievability: 0.6561289197885782
+review: 20231213020036393
+stability: 0.1200525453955683
 tags: 中药 ?
 title: 牛蒡子
 type: text/vnd.tiddlywiki
