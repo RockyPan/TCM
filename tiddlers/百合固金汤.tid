@@ -6,7 +6,7 @@ grade: 0
 history: [{"due":"20231211073903245","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210073903245"},{"due":"20231212010413256","interval":1,"difficulty":2.6593598759969757,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231211010413256"},{"due":"20231213010409263","interval":1,"difficulty":3.5154887957855543,"stability":0.18522392718173394,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231212010409263"}]
 interval: 1
 lapses: 3
-modified: 20231213010428283
+modified: 20231213111856478
 modifier: KylePan
 reps: 1
 retrievability: 0.5661887465366303
@@ -19,6 +19,8 @@ type: text/vnd.tiddlywiki
 一类
 
 __百合固金二地黄，玄参贝母桔甘藏，麦冬芍药当归配，喘咳痰血肺家伤。__
+
+__二弟卖草药，百元皆归母。__
 
 【组成】[[百合]]　贝母（[[川贝母]]）　[[麦冬]]各一钱半(4.5g)　[[熟地|熟地黄]]　[[生地|生地黄]]　[[当归]]身各三钱(9g)　[[白芍]]　[[甘草]]各一钱(3g)　[[桔梗]]　[[玄参]]各八分(3g)
 
