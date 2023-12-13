@@ -1,17 +1,17 @@
 created: 20231115104921755
 creator: KylePan
-difficulty: 3.5154887957855543
-due: 20231213092652054
+difficulty: 4.281677542322185
+due: 20231214030232664
 grade: 0
-history: [{"due":"20231211071047352","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210071047352"},{"due":"20231212025241326","interval":1,"difficulty":2.6593598759969757,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231211025241325"}]
+history: [{"due":"20231211071047352","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210071047352"},{"due":"20231212025241326","interval":1,"difficulty":2.6593598759969757,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231211025241325"},{"due":"20231213092652054","interval":1,"difficulty":3.5154887957855543,"stability":0.18522392718173394,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231212092652054"}]
 interval: 1
-lapses: 2
-modified: 20231212092652054
+lapses: 3
+modified: 20231213030232664
 modifier: KylePan
 reps: 1
-retrievability: 0.6561289197885782
-review: 20231212092652054
-stability: 0.18522392718173394
+retrievability: 0.5661887465366303
+review: 20231213030232664
+stability: 0.08893711306825607
 tags: 方剂 ?
 title: 炙甘草汤
 type: text/vnd.tiddlywiki

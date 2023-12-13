@@ -1,17 +1,17 @@
 created: 20231117094857828
 creator: KylePan
-difficulty: 1.4747668508725869
-due: 20231213135629106
-grade: -1
-history: []
-interval: 0
+difficulty: 1.4066171424412184
+due: 20231219030239841
+grade: 1
+history: [{"due":"20231213135629106","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135629106"}]
+interval: 1
 lapses: 0
-modified: 20231212135629106
+modified: 20231213030239841
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231212135629106
-stability: 0.3375
+reps: 2
+retrievability: 0.7318502915686316
+review: 20231213030239841
+stability: 6.432206674360466
 tags: 中药 ?
 title: 朱砂
 type: text/vnd.tiddlywiki
