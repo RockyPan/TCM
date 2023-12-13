@@ -1,17 +1,17 @@
 created: 20231117013324638
 creator: KylePan
-difficulty: 1.4747668508725869
-due: 20231213132931636
-grade: -1
-history: []
-interval: 0
+difficulty: 1.4066171424412184
+due: 20231219015159857
+grade: 1
+history: [{"due":"20231213132931636","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212132931636"}]
+interval: 1
 lapses: 0
-modified: 20231212132931636
+modified: 20231213015159857
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231212132931636
-stability: 0.3375
+reps: 2
+retrievability: 0.7318502915686316
+review: 20231213015159857
+stability: 6.432206674360466
 tags: 方剂 ?
 title: 金锁固精丸
 type: text/vnd.tiddlywiki
