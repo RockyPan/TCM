@@ -1,17 +1,17 @@
 created: 20231113055542215
 creator: KylePan
-difficulty: 7.201213312109943
-due: 20231213005623005
+difficulty: 7.30094311335001
+due: 20231224011600897
 grade: 1
-history: [{"due":"20231128111324884","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126111324884"},{"due":"20231204010512766","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128010512766"},{"due":"20231205030921879","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231204030921878"},{"due":"20231206005326916","interval":1,"difficulty":7.1725197853298575,"stability":0.3155666907540653,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231205005326916"},{"due":"20231208010304608","interval":1,"difficulty":7.088661521300332,"stability":2.3026994048604035,"retrievability":0.7161417359704745,"grade":1,"lapses":2,"reps":2,"review":"20231206010304608"}]
-interval: 2
+history: [{"due":"20231128111324884","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126111324884"},{"due":"20231204010512766","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128010512766"},{"due":"20231205030921879","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231204030921878"},{"due":"20231206005326916","interval":1,"difficulty":7.1725197853298575,"stability":0.3155666907540653,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231205005326916"},{"due":"20231208010304608","interval":1,"difficulty":7.088661521300332,"stability":2.3026994048604035,"retrievability":0.7161417359704745,"grade":1,"lapses":2,"reps":2,"review":"20231206010304608"},{"due":"20231213005623005","interval":2,"difficulty":7.201213312109943,"stability":4.985791042088241,"retrievability":0.912551790809611,"grade":1,"lapses":2,"reps":3,"review":"20231208005623005"}]
+interval: 5
 lapses: 2
-modified: 20231208005623005
+modified: 20231213011600897
 modifier: KylePan
-reps: 3
-retrievability: 0.912551790809611
-review: 20231208005623005
-stability: 4.985791042088241
+reps: 4
+retrievability: 0.8997298012400652
+review: 20231213011600897
+stability: 10.675635919881495
 tags: 中药 ?
 title: 陈皮
 type: text/vnd.tiddlywiki
