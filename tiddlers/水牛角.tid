@@ -1,18 +1,18 @@
 caption: 
 created: 20231113071340924
 creator: KylePan
-difficulty: 7.332698834232935
-due: 20231213023529851
+difficulty: 7.431865866004823
+due: 20231224024217832
 grade: 1
-history: [{"due":"20231201032846356","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130032846356"},{"due":"20231202024438537","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201024438537"},{"due":"20231203031921074","interval":1,"difficulty":5.925650499784798,"stability":0.3155666907540653,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231202031921071"},{"due":"20231205012445616","interval":2,"difficulty":6.638509485783603,"stability":0.23377755435084455,"retrievability":0.5128589859988048,"grade":0,"lapses":3,"reps":1,"review":"20231204012445615"},{"due":"20231206013748491","interval":1,"difficulty":7.475699707264427,"stability":0.17318667184951622,"retrievability":0.6371902214808245,"grade":0,"lapses":4,"reps":1,"review":"20231205013748491"},{"due":"20231208013753952","interval":1,"difficulty":7.219940291181984,"stability":2.3084140146278465,"retrievability":0.5442405839175557,"grade":1,"lapses":4,"reps":2,"review":"20231206013753951"}]
-interval: 2
+history: [{"due":"20231201032846356","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130032846356"},{"due":"20231202024438537","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201024438537"},{"due":"20231203031921074","interval":1,"difficulty":5.925650499784798,"stability":0.3155666907540653,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231202031921071"},{"due":"20231205012445616","interval":2,"difficulty":6.638509485783603,"stability":0.23377755435084455,"retrievability":0.5128589859988048,"grade":0,"lapses":3,"reps":1,"review":"20231204012445615"},{"due":"20231206013748491","interval":1,"difficulty":7.475699707264427,"stability":0.17318667184951622,"retrievability":0.6371902214808245,"grade":0,"lapses":4,"reps":1,"review":"20231205013748491"},{"due":"20231208013753952","interval":1,"difficulty":7.219940291181984,"stability":2.3084140146278465,"retrievability":0.5442405839175557,"grade":1,"lapses":4,"reps":2,"review":"20231206013753951"},{"due":"20231213023529851","interval":2,"difficulty":7.332698834232935,"stability":4.9564408875393475,"retrievability":0.912758543050951,"grade":1,"lapses":4,"reps":3,"review":"20231208023529851"}]
+interval: 5
 lapses: 4
-modified: 20231208023529851
+modified: 20231213024217832
 modifier: KylePan
-reps: 3
-retrievability: 0.912758543050951
-review: 20231208023529851
-stability: 4.9564408875393475
+reps: 4
+retrievability: 0.8991670317718871
+review: 20231213024217832
+stability: 10.582454925578986
 tags: 中药 ?
 title: 水牛角
 type: text/vnd.tiddlywiki
