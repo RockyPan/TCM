@@ -1,6 +1,16 @@
 created: 20231118023817916
-modified: 20231118024022022
-tags: ? 中药
+difficulty: 1.2687524673440806
+due: 20231215134916964
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231214134916964
+reps: 1
+retrievability: 1
+review: 20231214134916964
+stability: 0.21875
+tags: 中药 ?
 title: 郁金
 type: text/vnd.tiddlywiki
 
@@ -9,6 +19,7 @@ type: text/vnd.tiddlywiki
 【功效】　活血止痛，行气解郁，清心凉血，利胆退黄。
 
 【应用】
+
 # 气滞血瘀，胸胁刺痛，胸痹心痛，月经不调，经闭痛经，乳房胀痛
 # 热病神昏，癫痫发狂
 # 血热吐衄，妇女倒经

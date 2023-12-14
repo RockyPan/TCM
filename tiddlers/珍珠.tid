@@ -1,6 +1,16 @@
 created: 20231118025351206
-modified: 20231118025537346
-tags: ? 中药
+difficulty: 1.2687524673440806
+due: 20231215135358833
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231214135358833
+reps: 1
+retrievability: 1
+review: 20231214135358833
+stability: 0.21875
+tags: 中药 ?
 title: 珍珠
 type: text/vnd.tiddlywiki
 
@@ -8,7 +18,8 @@ type: text/vnd.tiddlywiki
 
 【功效】　安神定惊，明目消翳，解毒生肌，润肤祛斑。
 
-【应用】　
+【应用】
+
 # 惊悸失眠
 # 惊风癫痫
 # 目赤翳障

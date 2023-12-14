@@ -1,6 +1,16 @@
 created: 20231118031917992
-modified: 20231118032017086
-tags: ? 中药
+difficulty: 1.2687524673440806
+due: 20231215135716964
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231214135716964
+reps: 1
+retrievability: 1
+review: 20231214135716964
+stability: 0.21875
+tags: 中药 ?
 title: 琥珀
 type: text/vnd.tiddlywiki
 
@@ -9,6 +19,7 @@ type: text/vnd.tiddlywiki
 【功效】　镇惊安神，活血散瘀，利尿通淋。
 
 【应用】
+
 # 心神不宁，心悸失眠，惊风，癫痫
 # 血滞经闭痛经，心腹刺痛，癥瘕积聚
 # 淋证，癃闭

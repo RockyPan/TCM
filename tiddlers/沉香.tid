@@ -1,6 +1,16 @@
 created: 20231118030412971
-modified: 20231118030450310
-tags: ? 中药
+difficulty: 1.2687524673440806
+due: 20231215135544491
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231214135544491
+reps: 1
+retrievability: 1
+review: 20231214135544491
+stability: 0.21875
+tags: 中药 ?
 title: 沉香
 type: text/vnd.tiddlywiki
 
@@ -9,6 +19,7 @@ type: text/vnd.tiddlywiki
 【功效】　行气止痛，温中止呕，纳气平喘。
 
 【应用】　
+
 # 寒凝气滞，胸腹胀闷疼痛
 # 胃寒呕吐呃逆
 # 肾虚气逆喘息

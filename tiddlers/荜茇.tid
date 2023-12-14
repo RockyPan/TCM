@@ -1,6 +1,16 @@
 created: 20231118032925089
-modified: 20231118033002228
-tags: ? 中药
+difficulty: 1.2687524673440806
+due: 20231215135841389
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231214135841389
+reps: 1
+retrievability: 1
+review: 20231214135841389
+stability: 0.21875
+tags: 中药 ?
 title: 荜茇
 type: text/vnd.tiddlywiki
 
@@ -8,7 +18,8 @@ type: text/vnd.tiddlywiki
 
 【功效】　温中散寒，下气止痛。
 
-【应用】　
+【应用】
+
 # 中寒脘腹冷痛，呕吐，泄泻
 # 寒凝气滞，胸痹心痛，头痛，牙痛
 

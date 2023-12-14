@@ -1,6 +1,16 @@
 created: 20231118030520101
-modified: 20231118030634310
-tags: ? 中药
+difficulty: 1.2687524673440806
+due: 20231215135558930
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231214135558930
+reps: 1
+retrievability: 1
+review: 20231214135558930
+stability: 0.21875
+tags: 中药 ?
 title: 丁香
 type: text/vnd.tiddlywiki
 
@@ -9,6 +19,7 @@ type: text/vnd.tiddlywiki
 【功效】　温中降逆，散寒止痛，温肾助阳。
 
 【应用】　
+
 # 脾胃虚寒，呃逆呕吐，食少吐泻
 # 心腹冷痛
 # 肾虚阳痿，宫冷

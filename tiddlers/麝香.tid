@@ -1,6 +1,16 @@
 created: 20231118025242444
-modified: 20231118025343312
-tags: ? 中药
+difficulty: 1.2687524673440806
+due: 20231215135332040
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231214135332040
+reps: 1
+retrievability: 1
+review: 20231214135332040
+stability: 0.21875
+tags: 中药 ?
 title: 麝香
 type: text/vnd.tiddlywiki
 
@@ -9,6 +19,7 @@ type: text/vnd.tiddlywiki
 【功效】　开窍醒神，活血通经，消肿止痛。
 
 【应用】
+
 # 热病神昏，中风痰厥，气郁暴厥，中恶昏迷
 # 血瘀经闭，癥瘕，胸痹心痛，心腹暴痛，跌仆伤痛，痹痛麻木，难产死胎
 # 痈肿，瘰疬，咽喉肿痛

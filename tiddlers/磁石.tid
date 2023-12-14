@@ -1,6 +1,16 @@
 created: 20231118030108575
-modified: 20231118030202978
-tags: ? 中药
+difficulty: 1.2687524673440806
+due: 20231215135512125
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231214135512125
+reps: 1
+retrievability: 1
+review: 20231214135512125
+stability: 0.21875
+tags: 中药 ?
 title: 磁石
 type: text/vnd.tiddlywiki
 
@@ -9,6 +19,7 @@ type: text/vnd.tiddlywiki
 【功效】　镇惊安神，平肝潜阳，聪耳明目，纳气平喘。
 
 【应用】　
+
 # 心神不宁，惊悸，失眠
 # 肝阳上亢，头晕目眩
 # 视物昏花，耳鸣耳聋

@@ -1,6 +1,16 @@
 created: 20231118030236576
-modified: 20231118030341056
-tags: ? 中药
+difficulty: 1.2687524673440806
+due: 20231215135528196
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231214135528196
+reps: 1
+retrievability: 1
+review: 20231214135528196
+stability: 0.21875
+tags: 中药 ?
 title: 羚羊角
 type: text/vnd.tiddlywiki
 
@@ -9,6 +19,7 @@ type: text/vnd.tiddlywiki
 【功效】　平肝息风，清肝明目，清热解毒。
 
 【应用】　
+
 # 肝风内动，惊痫抽搐，妊娠子痫，高热痉厥，癫痫发狂
 # 肝阳上亢，头痛眩晕
 # 肝火上炎，目赤翳障

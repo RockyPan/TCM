@@ -1,6 +1,16 @@
 created: 20231118023641350
-modified: 20231118023807819
-tags: ? 中药
+difficulty: 1.2687524673440806
+due: 20231215134853365
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231214134853365
+reps: 1
+retrievability: 1
+review: 20231214134853365
+stability: 0.21875
+tags: 中药 ?
 title: 牛黄
 type: text/vnd.tiddlywiki
 
@@ -8,7 +18,8 @@ type: text/vnd.tiddlywiki
 
 【功效】　凉肝息风，清心豁痰，开窍醒神，清热解毒。
 
-【应用】　
+【应用】
+
 # 温热病及小儿急惊风，惊厥抽搐，癫痫发狂
 # 热病神昏，中风痰迷
 # 咽喉肿痛，口舌生疮，痈肿疔疮

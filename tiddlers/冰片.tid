@@ -1,6 +1,16 @@
 created: 20231118025002342
-modified: 20231118025231949
-tags: ? 中药
+difficulty: 1.2687524673440806
+due: 20231215134956995
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231214134956995
+reps: 1
+retrievability: 1
+review: 20231214134956995
+stability: 0.21875
+tags: 中药 ?
 title: 冰片
 type: text/vnd.tiddlywiki
 
@@ -9,6 +19,7 @@ type: text/vnd.tiddlywiki
 【功效】　开窍醒神，清热止痛。
 
 【应用】　
+
 # 热病神昏，惊厥，中风痰厥，气郁暴厥，中恶昏迷
 # 胸痹心痛
 # 目赤肿痛，口舌生疮，咽喉肿痛，耳道流脓

@@ -1,6 +1,16 @@
 created: 20231118030002907
-modified: 20231118030046346
-tags: ? 中药
+difficulty: 1.2687524673440806
+due: 20231215135451227
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231214135451227
+reps: 1
+retrievability: 1
+review: 20231214135451227
+stability: 0.21875
+tags: 中药 ?
 title: 寒水石
 type: text/vnd.tiddlywiki
 
@@ -9,6 +19,7 @@ type: text/vnd.tiddlywiki
 【功效】　清热泻火。
 
 【应用】　
+
 # 热病烦渴，癫狂
 # 口舌生疮，热毒疮肿，丹毒，烧烫伤
 
