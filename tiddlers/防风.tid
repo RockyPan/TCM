@@ -1,17 +1,17 @@
 created: 20231113012652361
 creator: KylePan
-difficulty: 6.243536753511536
-due: 20231214012545642
-grade: 0
-history: [{"due":"20231116014246029","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014246029"},{"due":"20231122082206349","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116082206348"},{"due":"20231213040807282","interval":9,"difficulty":5.14195525232829,"stability":18.30502694108274,"retrievability":0.8419552523282889,"grade":1,"lapses":0,"reps":3,"review":"20231125040807277"}]
-interval: 18
+difficulty: 6.099665673300114
+due: 20231217013922861
+grade: 1
+history: [{"due":"20231116014246029","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014246029"},{"due":"20231122082206349","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116082206348"},{"due":"20231213040807282","interval":9,"difficulty":5.14195525232829,"stability":18.30502694108274,"retrievability":0.8419552523282889,"grade":1,"lapses":0,"reps":3,"review":"20231125040807277"},{"due":"20231214012545642","interval":18,"difficulty":6.243536753511536,"stability":0.2500261494800798,"retrievability":0.9015815011832458,"grade":0,"lapses":1,"reps":1,"review":"20231213012545642"}]
+interval: 1
 lapses: 1
-modified: 20231213012545643
+modified: 20231214013922861
 modifier: KylePan
-reps: 1
-retrievability: 0.9015815011832458
-review: 20231213012545642
-stability: 0.2500261494800798
+reps: 2
+retrievability: 0.6561289197885782
+review: 20231214013922861
+stability: 2.5410485499981745
 tags: 中药 ?
 title: 防风
 type: text/vnd.tiddlywiki

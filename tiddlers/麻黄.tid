@@ -1,17 +1,17 @@
 created: 20231110065006212
 creator: KylePan
-difficulty: 4.79049
-due: 20231214102633324
+difficulty: 4.88883913988042
+due: 20240126015635094
 grade: 1
-history: [{"due":"20231116012328296","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012328296"}]
-interval: 10
+history: [{"due":"20231116012328296","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012328296"},{"due":"20231214102633324","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231124102633322"}]
+interval: 20
 lapses: 0
-modified: 20231128053515089
+modified: 20231214015635094
 modifier: KylePan
-reps: 2
-retrievability: 0.5904900000000001
-review: 20231124102633322
-stability: 19.657456432345345
+reps: 3
+retrievability: 0.8983491398804202
+review: 20231214015635094
+stability: 42.560874995645975
 tags: 中药 ?
 title: 麻黄
 type: text/vnd.tiddlywiki

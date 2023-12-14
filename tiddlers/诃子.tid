@@ -1,17 +1,17 @@
 created: 20231116060022905
 creator: KylePan
-difficulty: 2.4066171424412186
-due: 20231214015112169
+difficulty: 3.2627460622297972
+due: 20231215015105773
 grade: 0
-history: [{"due":"20231213132124897","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212132124897"}]
+history: [{"due":"20231213132124897","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212132124897"},{"due":"20231214015112169","interval":1,"difficulty":2.4066171424412186,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213015112169"}]
 interval: 1
-lapses: 1
-modified: 20231213015112169
+lapses: 2
+modified: 20231214015105773
 modifier: KylePan
 reps: 1
-retrievability: 0.7318502915686316
-review: 20231213015112169
-stability: 0.2500261494800798
+retrievability: 0.6561289197885782
+review: 20231214015105773
+stability: 0.1200525453955683
 tags: 中药 ?
 title: 诃子
 type: text/vnd.tiddlywiki
