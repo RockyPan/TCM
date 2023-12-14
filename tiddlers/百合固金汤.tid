@@ -1,17 +1,17 @@
 created: 20231115134808075
 creator: KylePan
-difficulty: 4.281677542322185
-due: 20231214010428283
+difficulty: 4.945693102977794
+due: 20231215011423365
 grade: 0
-history: [{"due":"20231211073903245","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210073903245"},{"due":"20231212010413256","interval":1,"difficulty":2.6593598759969757,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231211010413256"},{"due":"20231213010409263","interval":1,"difficulty":3.5154887957855543,"stability":0.18522392718173394,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231212010409263"}]
+history: [{"due":"20231211073903245","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210073903245"},{"due":"20231212010413256","interval":1,"difficulty":2.6593598759969757,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231211010413256"},{"due":"20231213010409263","interval":1,"difficulty":3.5154887957855543,"stability":0.18522392718173394,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231212010409263"},{"due":"20231214010428283","interval":1,"difficulty":4.281677542322185,"stability":0.13721726016245223,"retrievability":0.5661887465366303,"grade":0,"lapses":3,"reps":1,"review":"20231213010428283"}]
 interval: 1
-lapses: 3
-modified: 20231213111856478
+lapses: 4
+modified: 20231214011423365
 modifier: KylePan
 reps: 1
-retrievability: 0.5661887465366303
-review: 20231213010428283
-stability: 0.13721726016245223
+retrievability: 0.4640155606556087
+review: 20231214011423365
+stability: 0.0658862338557942
 tags: 方剂 ?
 title: 百合固金汤
 type: text/vnd.tiddlywiki
