@@ -1,17 +1,17 @@
 created: 20231117023555124
 creator: KylePan
-difficulty: 2.4066171424412186
-due: 20231214024925913
+difficulty: 3.1285810210441785
+due: 20231215023302772
 grade: 0
-history: [{"due":"20231213135101791","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135101791"}]
+history: [{"due":"20231213135101791","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135101791"},{"due":"20231214024925913","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213024925913"}]
 interval: 1
-lapses: 1
-modified: 20231213024925913
+lapses: 2
+modified: 20231214023302772
 modifier: KylePan
 reps: 1
-retrievability: 0.7318502915686316
-review: 20231213024925913
-stability: 0.16205398577412577
+retrievability: 0.5219638786029598
+review: 20231214023302772
+stability: 0.1200525453955683
 tags: 方剂 ?
 title: 完带汤
 type: text/vnd.tiddlywiki
