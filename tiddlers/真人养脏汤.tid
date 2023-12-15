@@ -1,17 +1,17 @@
 created: 20231116055800289
 creator: KylePan
-difficulty: 3.1285810210441785
-due: 20231215024015676
+difficulty: 3.7443522890772796
+due: 20231216005125207
 grade: 0
-history: [{"due":"20231213132056340","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212132056340"},{"due":"20231214025936640","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213025936640"}]
+history: [{"due":"20231213132056340","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212132056340"},{"due":"20231214025936640","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213025936640"},{"due":"20231215024015676","interval":1,"difficulty":3.1285810210441785,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231214024015676"}]
 interval: 1
-lapses: 2
-modified: 20231214024015676
+lapses: 3
+modified: 20231215005125207
 modifier: KylePan
 reps: 1
-retrievability: 0.5219638786029598
-review: 20231214024015676
-stability: 0.1200525453955683
+retrievability: 0.41577126803310094
+review: 20231215005125207
+stability: 0.08893711306825607
 tags: 方剂 ?
 title: 真人养脏汤
 type: text/vnd.tiddlywiki

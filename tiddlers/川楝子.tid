@@ -1,17 +1,17 @@
 created: 20231115134648475
 creator: KylePan
-difficulty: 4.945693102977794
-due: 20231215012738997
+difficulty: 5.347765769047368
+due: 20231216011310574
 grade: 0
-history: [{"due":"20231211073103328","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210073103328"},{"due":"20231212011102319","interval":1,"difficulty":2.6593598759969757,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231211011102319"},{"due":"20231213011827967","interval":1,"difficulty":3.5154887957855543,"stability":0.18522392718173394,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231212011827967"},{"due":"20231214011637513","interval":1,"difficulty":4.281677542322185,"stability":0.13721726016245223,"retrievability":0.5661887465366303,"grade":0,"lapses":3,"reps":1,"review":"20231213011637513"}]
+history: [{"due":"20231211073103328","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210073103328"},{"due":"20231212011102319","interval":1,"difficulty":2.6593598759969757,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231211011102319"},{"due":"20231213011827967","interval":1,"difficulty":3.5154887957855543,"stability":0.18522392718173394,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231212011827967"},{"due":"20231214011637513","interval":1,"difficulty":4.281677542322185,"stability":0.13721726016245223,"retrievability":0.5661887465366303,"grade":0,"lapses":3,"reps":1,"review":"20231213011637513"},{"due":"20231215012738997","interval":1,"difficulty":4.945693102977794,"stability":0.0658862338557942,"retrievability":0.4640155606556087,"grade":0,"lapses":4,"reps":1,"review":"20231214012738997"}]
 interval: 1
-lapses: 4
-modified: 20231214012738997
+lapses: 5
+modified: 20231215011310574
 modifier: KylePan
 reps: 1
-retrievability: 0.4640155606556087
-review: 20231214012738997
-stability: 0.0658862338557942
+retrievability: 0.20207266606957394
+review: 20231215011310574
+stability: 0.04880972253246902
 tags: 中药 ?
 title: 川楝子
 type: text/vnd.tiddlywiki

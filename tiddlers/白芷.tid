@@ -1,17 +1,17 @@
 created: 20231113013420345
 creator: KylePan
-difficulty: 7.099665673300114
-due: 20231215010941821
+difficulty: 7.715436941333215
+due: 20231216010043454
 grade: 0
-history: [{"due":"20231116014526565","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014526565"},{"due":"20231122073043903","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116073043902"},{"due":"20231213040256738","interval":9,"difficulty":5.14195525232829,"stability":18.30502694108274,"retrievability":0.8419552523282889,"grade":1,"lapses":0,"reps":3,"review":"20231125040256734"},{"due":"20231214005933010","interval":18,"difficulty":6.243536753511536,"stability":0.2500261494800798,"retrievability":0.9015815011832458,"grade":0,"lapses":1,"reps":1,"review":"20231213005933010"}]
+history: [{"due":"20231116014526565","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014526565"},{"due":"20231122073043903","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116073043902"},{"due":"20231213040256738","interval":9,"difficulty":5.14195525232829,"stability":18.30502694108274,"retrievability":0.8419552523282889,"grade":1,"lapses":0,"reps":3,"review":"20231125040256734"},{"due":"20231214005933010","interval":18,"difficulty":6.243536753511536,"stability":0.2500261494800798,"retrievability":0.9015815011832458,"grade":0,"lapses":1,"reps":1,"review":"20231213005933010"},{"due":"20231215010941821","interval":1,"difficulty":7.099665673300114,"stability":0.1200525453955683,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231214010941821"}]
 interval: 1
-lapses: 2
-modified: 20231214010941821
+lapses: 3
+modified: 20231215010043454
 modifier: KylePan
 reps: 1
-retrievability: 0.6561289197885782
-review: 20231214010941821
-stability: 0.1200525453955683
+retrievability: 0.41577126803310094
+review: 20231215010043454
+stability: 0.08893711306825607
 tags: 中药 ?
 title: 白芷
 type: text/vnd.tiddlywiki

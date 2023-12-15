@@ -1,15 +1,17 @@
 created: 20231118032925089
-difficulty: 1.2687524673440806
-due: 20231215135841389
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231214135841389
+creator: KylePan
+difficulty: 2.086516899718531
+due: 20231216010506558
+grade: 0
+history: [{"due":"20231215135841389","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135841389"}]
+interval: 1
+lapses: 1
+modified: 20231215010506558
+modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231214135841389
-stability: 0.21875
+retrievability: 0.6177644323744501
+review: 20231215010506557
+stability: 0.16205398577412577
 tags: 中药 ?
 title: 荜茇
 type: text/vnd.tiddlywiki

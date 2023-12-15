@@ -1,17 +1,17 @@
 created: 20231117054117909
 creator: KylePan
-difficulty: 3.2627460622297972
-due: 20231215012832117
+difficulty: 3.8785173302628984
+due: 20231216011403469
 grade: 0
-history: [{"due":"20231213135118278","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135118278"},{"due":"20231214011738786","interval":1,"difficulty":2.4066171424412186,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213011738786"}]
+history: [{"due":"20231213135118278","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135118278"},{"due":"20231214011738786","interval":1,"difficulty":2.4066171424412186,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213011738786"},{"due":"20231215012832117","interval":1,"difficulty":3.2627460622297972,"stability":0.1200525453955683,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231214012832117"}]
 interval: 1
-lapses: 2
-modified: 20231214012832117
+lapses: 3
+modified: 20231215011403469
 modifier: KylePan
 reps: 1
-retrievability: 0.6561289197885782
-review: 20231214012832117
-stability: 0.1200525453955683
+retrievability: 0.41577126803310094
+review: 20231215011403469
+stability: 0.08893711306825607
 tags: 中药 ?
 title: 刺蒺藜
 type: text/vnd.tiddlywiki
