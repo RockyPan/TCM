@@ -1,17 +1,17 @@
 created: 20231116055906041
 creator: KylePan
-difficulty: 3.1285810210441785
-due: 20231215020309749
+difficulty: 3.7443522890772796
+due: 20231216015037370
 grade: 0
-history: [{"due":"20231213132109571","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212132109571"},{"due":"20231214024001847","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213024001847"}]
+history: [{"due":"20231213132109571","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212132109571"},{"due":"20231214024001847","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213024001847"},{"due":"20231215020309749","interval":1,"difficulty":3.1285810210441785,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231214020309749"}]
 interval: 1
-lapses: 2
-modified: 20231214020309749
+lapses: 3
+modified: 20231215015037370
 modifier: KylePan
 reps: 1
-retrievability: 0.5219638786029598
-review: 20231214020309749
-stability: 0.1200525453955683
+retrievability: 0.41577126803310094
+review: 20231215015037370
+stability: 0.08893711306825607
 tags: 中药 ?
 title: 肉豆蔻
 type: text/vnd.tiddlywiki

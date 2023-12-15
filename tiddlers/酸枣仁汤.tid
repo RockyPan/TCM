@@ -1,17 +1,17 @@
 created: 20231117095250116
 creator: KylePan
-difficulty: 1.2687524673440806
-due: 20231215133510261
-grade: -1
-history: []
-interval: 0
+difficulty: 1.0865168997185306
+due: 20231223015621853
+grade: 1
+history: [{"due":"20231215133510261","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214133510261"}]
+interval: 1
 lapses: 0
-modified: 20231214133510261
+modified: 20231215015621853
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231214133510261
-stability: 0.21875
+reps: 2
+retrievability: 0.6177644323744501
+review: 20231215015621853
+stability: 8.032459917058302
 tags: 方剂 ?
 title: 酸枣仁汤
 type: text/vnd.tiddlywiki

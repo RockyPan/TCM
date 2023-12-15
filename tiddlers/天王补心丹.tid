@@ -1,17 +1,17 @@
 created: 20231117095133620
 creator: KylePan
-difficulty: 1.2687524673440806
-due: 20231215131600299
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231214131600299
+difficulty: 2.086516899718531
+due: 20231216020448621
+grade: 0
+history: [{"due":"20231215131600299","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214131600299"}]
+interval: 1
+lapses: 1
+modified: 20231215020448621
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231214131600299
-stability: 0.21875
+retrievability: 0.6177644323744501
+review: 20231215020448621
+stability: 0.16205398577412577
 tags: 方剂 ?
 title: 天王补心丹
 type: text/vnd.tiddlywiki

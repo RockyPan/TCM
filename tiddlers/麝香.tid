@@ -1,15 +1,17 @@
 created: 20231118025242444
-difficulty: 1.2687524673440806
-due: 20231215135332040
-grade: -1
-history: []
-interval: 0
+creator: KylePan
+difficulty: 1.0865168997185306
+due: 20231223015109909
+grade: 1
+history: [{"due":"20231215135332040","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135332040"}]
+interval: 1
 lapses: 0
-modified: 20231214135332040
-reps: 1
-retrievability: 1
-review: 20231214135332040
-stability: 0.21875
+modified: 20231215015109909
+modifier: KylePan
+reps: 2
+retrievability: 0.6177644323744501
+review: 20231215015109909
+stability: 8.032459917058302
 tags: 中药 ?
 title: 麝香
 type: text/vnd.tiddlywiki
