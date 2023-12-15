@@ -1,17 +1,17 @@
 created: 20231113054257751
 creator: KylePan
-difficulty: 6.253894284371546
-due: 20231215013908189
+difficulty: 6.352054159147249
+due: 20231230011930718
 grade: 1
-history: [{"due":"20231128102508473","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102508473"},{"due":"20231204013431530","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128013431530"},{"due":"20231205032431135","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231204032431135"},{"due":"20231208010243851","interval":1,"difficulty":6.1725197853298575,"stability":2.5031669457276235,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231205010243851"}]
-interval: 3
+history: [{"due":"20231128102508473","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102508473"},{"due":"20231204013431530","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128013431530"},{"due":"20231205032431135","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231204032431135"},{"due":"20231208010243851","interval":1,"difficulty":6.1725197853298575,"stability":2.5031669457276235,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231205010243851"},{"due":"20231215013908189","interval":3,"difficulty":6.253894284371546,"stability":6.866612878729356,"retrievability":0.8813744990416884,"grade":1,"lapses":1,"reps":3,"review":"20231208013908189"}]
+interval: 7
 lapses: 1
-modified: 20231208013908189
+modified: 20231215011930718
 modifier: KylePan
-reps: 3
-retrievability: 0.8813744990416884
-review: 20231208013908189
-stability: 6.866612878729356
+reps: 4
+retrievability: 0.8981598747757034
+review: 20231215011930718
+stability: 15.102800935975662
 tags: 中药 ?
 title: 甘遂
 type: text/vnd.tiddlywiki

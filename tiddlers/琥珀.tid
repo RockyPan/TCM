@@ -1,15 +1,17 @@
 created: 20231118031917992
-difficulty: 1.2687524673440806
-due: 20231215135716964
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231214135716964
+creator: KylePan
+difficulty: 2.086516899718531
+due: 20231216013435366
+grade: 0
+history: [{"due":"20231215135716964","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135716964"}]
+interval: 1
+lapses: 1
+modified: 20231215013435366
+modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231214135716964
-stability: 0.21875
+retrievability: 0.6177644323744501
+review: 20231215013435366
+stability: 0.16205398577412577
 tags: 中药 ?
 title: 琥珀
 type: text/vnd.tiddlywiki

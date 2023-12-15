@@ -1,17 +1,17 @@
 created: 20231113012200273
 creator: KylePan
-difficulty: 5.88883913988042
-due: 20231215015539101
-grade: 0
-history: [{"due":"20231116014203081","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014203081"},{"due":"20231214102442652","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231124102442646"}]
-interval: 20
+difficulty: 5.61080301848338
+due: 20231218014405029
+grade: 1
+history: [{"due":"20231116014203081","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014203081"},{"due":"20231214102442652","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231124102442646"},{"due":"20231215015539101","interval":20,"difficulty":5.88883913988042,"stability":0.16205398577412577,"retrievability":0.8983491398804202,"grade":0,"lapses":1,"reps":1,"review":"20231214015539101"}]
+interval: 1
 lapses: 1
-modified: 20231214015539101
+modified: 20231215014405029
 modifier: KylePan
-reps: 1
-retrievability: 0.8983491398804202
-review: 20231214015539101
-stability: 0.16205398577412577
+reps: 2
+retrievability: 0.5219638786029598
+review: 20231215014405029
+stability: 2.726265122587825
 tags: 方剂 ?
 title: 九味羌活汤
 type: text/vnd.tiddlywiki
