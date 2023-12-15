@@ -1,15 +1,17 @@
 created: 20231118025551307
-difficulty: 1.2687524673440806
-due: 20231215135432348
-grade: -1
-history: []
-interval: 0
+creator: KylePan
+difficulty: 1.0865168997185306
+due: 20231223024838260
+grade: 1
+history: [{"due":"20231215135432348","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135432348"}]
+interval: 1
 lapses: 0
-modified: 20231214135432348
-reps: 1
-retrievability: 1
-review: 20231214135432348
-stability: 0.21875
+modified: 20231215024838260
+modifier: KylePan
+reps: 2
+retrievability: 0.6177644323744501
+review: 20231215024838260
+stability: 8.032459917058302
 tags: 方剂 ?
 title: 紫雪
 type: text/vnd.tiddlywiki
