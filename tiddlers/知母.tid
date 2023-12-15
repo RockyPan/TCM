@@ -1,17 +1,17 @@
 created: 20231113060933829
 creator: KylePan
-difficulty: 3.938315178543057
-due: 20231215025120272
+difficulty: 4.038413506940521
+due: 20240111024537500
 grade: 1
-history: [{"due":"20231130061106368","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129061106368"},{"due":"20231203014709766","interval":1,"difficulty":3.852327106252045,"stability":3.481502087013605,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20231130014709766"}]
-interval: 4
+history: [{"due":"20231130061106368","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129061106368"},{"due":"20231203014709766","interval":1,"difficulty":3.852327106252045,"stability":3.481502087013605,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20231130014709766"},{"due":"20231215025120272","interval":4,"difficulty":3.938315178543057,"stability":11.011417685541923,"retrievability":0.885988072291012,"grade":1,"lapses":0,"reps":3,"review":"20231204025120272"}]
+interval: 11
 lapses: 0
-modified: 20231204025120272
+modified: 20231215024537500
 modifier: KylePan
-reps: 3
-retrievability: 0.885988072291012
-review: 20231204025120272
-stability: 11.011417685541923
+reps: 4
+retrievability: 0.9000983283974637
+review: 20231215024537500
+stability: 27.181975536584407
 tags: 中药 ?
 title: 知母
 

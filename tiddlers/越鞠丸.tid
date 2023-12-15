@@ -1,15 +1,17 @@
 created: 20231118100700505
-difficulty: 1.2687524673440806
-due: 20231215141023134
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231214141023134
+creator: KylePan
+difficulty: 2.086516899718531
+due: 20231216024516036
+grade: 0
+history: [{"due":"20231215141023134","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214141023134"}]
+interval: 1
+lapses: 1
+modified: 20231215024516036
+modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231214141023134
-stability: 0.21875
+retrievability: 0.6177644323744501
+review: 20231215024516036
+stability: 0.16205398577412577
 tags: 方剂 ?
 title: 越鞠丸
 type: text/vnd.tiddlywiki

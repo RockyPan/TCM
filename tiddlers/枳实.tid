@@ -1,18 +1,18 @@
 caption: 
 created: 20231113023524527
 creator: KylePan
-difficulty: 4.79049
-due: 20231215035953920
+difficulty: 4.88883913988042
+due: 20240127024549364
 grade: 1
-history: [{"due":"20231117055108817","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115055108817"}]
-interval: 10
+history: [{"due":"20231117055108817","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115055108817"},{"due":"20231215035953920","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231125035953919"}]
+interval: 20
 lapses: 0
-modified: 20231125035953920
+modified: 20231215024549364
 modifier: KylePan
-reps: 2
-retrievability: 0.5904900000000001
-review: 20231125035953919
-stability: 19.657456432345345
+reps: 3
+retrievability: 0.8983491398804202
+review: 20231215024549364
+stability: 42.560874995645975
 tags: 中药 ?
 title: 枳实
 type: text/vnd.tiddlywiki
