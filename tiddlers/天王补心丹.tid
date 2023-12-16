@@ -1,17 +1,17 @@
 created: 20231117095133620
 creator: KylePan
-difficulty: 2.086516899718531
-due: 20231216020448621
+difficulty: 2.8084807783214907
+due: 20231217113324375
 grade: 0
-history: [{"due":"20231215131600299","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214131600299"}]
+history: [{"due":"20231215131600299","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214131600299"},{"due":"20231216020448621","interval":1,"difficulty":2.086516899718531,"stability":0.16205398577412577,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231215020448621"}]
 interval: 1
-lapses: 1
-modified: 20231215020448621
+lapses: 2
+modified: 20231216113324376
 modifier: KylePan
 reps: 1
-retrievability: 0.6177644323744501
-review: 20231215020448621
-stability: 0.16205398577412577
+retrievability: 0.5219638786029598
+review: 20231216113324373
+stability: 0.1200525453955683
 tags: 方剂 ?
 title: 天王补心丹
 type: text/vnd.tiddlywiki
@@ -21,7 +21,7 @@ type: text/vnd.tiddlywiki
 __补心丹用柏枣仁，二冬生地当归身，
 三参桔梗朱砂味，远志茯苓共养神。__
 
-【组成】[[人参]]去芦　[[茯苓]]　[[玄参]]　[[丹参]]　[[桔梗]]　[[远志]]各五钱(15g)　[[当归]]酒浸　[[五味]]　[[麦门冬]]去心　[[天门冬]]　柏子仁　[[酸枣仁]]炒，各一两(30g)　[[生地黄]]四两(120g)
+【组成】[[人参]]去芦　[[茯苓]]　[[玄参]]　[[丹参]]　[[桔梗]]　[[远志]]各五钱(15g)　[[当归]]酒浸　[[五味]]　[[麦门冬]]去心　[[天门冬]]　[[柏子仁]]　[[酸枣仁]]炒，各一两(30g)　[[生地黄]]四两(120g)
 
 【用法】上为末，炼蜜为丸，如梧桐子大，用朱砂为衣。每服二三十丸(6～9g)，临卧，竹叶煎汤送下。
 

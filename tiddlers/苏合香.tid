@@ -1,17 +1,17 @@
 created: 20231118032135080
 creator: KylePan
-difficulty: 2.086516899718531
-due: 20231216015501013
+difficulty: 2.8084807783214907
+due: 20231217112514307
 grade: 0
-history: [{"due":"20231215135732993","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135732993"}]
+history: [{"due":"20231215135732993","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135732993"},{"due":"20231216015501013","interval":1,"difficulty":2.086516899718531,"stability":0.16205398577412577,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231215015501013"}]
 interval: 1
-lapses: 1
-modified: 20231215015501013
+lapses: 2
+modified: 20231216112514307
 modifier: KylePan
 reps: 1
-retrievability: 0.6177644323744501
-review: 20231215015501013
-stability: 0.16205398577412577
+retrievability: 0.5219638786029598
+review: 20231216112514304
+stability: 0.1200525453955683
 tags: 中药 ?
 title: 苏合香
 type: text/vnd.tiddlywiki
