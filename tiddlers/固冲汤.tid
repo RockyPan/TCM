@@ -1,17 +1,17 @@
 created: 20231117014600477
 creator: KylePan
-difficulty: 3.8785173302628984
-due: 20231216012332421
+difficulty: 4.384366534428779
+due: 20231217055459905
 grade: 0
-history: [{"due":"20231213134151397","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212134151397"},{"due":"20231214014038569","interval":1,"difficulty":2.4066171424412186,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213014038569"},{"due":"20231215014440292","interval":1,"difficulty":3.2627460622297972,"stability":0.1200525453955683,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231214014440292"}]
+history: [{"due":"20231213134151397","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212134151397"},{"due":"20231214014038569","interval":1,"difficulty":2.4066171424412186,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213014038569"},{"due":"20231215014440292","interval":1,"difficulty":3.2627460622297972,"stability":0.1200525453955683,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231214014440292"},{"due":"20231216012332421","interval":1,"difficulty":3.8785173302628984,"stability":0.08893711306825607,"retrievability":0.41577126803310094,"grade":0,"lapses":3,"reps":1,"review":"20231215012332421"}]
 interval: 1
-lapses: 3
-modified: 20231215012332421
+lapses: 4
+modified: 20231216055459906
 modifier: KylePan
 reps: 1
-retrievability: 0.41577126803310094
-review: 20231215012332421
-stability: 0.08893711306825607
+retrievability: 0.3058492041658807
+review: 20231216055459902
+stability: 0.0658862338557942
 tags: 方剂 ?
 title: 固冲汤
 type: text/vnd.tiddlywiki
