@@ -1,15 +1,15 @@
 created: 20231118101935005
-difficulty: 1.0984764469154382
-due: 20231216133730421
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231215133730421
+difficulty: 1.9162408792898884
+due: 20231217120911282
+grade: 0
+history: [{"due":"20231216133730421","interval":0,"difficulty":1.0984764469154382,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231215133730421"}]
+interval: 1
+lapses: 1
+modified: 20231216120911283
 reps: 1
-retrievability: 1
-review: 20231215133730421
-stability: 0.21875
+retrievability: 0.6177644323744501
+review: 20231216120911279
+stability: 0.16205398577412577
 tags: 中药 ?
 title: 延胡索
 type: text/vnd.tiddlywiki
