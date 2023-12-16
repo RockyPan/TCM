@@ -1,17 +1,17 @@
 created: 20231113091915711
 creator: KylePan
-difficulty: 5.041484624895626
-due: 20231216020628989
+difficulty: 5.139028727706486
+due: 20240103110716415
 grade: 1
-history: [{"due":"20231201035047152","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130035047152"},{"due":"20231204015349827","interval":1,"difficulty":3.852327106252045,"stability":3.481502087013605,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20231201015349827"},{"due":"20231205034929134","interval":3,"difficulty":4.965537627432878,"stability":0.4259704768919878,"retrievability":0.9132105211808327,"grade":0,"lapses":1,"reps":1,"review":"20231204034929134"},{"due":"20231208010926764","interval":1,"difficulty":4.9464109856148575,"stability":2.851453172292702,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231205010926764"}]
-interval: 3
+history: [{"due":"20231201035047152","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130035047152"},{"due":"20231204015349827","interval":1,"difficulty":3.852327106252045,"stability":3.481502087013605,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20231201015349827"},{"due":"20231205034929134","interval":3,"difficulty":4.965537627432878,"stability":0.4259704768919878,"retrievability":0.9132105211808327,"grade":0,"lapses":1,"reps":1,"review":"20231204034929134"},{"due":"20231208010926764","interval":1,"difficulty":4.9464109856148575,"stability":2.851453172292702,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231205010926764"},{"due":"20231216020628989","interval":3,"difficulty":5.041484624895626,"stability":7.797766439173834,"retrievability":0.8950736392807691,"grade":1,"lapses":1,"reps":3,"review":"20231208020628988"}]
+interval: 8
 lapses: 1
-modified: 20231208020628989
+modified: 20231216110716416
 modifier: KylePan
-reps: 3
-retrievability: 0.8950736392807691
-review: 20231208020628988
-stability: 7.797766439173834
+reps: 4
+retrievability: 0.8975441028108593
+review: 20231216110716412
+stability: 18.441294507540395
 tags: 方剂 ?
 title: 凉膈散
 type: text/vnd.tiddlywiki
