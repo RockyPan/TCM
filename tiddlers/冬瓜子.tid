@@ -1,17 +1,17 @@
 created: 20231113040416323
 creator: KylePan
-difficulty: 5.191646427147878
-due: 20231217023456072
+difficulty: 5.29168348736227
+due: 20240116045250163
 grade: 1
-history: [{"due":"20231127071808654","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125071808654"},{"due":"20231203025659588","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127025659588"}]
-interval: 6
+history: [{"due":"20231127071808654","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125071808654"},{"due":"20231203025659588","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127025659588"},{"due":"20231217023456072","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231203023456070"}]
+interval: 14
 lapses: 0
-modified: 20231203023456073
+modified: 20231217045250164
 modifier: KylePan
-reps: 3
-retrievability: 0.891646427147878
-review: 20231203023456070
-stability: 14.005473642002045
+reps: 4
+retrievability: 0.9000370602143911
+review: 20231217045250161
+stability: 30.238529839360552
 tags: 中药 ?
 title: 冬瓜子
 type: text/vnd.tiddlywiki
