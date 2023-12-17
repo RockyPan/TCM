@@ -1,17 +1,17 @@
 created: 20231113034555204
 creator: KylePan
-difficulty: 5.191646427147878
-due: 20231217024833836
+difficulty: 5.29168348736227
+due: 20240116093946367
 grade: 1
-history: [{"due":"20231127064303295","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125064303295"},{"due":"20231203031301652","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127031301651"}]
-interval: 6
+history: [{"due":"20231127064303295","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125064303295"},{"due":"20231203031301652","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127031301651"},{"due":"20231217024833836","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231203024833828"}]
+interval: 14
 lapses: 0
-modified: 20231203024833837
+modified: 20231217093946368
 modifier: KylePan
-reps: 3
-retrievability: 0.891646427147878
-review: 20231203024833828
-stability: 14.005473642002045
+reps: 4
+retrievability: 0.9000370602143911
+review: 20231217093946365
+stability: 30.238529839360552
 tags: 方剂 ?
 title: 加减葳蕤汤
 type: text/vnd.tiddlywiki
