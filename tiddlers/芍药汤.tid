@@ -1,17 +1,17 @@
 created: 20231114011036509
 creator: KylePan
-difficulty: 6.730732353397103
-due: 20231217111700244
-grade: 0
-history: [{"due":"20231203073546709","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202073546709"},{"due":"20231205013824092","interval":2,"difficulty":4.640976298811018,"stability":0.4259704768919878,"retrievability":0.6931759895835838,"grade":0,"lapses":1,"reps":1,"review":"20231204013824091"},{"due":"20231206013703627","interval":1,"difficulty":5.621849656992997,"stability":0.3155666907540653,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231205013703627"},{"due":"20231209013738464","interval":1,"difficulty":5.537991392963471,"stability":2.6775414232828307,"retrievability":0.7161417359704745,"grade":1,"lapses":2,"reps":2,"review":"20231206013738464"},{"due":"20231216074853809","interval":3,"difficulty":5.626643748035574,"stability":7.314677253082512,"retrievability":0.8886523550721026,"grade":1,"lapses":2,"reps":3,"review":"20231209074853805"}]
-interval: 7
+difficulty: 6.236581557562984
+due: 20231219100455370
+grade: 1
+history: [{"due":"20231203073546709","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202073546709"},{"due":"20231205013824092","interval":2,"difficulty":4.640976298811018,"stability":0.4259704768919878,"retrievability":0.6931759895835838,"grade":0,"lapses":1,"reps":1,"review":"20231204013824091"},{"due":"20231206013703627","interval":1,"difficulty":5.621849656992997,"stability":0.3155666907540653,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231205013703627"},{"due":"20231209013738464","interval":1,"difficulty":5.537991392963471,"stability":2.6775414232828307,"retrievability":0.7161417359704745,"grade":1,"lapses":2,"reps":2,"review":"20231206013738464"},{"due":"20231216074853809","interval":3,"difficulty":5.626643748035574,"stability":7.314677253082512,"retrievability":0.8886523550721026,"grade":1,"lapses":2,"reps":3,"review":"20231209074853805"},{"due":"20231217111700244","interval":7,"difficulty":6.730732353397103,"stability":0.08893711306825607,"retrievability":0.9040886053615287,"grade":0,"lapses":3,"reps":1,"review":"20231216111700239"}]
+interval: 1
 lapses: 3
-modified: 20231216111700244
+modified: 20231217100455370
 modifier: KylePan
-reps: 1
-retrievability: 0.9040886053615287
-review: 20231216111700239
-stability: 0.08893711306825607
+reps: 2
+retrievability: 0.3058492041658807
+review: 20231217100455367
+stability: 2.497879096469639
 tags: 方剂 ?
 title: 芍药汤
 type: text/vnd.tiddlywiki
