@@ -1,17 +1,17 @@
 created: 20231117094757019
 creator: KylePan
-difficulty: 4.250201493243161
-due: 20231217125055493
-grade: 0
-history: [{"due":"20231213135616054","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135616054"},{"due":"20231214030316496","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213030316496"},{"due":"20231215024222100","interval":1,"difficulty":3.1285810210441785,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231214024222099"},{"due":"20231216024816557","interval":1,"difficulty":3.7443522890772796,"stability":0.08893711306825607,"retrievability":0.41577126803310094,"grade":0,"lapses":3,"reps":1,"review":"20231215024816556"}]
+difficulty: 3.652274159312735
+due: 20231220125526759
+grade: 1
+history: [{"due":"20231213135616054","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135616054"},{"due":"20231214030316496","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213030316496"},{"due":"20231215024222100","interval":1,"difficulty":3.1285810210441785,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231214024222099"},{"due":"20231216024816557","interval":1,"difficulty":3.7443522890772796,"stability":0.08893711306825607,"retrievability":0.41577126803310094,"grade":0,"lapses":3,"reps":1,"review":"20231215024816556"},{"due":"20231217125055493","interval":1,"difficulty":4.250201493243161,"stability":0.0658862338557942,"retrievability":0.3058492041658807,"grade":0,"lapses":4,"reps":1,"review":"20231216125055490"}]
 interval: 1
 lapses: 4
-modified: 20231216125055493
+modified: 20231217125526759
 modifier: KylePan
-reps: 1
-retrievability: 0.3058492041658807
-review: 20231216125055490
-stability: 0.0658862338557942
+reps: 2
+retrievability: 0.20207266606957394
+review: 20231217125526757
+stability: 3.423915178512253
 tags: 方剂 ?
 title: 朱砂安神丸
 type: text/vnd.tiddlywiki

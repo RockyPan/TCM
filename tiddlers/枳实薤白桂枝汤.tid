@@ -1,15 +1,15 @@
 created: 20231118103246521
-difficulty: 0.956170980055279
-due: 20231217125750140
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231216125750140
+difficulty: 1.773935412429729
+due: 20231218125053828
+grade: 0
+history: [{"due":"20231217125750140","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216125750140"}]
+interval: 1
+lapses: 1
+modified: 20231217125053829
 reps: 1
-retrievability: 1
-review: 20231216125750140
-stability: 0.21875
+retrievability: 0.6177644323744501
+review: 20231217125053826
+stability: 0.11806790392114878
 tags: 方剂 ?
 title: 枳实薤白桂枝汤
 type: text/vnd.tiddlywiki
