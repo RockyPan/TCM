@@ -1,17 +1,17 @@
 created: 20231117023555124
 creator: KylePan
-difficulty: 4.250201493243161
-due: 20231217113735449
+difficulty: 4.652274159312735
+due: 20231218122948301
 grade: 0
-history: [{"due":"20231213135101791","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135101791"},{"due":"20231214024925913","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213024925913"},{"due":"20231215023302772","interval":1,"difficulty":3.1285810210441785,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231214023302772"},{"due":"20231216023353229","interval":1,"difficulty":3.7443522890772796,"stability":0.08893711306825607,"retrievability":0.41577126803310094,"grade":0,"lapses":3,"reps":1,"review":"20231215023353229"}]
+history: [{"due":"20231213135101791","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135101791"},{"due":"20231214024925913","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213024925913"},{"due":"20231215023302772","interval":1,"difficulty":3.1285810210441785,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231214023302772"},{"due":"20231216023353229","interval":1,"difficulty":3.7443522890772796,"stability":0.08893711306825607,"retrievability":0.41577126803310094,"grade":0,"lapses":3,"reps":1,"review":"20231215023353229"},{"due":"20231217113735449","interval":1,"difficulty":4.250201493243161,"stability":0.0658862338557942,"retrievability":0.3058492041658807,"grade":0,"lapses":4,"reps":1,"review":"20231216113735447"}]
 interval: 1
-lapses: 4
-modified: 20231216113735450
+lapses: 5
+modified: 20231217122948302
 modifier: KylePan
 reps: 1
-retrievability: 0.3058492041658807
-review: 20231216113735447
-stability: 0.0658862338557942
+retrievability: 0.20207266606957394
+review: 20231217122948297
+stability: 0.04880972253246902
 tags: 方剂 ?
 title: 完带汤
 type: text/vnd.tiddlywiki

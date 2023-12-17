@@ -1,15 +1,15 @@
 created: 20231118102411362
-difficulty: 0.956170980055279
-due: 20231217125326827
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20231225123044428
+grade: 1
+history: [{"due":"20231217125326827","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216125326827"}]
+interval: 1
 lapses: 0
-modified: 20231216125326827
-reps: 1
-retrievability: 1
-review: 20231216125326827
-stability: 0.21875
+modified: 20231217123044428
+reps: 2
+retrievability: 0.6177644323744501
+review: 20231217123044426
+stability: 8.499750752001383
 tags: 中药 ?
 title: 乌药
 type: text/vnd.tiddlywiki

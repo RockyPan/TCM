@@ -1,17 +1,17 @@
 created: 20231115135248545
 creator: KylePan
-difficulty: 2.5154887957855543
-due: 20231217092404702
+difficulty: 2.6052227113205992
+due: 20240102124354898
 grade: 1
-history: [{"due":"20231211074102606","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210074102606"},{"due":"20231212024724383","interval":1,"difficulty":2.6593598759969757,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231211024724383"}]
-interval: 1
+history: [{"due":"20231211074102606","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210074102606"},{"due":"20231212024724383","interval":1,"difficulty":2.6593598759969757,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231211024724383"},{"due":"20231217092404702","interval":1,"difficulty":2.5154887957855543,"stability":4.50902856733787,"retrievability":0.6561289197885782,"grade":1,"lapses":1,"reps":2,"review":"20231212092404701"}]
+interval: 5
 lapses: 1
-modified: 20231212092404702
+modified: 20231217124354899
 modifier: KylePan
-reps: 2
-retrievability: 0.6561289197885782
-review: 20231212092404701
-stability: 4.50902856733787
+reps: 3
+retrievability: 0.8897339155350449
+review: 20231217124354896
+stability: 16.447044802457558
 tags: 方剂 ?
 title: 益胃汤
 type: text/vnd.tiddlywiki
