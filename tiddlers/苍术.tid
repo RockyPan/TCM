@@ -1,17 +1,17 @@
 created: 20231113012916601
 creator: KylePan
-difficulty: 7.182700883263836
-due: 20231218044121024
-grade: 0
-history: [{"due":"20231116014321813","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014321813"},{"due":"20231122073127454","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116073127453"},{"due":"20231213040424066","interval":9,"difficulty":5.14195525232829,"stability":18.30502694108274,"retrievability":0.8419552523282889,"grade":1,"lapses":0,"reps":3,"review":"20231125040424062"},{"due":"20231214011546409","interval":18,"difficulty":6.243536753511536,"stability":0.2500261494800798,"retrievability":0.9015815011832458,"grade":0,"lapses":1,"reps":1,"review":"20231213011546409"},{"due":"20231217012622053","interval":1,"difficulty":6.099665673300114,"stability":2.5410485499981745,"retrievability":0.6561289197885782,"grade":1,"lapses":1,"reps":2,"review":"20231214012622053"}]
-interval: 3
+difficulty: 6.798472151296937
+due: 20231220012800574
+grade: 1
+history: [{"due":"20231116014321813","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014321813"},{"due":"20231122073127454","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116073127453"},{"due":"20231213040424066","interval":9,"difficulty":5.14195525232829,"stability":18.30502694108274,"retrievability":0.8419552523282889,"grade":1,"lapses":0,"reps":3,"review":"20231125040424062"},{"due":"20231214011546409","interval":18,"difficulty":6.243536753511536,"stability":0.2500261494800798,"retrievability":0.9015815011832458,"grade":0,"lapses":1,"reps":1,"review":"20231213011546409"},{"due":"20231217012622053","interval":1,"difficulty":6.099665673300114,"stability":2.5410485499981745,"retrievability":0.6561289197885782,"grade":1,"lapses":1,"reps":2,"review":"20231214012622053"},{"due":"20231218044121024","interval":3,"difficulty":7.182700883263836,"stability":0.1200525453955683,"retrievability":0.8830352099637218,"grade":0,"lapses":2,"reps":1,"review":"20231217044121022"}]
+interval: 1
 lapses: 2
-modified: 20231217044121024
+modified: 20231218012800574
 modifier: KylePan
-reps: 1
-retrievability: 0.8830352099637218
-review: 20231217044121022
-stability: 0.1200525453955683
+reps: 2
+retrievability: 0.41577126803310094
+review: 20231218012800574
+stability: 2.403368267674019
 tags: 中药 ?
 title: 苍术
 type: text/vnd.tiddlywiki
