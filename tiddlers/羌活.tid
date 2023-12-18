@@ -1,17 +1,17 @@
 created: 20231113012350161
 creator: KylePan
-difficulty: 5.61080301848338
-due: 20231218014948117
+difficulty: 5.7013322047707975
+due: 20231225021247230
 grade: 1
-history: [{"due":"20231116014229462","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014229462"},{"due":"20231214104556715","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231124104556711"},{"due":"20231215020224341","interval":20,"difficulty":5.88883913988042,"stability":0.16205398577412577,"retrievability":0.8983491398804202,"grade":0,"lapses":1,"reps":1,"review":"20231214020224341"}]
-interval: 1
+history: [{"due":"20231116014229462","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014229462"},{"due":"20231214104556715","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231124104556711"},{"due":"20231215020224341","interval":20,"difficulty":5.88883913988042,"stability":0.16205398577412577,"retrievability":0.8983491398804202,"grade":0,"lapses":1,"reps":1,"review":"20231214020224341"},{"due":"20231218014948117","interval":1,"difficulty":5.61080301848338,"stability":2.726265122587825,"retrievability":0.5219638786029598,"grade":1,"lapses":1,"reps":2,"review":"20231215014948117"}]
+interval: 3
 lapses: 1
-modified: 20231215014948118
+modified: 20231218021247230
 modifier: KylePan
-reps: 2
-retrievability: 0.5219638786029598
-review: 20231215014948117
-stability: 2.726265122587825
+reps: 3
+retrievability: 0.8905291862874174
+review: 20231218021247230
+stability: 7.30461251226286
 tags: 中药 ?
 title: 羌活
 type: text/vnd.tiddlywiki
