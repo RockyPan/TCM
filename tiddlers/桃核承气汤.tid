@@ -1,15 +1,17 @@
 created: 20231119080455977
-difficulty: 0.956170980055279
-due: 20231218073020693
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231217073020693
+creator: KylePan
+difficulty: 1.773935412429729
+due: 20231219074427128
+grade: 0
+history: [{"due":"20231218073020693","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217073020693"}]
+interval: 1
+lapses: 1
+modified: 20231218074427128
+modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231217073020693
-stability: 0.21875
+retrievability: 0.6177644323744501
+review: 20231218074427128
+stability: 0.11806790392114878
 tags: 方剂 ?
 title: 桃核承气汤
 type: text/vnd.tiddlywiki
