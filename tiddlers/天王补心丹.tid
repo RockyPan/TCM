@@ -1,17 +1,17 @@
 created: 20231117095133620
 creator: KylePan
-difficulty: 3.424252046354592
-due: 20231218122458238
+difficulty: 3.9301012505204724
+due: 20231219095529798
 grade: 0
-history: [{"due":"20231215131600299","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214131600299"},{"due":"20231216020448621","interval":1,"difficulty":2.086516899718531,"stability":0.16205398577412577,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231215020448621"},{"due":"20231217113324375","interval":1,"difficulty":2.8084807783214907,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231216113324373"}]
+history: [{"due":"20231215131600299","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214131600299"},{"due":"20231216020448621","interval":1,"difficulty":2.086516899718531,"stability":0.16205398577412577,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231215020448621"},{"due":"20231217113324375","interval":1,"difficulty":2.8084807783214907,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231216113324373"},{"due":"20231218122458238","interval":1,"difficulty":3.424252046354592,"stability":0.08893711306825607,"retrievability":0.41577126803310094,"grade":0,"lapses":3,"reps":1,"review":"20231217122458236"}]
 interval: 1
-lapses: 3
-modified: 20231217122458239
+lapses: 4
+modified: 20231218095529798
 modifier: KylePan
 reps: 1
-retrievability: 0.41577126803310094
-review: 20231217122458236
-stability: 0.08893711306825607
+retrievability: 0.3058492041658807
+review: 20231218095529798
+stability: 0.0480028275235072
 tags: 方剂 ?
 title: 天王补心丹
 type: text/vnd.tiddlywiki
