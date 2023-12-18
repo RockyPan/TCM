@@ -1,17 +1,17 @@
 created: 20231119031318952
 creator: KylePan
-difficulty: 1.773935412429729
-due: 20231218121148646
+difficulty: 2.495899291032689
+due: 20231219031235629
 grade: 0
-history: [{"due":"20231217131604656","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216131604656"}]
+history: [{"due":"20231217131604656","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216131604656"},{"due":"20231218121148646","interval":1,"difficulty":1.773935412429729,"stability":0.16205398577412577,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231217121148645"}]
 interval: 1
-lapses: 1
-modified: 20231217121148647
+lapses: 2
+modified: 20231218031235629
 modifier: KylePan
 reps: 1
-retrievability: 0.6177644323744501
-review: 20231217121148645
-stability: 0.16205398577412577
+retrievability: 0.5219638786029598
+review: 20231218031235629
+stability: 0.08746685450248547
 tags: 方剂 ?
 title: 苏子降气汤
 type: text/vnd.tiddlywiki
