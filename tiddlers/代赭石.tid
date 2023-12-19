@@ -1,17 +1,17 @@
 created: 20231119032622396
 creator: KylePan
-difficulty: 1.773935412429729
-due: 20231219013202351
+difficulty: 2.3836181604531026
+due: 20231220013341973
 grade: 0
-history: [{"due":"20231218071101622","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217071101622"}]
+history: [{"due":"20231218071101622","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217071101622"},{"due":"20231219013202351","interval":1,"difficulty":1.773935412429729,"stability":0.11806790392114878,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231218013202350"}]
 interval: 1
-lapses: 1
-modified: 20231218013202351
+lapses: 2
+modified: 20231219013341973
 modifier: KylePan
 reps: 1
-retrievability: 0.6177644323744501
-review: 20231218013202350
-stability: 0.11806790392114878
+retrievability: 0.40968274802337346
+review: 20231219013341973
+stability: 0.08746685450248547
 tags: 中药 ?
 title: 代赭石
 type: text/vnd.tiddlywiki
