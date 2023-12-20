@@ -1,17 +1,17 @@
 created: 20231114093458298
 creator: KylePan
-difficulty: 5.203890895072168
-due: 20231219112509979
+difficulty: 5.493782299134796
+due: 20231221014712074
 grade: 0
-history: [{"due":"20231205131717348","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131717348"},{"due":"20231206024049458","interval":1,"difficulty":4.017993034191999,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231205024049458"},{"due":"20231209015931024","interval":1,"difficulty":3.9988663923739782,"stability":3.240757196476688,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231206015931023"},{"due":"20231218081018095","interval":3,"difficulty":4.105938583035431,"stability":8.809545427327551,"retrievability":0.9070721906614518,"grade":1,"lapses":1,"reps":3,"review":"20231209081018094"}]
-interval: 9
-lapses: 2
-modified: 20231218112509980
+history: [{"due":"20231205131717348","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131717348"},{"due":"20231206024049458","interval":1,"difficulty":4.017993034191999,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231205024049458"},{"due":"20231209015931024","interval":1,"difficulty":3.9988663923739782,"stability":3.240757196476688,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231206015931023"},{"due":"20231218081018095","interval":3,"difficulty":4.105938583035431,"stability":8.809545427327551,"retrievability":0.9070721906614518,"grade":1,"lapses":1,"reps":3,"review":"20231209081018094"},{"due":"20231219112509979","interval":9,"difficulty":5.203890895072168,"stability":0.08746685450248547,"retrievability":0.8979523120367365,"grade":0,"lapses":2,"reps":1,"review":"20231218112509979"}]
+interval: 2
+lapses: 3
+modified: 20231220014712074
 modifier: KylePan
 reps: 1
-retrievability: 0.8979523120367365
-review: 20231218112509979
-stability: 0.08746685450248547
+retrievability: 0.0898914040626284
+review: 20231220014712074
+stability: 0.06479703952115799
 tags: 中药 ?
 title: 银柴胡
 type: text/vnd.tiddlywiki

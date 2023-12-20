@@ -1,17 +1,17 @@
 created: 20231113030040558
 creator: KylePan
-difficulty: 5.61080301848338
-due: 20231219121511726
+difficulty: 5.6675729376377
+due: 20231229015018538
 grade: 1
-history: [{"due":"20231117103600871","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115103600871"},{"due":"20231215035858629","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231125035858623"},{"due":"20231216024112084","interval":20,"difficulty":5.88883913988042,"stability":0.16205398577412577,"retrievability":0.8983491398804202,"grade":0,"lapses":1,"reps":1,"review":"20231215024112084"}]
-interval: 1
+history: [{"due":"20231117103600871","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115103600871"},{"due":"20231215035858629","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231125035858623"},{"due":"20231216024112084","interval":20,"difficulty":5.88883913988042,"stability":0.16205398577412577,"retrievability":0.8983491398804202,"grade":0,"lapses":1,"reps":1,"review":"20231215024112084"},{"due":"20231219121511726","interval":1,"difficulty":5.61080301848338,"stability":2.726265122587825,"retrievability":0.5219638786029598,"grade":1,"lapses":1,"reps":2,"review":"20231216121511723"}]
+interval: 4
 lapses: 1
-modified: 20231216121511726
+modified: 20231220015018538
 modifier: KylePan
-reps: 2
-retrievability: 0.5219638786029598
-review: 20231216121511723
-stability: 2.726265122587825
+reps: 3
+retrievability: 0.8567699191543192
+review: 20231220015018538
+stability: 8.846035923450021
 tags: 方剂 ?
 title: 银翘散
 type: text/vnd.tiddlywiki
