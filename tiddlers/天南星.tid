@@ -1,17 +1,17 @@
 created: 20231120082549097
 creator: KylePan
-difficulty: 0.7341614645238075
-due: 20231220131817539
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231219131817539
+difficulty: 1.4504520156259877
+due: 20231221033927064
+grade: 0
+history: [{"due":"20231220131817539","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219131817539"}]
+interval: 1
+lapses: 1
+modified: 20231220033927064
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231219131817539
-stability: 0.159375
+retrievability: 0.5162905511021803
+review: 20231220033927064
+stability: 0.11806790392114878
 tags: 中药 ?
 title: 天南星
 type: text/vnd.tiddlywiki

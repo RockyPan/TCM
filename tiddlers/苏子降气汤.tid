@@ -1,17 +1,17 @@
 created: 20231119031318952
 creator: KylePan
-difficulty: 2.995718243173191
-due: 20231220091202012
+difficulty: 3.3924314979573547
+due: 20231221033819760
 grade: 0
-history: [{"due":"20231217131604656","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216131604656"},{"due":"20231218121148646","interval":1,"difficulty":1.773935412429729,"stability":0.16205398577412577,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231217121148645"},{"due":"20231219031235629","interval":1,"difficulty":2.495899291032689,"stability":0.08746685450248547,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231218031235629"}]
+history: [{"due":"20231217131604656","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216131604656"},{"due":"20231218121148646","interval":1,"difficulty":1.773935412429729,"stability":0.16205398577412577,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231217121148645"},{"due":"20231219031235629","interval":1,"difficulty":2.495899291032689,"stability":0.08746685450248547,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231218031235629"},{"due":"20231220091202012","interval":1,"difficulty":2.995718243173191,"stability":0.06479703952115799,"retrievability":0.2998189521405016,"grade":0,"lapses":3,"reps":1,"review":"20231219091202012"}]
 interval: 1
-lapses: 3
-modified: 20231219091202012
+lapses: 4
+modified: 20231220033819760
 modifier: KylePan
 reps: 1
-retrievability: 0.2998189521405016
-review: 20231219091202012
-stability: 0.06479703952115799
+retrievability: 0.19671325478416343
+review: 20231220033819760
+stability: 0.0480028275235072
 tags: 方剂 ?
 title: 苏子降气汤
 type: text/vnd.tiddlywiki

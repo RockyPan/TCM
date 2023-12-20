@@ -1,17 +1,17 @@
 created: 20231120082035065
 creator: KylePan
-difficulty: 0.7341614645238075
-due: 20231220131748123
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20231229034651576
+grade: 1
+history: [{"due":"20231220131748123","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219131748123"}]
+interval: 1
 lapses: 0
-modified: 20231219131748123
+modified: 20231220034651576
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231219131748123
-stability: 0.159375
+reps: 2
+retrievability: 0.5162905511021803
+review: 20231220034651576
+stability: 8.7482017605697
 tags: 方剂 ?
 title: 小活络丹
 type: text/vnd.tiddlywiki

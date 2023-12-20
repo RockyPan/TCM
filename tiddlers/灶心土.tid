@@ -1,15 +1,17 @@
 created: 20231119085130309
-difficulty: 0.7341614645238075
-due: 20231220130317546
-grade: -1
-history: []
-interval: 0
+creator: KylePan
+difficulty: 1
+due: 20231229034758560
+grade: 1
+history: [{"due":"20231220130317546","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219130317546"}]
+interval: 1
 lapses: 0
-modified: 20231219130317546
-reps: 1
-retrievability: 1
-review: 20231219130317546
-stability: 0.159375
+modified: 20231220034758560
+modifier: KylePan
+reps: 2
+retrievability: 0.5162905511021803
+review: 20231220034758560
+stability: 8.7482017605697
 tags: 中药 ?
 title: 灶心土
 type: text/vnd.tiddlywiki
