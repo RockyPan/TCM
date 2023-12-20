@@ -1,17 +1,17 @@
 created: 20231120082215449
 creator: KylePan
-difficulty: 0.7341614645238075
-due: 20231220131807048
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20231229021733562
+grade: 1
+history: [{"due":"20231220131807048","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219131807048"}]
+interval: 1
 lapses: 0
-modified: 20231219131807048
+modified: 20231220021733562
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231219131807048
-stability: 0.159375
+reps: 2
+retrievability: 0.5162905511021803
+review: 20231220021733562
+stability: 8.7482017605697
 tags: 中药 ?
 title: 川乌
 type: text/vnd.tiddlywiki

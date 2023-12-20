@@ -1,15 +1,17 @@
 created: 20231119084258937
-difficulty: 0.7341614645238075
-due: 20231220125514094
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231219125514094
+creator: KylePan
+difficulty: 1.4504520156259877
+due: 20231221022646298
+grade: 0
+history: [{"due":"20231220125514094","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219125514094"}]
+interval: 1
+lapses: 1
+modified: 20231220022646298
+modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231219125514094
-stability: 0.159375
+retrievability: 0.5162905511021803
+review: 20231220022646298
+stability: 0.11806790392114878
 tags: 中药 ?
 title: 槐花
 type: text/vnd.tiddlywiki

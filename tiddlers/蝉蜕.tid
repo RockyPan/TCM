@@ -1,17 +1,17 @@
 created: 20231120083024177
 creator: KylePan
-difficulty: 0.7341614645238075
-due: 20231220132127447
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20231229021412034
+grade: 1
+history: [{"due":"20231220132127447","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219132127447"}]
+interval: 1
 lapses: 0
-modified: 20231219132127447
+modified: 20231220021412034
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231219132127447
-stability: 0.159375
+reps: 2
+retrievability: 0.5162905511021803
+review: 20231220021412033
+stability: 8.7482017605697
 tags: 中药 ?
 title: 蝉蜕
 type: text/vnd.tiddlywiki
