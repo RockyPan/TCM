@@ -1,17 +1,17 @@
 created: 20231119080609113
 creator: KylePan
-difficulty: 1.773935412429729
-due: 20231219111725996
+difficulty: 2.141775366457712
+due: 20231221012718251
 grade: 0
-history: [{"due":"20231218074211705","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217074211705"}]
-interval: 1
-lapses: 1
-modified: 20231218111725996
+history: [{"due":"20231218074211705","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217074211705"},{"due":"20231219111725996","interval":1,"difficulty":1.773935412429729,"stability":0.11806790392114878,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231218111725996"}]
+interval: 2
+lapses: 2
+modified: 20231220012718251
 modifier: KylePan
 reps: 1
-retrievability: 0.6177644323744501
-review: 20231218111725996
-stability: 0.11806790392114878
+retrievability: 0.16783995402798293
+review: 20231220012718251
+stability: 0.08746685450248547
 tags: 方剂 ?
 title: 温经汤
 type: text/vnd.tiddlywiki

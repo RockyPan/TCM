@@ -1,17 +1,17 @@
 created: 20231117023555124
 creator: KylePan
-difficulty: 4.9677612068153385
-due: 20231219095944406
+difficulty: 5.16809711607072
+due: 20231221012311651
 grade: 0
-history: [{"due":"20231213135101791","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135101791"},{"due":"20231214024925913","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213024925913"},{"due":"20231215023302772","interval":1,"difficulty":3.1285810210441785,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231214023302772"},{"due":"20231216023353229","interval":1,"difficulty":3.7443522890772796,"stability":0.08893711306825607,"retrievability":0.41577126803310094,"grade":0,"lapses":3,"reps":1,"review":"20231215023353229"},{"due":"20231217113735449","interval":1,"difficulty":4.250201493243161,"stability":0.0658862338557942,"retrievability":0.3058492041658807,"grade":0,"lapses":4,"reps":1,"review":"20231216113735447"},{"due":"20231218122948301","interval":1,"difficulty":4.652274159312735,"stability":0.04880972253246902,"retrievability":0.20207266606957394,"grade":0,"lapses":5,"reps":1,"review":"20231217122948297"}]
-interval: 1
-lapses: 6
-modified: 20231218095944406
+history: [{"due":"20231213135101791","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135101791"},{"due":"20231214024925913","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213024925913"},{"due":"20231215023302772","interval":1,"difficulty":3.1285810210441785,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231214023302772"},{"due":"20231216023353229","interval":1,"difficulty":3.7443522890772796,"stability":0.08893711306825607,"retrievability":0.41577126803310094,"grade":0,"lapses":3,"reps":1,"review":"20231215023353229"},{"due":"20231217113735449","interval":1,"difficulty":4.250201493243161,"stability":0.0658862338557942,"retrievability":0.3058492041658807,"grade":0,"lapses":4,"reps":1,"review":"20231216113735447"},{"due":"20231218122948301","interval":1,"difficulty":4.652274159312735,"stability":0.04880972253246902,"retrievability":0.20207266606957394,"grade":0,"lapses":5,"reps":1,"review":"20231217122948297"},{"due":"20231219095944406","interval":1,"difficulty":4.9677612068153385,"stability":0.026344510310315355,"retrievability":0.1154870475026031,"grade":0,"lapses":6,"reps":1,"review":"20231218095944405"}]
+interval: 2
+lapses: 7
+modified: 20231220012311651
 modifier: KylePan
 reps: 1
-retrievability: 0.1154870475026031
-review: 20231218095944405
-stability: 0.026344510310315355
+retrievability: 0.00033590925538133697
+review: 20231220012311651
+stability: 0.01951649325281899
 tags: 方剂 ?
 title: 完带汤
 type: text/vnd.tiddlywiki
