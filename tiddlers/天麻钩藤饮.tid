@@ -1,17 +1,17 @@
 created: 20231121010938516
 creator: KylePan
-difficulty: 0.7341614645238075
-due: 20231221125758377
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20231230035400844
+grade: 1
+history: [{"due":"20231221125758377","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220125758377"}]
+interval: 1
 lapses: 0
-modified: 20231220125758377
+modified: 20231221035400844
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231220125758377
-stability: 0.159375
+reps: 2
+retrievability: 0.5162905511021803
+review: 20231221035400843
+stability: 8.7482017605697
 tags: 方剂 ?
 title: 天麻钩藤饮
 type: text/vnd.tiddlywiki
