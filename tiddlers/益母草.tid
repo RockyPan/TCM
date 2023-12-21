@@ -1,17 +1,17 @@
 created: 20231121011404027
 creator: KylePan
-difficulty: 0.7341614645238075
-due: 20231221125846751
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231220125846751
+difficulty: 1.4504520156259877
+due: 20231222082458790
+grade: 0
+history: [{"due":"20231221125846751","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220125846751"}]
+interval: 1
+lapses: 1
+modified: 20231221082458790
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231220125846751
-stability: 0.159375
+retrievability: 0.5162905511021803
+review: 20231221082458790
+stability: 0.11806790392114878
 tags: 中药 ?
 title: 益母草
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231119083738435
 creator: KylePan
-difficulty: 1.4504520156259877
-due: 20231221034748912
+difficulty: 2.060134763649361
+due: 20231222082326608
 grade: 0
-history: [{"due":"20231220124800688","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219124800688"}]
+history: [{"due":"20231220124800688","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219124800688"},{"due":"20231221034748912","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231220034748912"}]
 interval: 1
-lapses: 1
-modified: 20231220034748912
+lapses: 2
+modified: 20231221082326608
 modifier: KylePan
 reps: 1
-retrievability: 0.5162905511021803
-review: 20231220034748912
-stability: 0.11806790392114878
+retrievability: 0.40968274802337346
+review: 20231221082326608
+stability: 0.08746685450248547
 tags: 方剂 ?
 title: 小蓟饮子
 type: text/vnd.tiddlywiki
