@@ -1,17 +1,17 @@
 created: 20231121011310155
 creator: KylePan
-difficulty: 0.7341614645238075
-due: 20231221125831434
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231220125831434
+difficulty: 1.4504520156259877
+due: 20231222015100597
+grade: 0
+history: [{"due":"20231221125831434","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220125831434"}]
+interval: 1
+lapses: 1
+modified: 20231221015100597
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231220125831434
-stability: 0.159375
+retrievability: 0.5162905511021803
+review: 20231221015100597
+stability: 0.11806790392114878
 tags: 中药 ?
 title: 决明子
 type: text/vnd.tiddlywiki
