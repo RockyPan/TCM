@@ -1,17 +1,17 @@
 created: 20231119084130505
 creator: KylePan
-difficulty: 1.4504520156259877
-due: 20231221022711626
-grade: 0
-history: [{"due":"20231220125507283","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219125507283"}]
+difficulty: 1.060134763649361
+due: 20231230014604333
+grade: 1
+history: [{"due":"20231220125507283","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219125507283"},{"due":"20231221022711626","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231220022711626"}]
 interval: 1
 lapses: 1
-modified: 20231220022711626
+modified: 20231221014604333
 modifier: KylePan
-reps: 1
-retrievability: 0.5162905511021803
-review: 20231220022711626
-stability: 0.11806790392114878
+reps: 2
+retrievability: 0.40968274802337346
+review: 20231221014604333
+stability: 8.506153667428459
 tags: 方剂 ?
 title: 槐花散
 type: text/vnd.tiddlywiki

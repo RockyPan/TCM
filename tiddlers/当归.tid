@@ -1,17 +1,17 @@
 created: 20231113053146896
 creator: KylePan
-difficulty: 7.387257195560353
-due: 20231221022643715
+difficulty: 7.483698793573553
+due: 20240111013043234
 grade: 1
-history: [{"due":"20231128025631686","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126025631685"},{"due":"20231129013313194","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128013313194"},{"due":"20231202012054728","interval":1,"difficulty":6.173323393532753,"stability":2.631403264144997,"retrievability":0.8733233935327525,"grade":1,"lapses":1,"reps":2,"review":"20231129012054728"},{"due":"20231203024621365","interval":3,"difficulty":7.260138286834374,"stability":0.3155666907540653,"retrievability":0.8868148933016202,"grade":0,"lapses":2,"reps":1,"review":"20231202024621364"},{"due":"20231205022752573","interval":1,"difficulty":7.176280022804848,"stability":2.2856848639393608,"retrievability":0.7161417359704745,"grade":1,"lapses":2,"reps":2,"review":"20231203022752571"},{"due":"20231210010037307","interval":2,"difficulty":7.288210395187648,"stability":4.950212832035929,"retrievability":0.9119303723827998,"grade":1,"lapses":2,"reps":3,"review":"20231205010037307"}]
-interval: 5
+history: [{"due":"20231128025631686","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126025631685"},{"due":"20231129013313194","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231128013313194"},{"due":"20231202012054728","interval":1,"difficulty":6.173323393532753,"stability":2.631403264144997,"retrievability":0.8733233935327525,"grade":1,"lapses":1,"reps":2,"review":"20231129012054728"},{"due":"20231203024621365","interval":3,"difficulty":7.260138286834374,"stability":0.3155666907540653,"retrievability":0.8868148933016202,"grade":0,"lapses":2,"reps":1,"review":"20231202024621364"},{"due":"20231205022752573","interval":1,"difficulty":7.176280022804848,"stability":2.2856848639393608,"retrievability":0.7161417359704745,"grade":1,"lapses":2,"reps":2,"review":"20231203022752571"},{"due":"20231210010037307","interval":2,"difficulty":7.288210395187648,"stability":4.950212832035929,"retrievability":0.9119303723827998,"grade":1,"lapses":2,"reps":3,"review":"20231205010037307"},{"due":"20231221022643715","interval":5,"difficulty":7.387257195560353,"stability":10.601381859163833,"retrievability":0.8990468003727052,"grade":1,"lapses":2,"reps":4,"review":"20231210022643714"}]
+interval: 11
 lapses: 2
-modified: 20231210022643716
+modified: 20231221013043234
 modifier: KylePan
-reps: 4
-retrievability: 0.8990468003727052
-review: 20231210022643714
-stability: 10.601381859163833
+reps: 5
+retrievability: 0.8964415980132002
+review: 20231221013043234
+stability: 21.179943734865642
 tags: 中药 ?
 title: 当归
 type: text/vnd.tiddlywiki

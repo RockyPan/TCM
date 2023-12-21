@@ -1,17 +1,17 @@
 created: 20231119084258937
 creator: KylePan
-difficulty: 1.4504520156259877
-due: 20231221022646298
-grade: 0
-history: [{"due":"20231220125514094","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219125514094"}]
+difficulty: 1.060134763649361
+due: 20231230014541533
+grade: 1
+history: [{"due":"20231220125514094","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219125514094"},{"due":"20231221022646298","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231220022646298"}]
 interval: 1
 lapses: 1
-modified: 20231220022646298
+modified: 20231221014541533
 modifier: KylePan
-reps: 1
-retrievability: 0.5162905511021803
-review: 20231220022646298
-stability: 0.11806790392114878
+reps: 2
+retrievability: 0.40968274802337346
+review: 20231221014541533
+stability: 8.506153667428459
 tags: 中药 ?
 title: 槐花
 type: text/vnd.tiddlywiki
