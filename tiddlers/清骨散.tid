@@ -1,17 +1,17 @@
 created: 20231114093355322
 creator: KylePan
-difficulty: 3.1134508938092065
-due: 20231222072930449
+difficulty: 3.2099389880765106
+due: 20240125023402952
 grade: 1
-history: [{"due":"20231205131629601","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131629601"},{"due":"20231209012341476","interval":1,"difficulty":3.017993034191999,"stability":3.816714525315593,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231205012341476"}]
-interval: 4
+history: [{"due":"20231205131629601","interval":0,"difficulty":2.9854211216321387,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231204131629601"},{"due":"20231209012341476","interval":1,"difficulty":3.017993034191999,"stability":3.816714525315593,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231205012341476"},{"due":"20231222072930449","interval":4,"difficulty":3.1134508938092065,"stability":12.534852804904755,"retrievability":0.8954578596172071,"grade":1,"lapses":0,"reps":3,"review":"20231209072930444"}]
+interval: 13
 lapses: 0
-modified: 20231209072930450
+modified: 20231222023402952
 modifier: KylePan
-reps: 3
-retrievability: 0.8954578596172071
-review: 20231209072930444
-stability: 12.534852804904755
+reps: 4
+retrievability: 0.8964880942673036
+review: 20231222023402951
+stability: 34.400402391000014
 tags: 方剂 ?
 title: 清骨散
 type: text/vnd.tiddlywiki
