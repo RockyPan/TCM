@@ -1,24 +1,24 @@
 created: 20231121111402829
 creator: KylePan
-difficulty: 0.6469164138781576
-due: 20231222135821579
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231221135821579
+difficulty: 1.2906999201337994
+due: 20231223021148336
+grade: 0
+history: [{"due":"20231222135821579","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221135821579"}]
+interval: 1
+lapses: 1
+modified: 20231222021148336
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231221135821579
-stability: 0.1296875
+retrievability: 0.4437835062556419
+review: 20231222021148336
+stability: 0.0960748629946603
 tags: 方剂 ?
 title: 藿香正气散
 type: text/vnd.tiddlywiki
 
 一类
 
-__藿香正气大腹苏，甘桔陈苓术朴俱，
+__藿香正气大腹苏，甘桔陈苓和术朴，
 夏曲白芷加姜枣，风寒暑湿并能除。__
 
 【组成】[[大腹皮]]　[[白芷]]　[[紫苏|紫苏叶]]　[[茯苓]]去皮，各一两(30g)　[[半夏]]曲　[[白术]]　[[陈皮]]去白　[[厚朴]]去粗皮，姜汁炙　苦[[桔梗]]各二两(60g)　[[藿香|广藿香]]去土，三两(90g)　[[甘草]]炙，二两半(75g)
