@@ -1,17 +1,17 @@
 created: 20231121111531518
 creator: KylePan
-difficulty: 1.2906999201337994
-due: 20231223013231945
+difficulty: 1.8246879322370895
+due: 20231224083613540
 grade: 0
-history: [{"due":"20231222135827448","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221135827448"}]
+history: [{"due":"20231222135827448","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221135827448"},{"due":"20231223013231945","interval":1,"difficulty":1.2906999201337994,"stability":0.0960748629946603,"retrievability":0.4437835062556419,"grade":0,"lapses":1,"reps":1,"review":"20231222013231945"}]
 interval: 1
-lapses: 1
-modified: 20231222013231945
+lapses: 2
+modified: 20231223083613540
 modifier: KylePan
 reps: 1
-retrievability: 0.4437835062556419
-review: 20231222013231945
-stability: 0.0960748629946603
+retrievability: 0.33398801210329004
+review: 20231223083613538
+stability: 0.07117400905594407
 tags: 中药 ?
 title: 大腹皮
 type: text/vnd.tiddlywiki

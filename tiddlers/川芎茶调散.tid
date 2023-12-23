@@ -1,17 +1,17 @@
 created: 20231120081843689
 creator: KylePan
-difficulty: 2.559953715789863
-due: 20231223012721762
+difficulty: 2.895529173824908
+due: 20231224083302243
 grade: 0
-history: [{"due":"20231220131508294","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219131508293"},{"due":"20231221021719506","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231220021719506"},{"due":"20231222012123566","interval":1,"difficulty":2.060134763649361,"stability":0.08746685450248547,"retrievability":0.40968274802337346,"grade":0,"lapses":2,"reps":1,"review":"20231221012123566"}]
+history: [{"due":"20231220131508294","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219131508293"},{"due":"20231221021719506","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231220021719506"},{"due":"20231222012123566","interval":1,"difficulty":2.060134763649361,"stability":0.08746685450248547,"retrievability":0.40968274802337346,"grade":0,"lapses":2,"reps":1,"review":"20231221012123566"},{"due":"20231223012721762","interval":1,"difficulty":2.559953715789863,"stability":0.052727002747608956,"retrievability":0.2998189521405016,"grade":0,"lapses":3,"reps":1,"review":"20231222012721762"}]
 interval: 1
-lapses: 3
-modified: 20231222012721762
+lapses: 4
+modified: 20231223083302243
 modifier: KylePan
 reps: 1
-retrievability: 0.2998189521405016
-review: 20231222012721762
-stability: 0.052727002747608956
+retrievability: 0.1355754580350447
+review: 20231223083302240
+stability: 0.03906112435736371
 tags: 方剂 ?
 title: 川芎茶调散
 type: text/vnd.tiddlywiki
