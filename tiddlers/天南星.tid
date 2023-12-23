@@ -1,17 +1,17 @@
 created: 20231120082549097
 creator: KylePan
-difficulty: 2.060134763649361
-due: 20231222035413268
-grade: 0
-history: [{"due":"20231220131817539","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219131817539"},{"due":"20231221033927064","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231220033927064"}]
-interval: 1
+difficulty: 1.3500261677119896
+due: 20240102024523377
+grade: 1
+history: [{"due":"20231220131817539","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219131817539"},{"due":"20231221033927064","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231220033927064"},{"due":"20231222035413268","interval":1,"difficulty":2.060134763649361,"stability":0.08746685450248547,"retrievability":0.40968274802337346,"grade":0,"lapses":2,"reps":1,"review":"20231221035413268"}]
+interval: 2
 lapses: 2
-modified: 20231221035413268
+modified: 20231223024523378
 modifier: KylePan
-reps: 1
-retrievability: 0.40968274802337346
-review: 20231221035413268
-stability: 0.08746685450248547
+reps: 2
+retrievability: 0.0898914040626284
+review: 20231223024523376
+stability: 10.367481674591486
 tags: 中药 ?
 title: 天南星
 type: text/vnd.tiddlywiki
