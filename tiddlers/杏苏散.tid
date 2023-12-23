@@ -1,17 +1,17 @@
 created: 20231121082000372
 creator: KylePan
-difficulty: 0.6469164138781576
-due: 20231222131212892
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231221131212892
+difficulty: 1.043860214302709
+due: 20231224031741904
+grade: 0
+history: [{"due":"20231222131212892","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221131212892"}]
+interval: 2
+lapses: 1
+modified: 20231223031741905
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231221131212892
-stability: 0.1296875
+retrievability: 0.19694380042455134
+review: 20231223031741900
+stability: 0.0960748629946603
 tags: 方剂 ?
 title: 杏苏散
 type: text/vnd.tiddlywiki
