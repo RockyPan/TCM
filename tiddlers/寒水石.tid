@@ -1,17 +1,17 @@
 created: 20231118030002907
 creator: KylePan
-difficulty: 1.0865168997185306
-due: 20231223012908470
+difficulty: 1.1869001757791202
+due: 20240130085300036
 grade: 1
-history: [{"due":"20231215135451227","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135451227"}]
-interval: 1
+history: [{"due":"20231215135451227","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135451227"},{"due":"20231223012908470","interval":1,"difficulty":1.0865168997185306,"stability":8.032459917058302,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231215012908470"}]
+interval: 8
 lapses: 0
-modified: 20231215012908470
+modified: 20231223085300036
 modifier: KylePan
-reps: 2
-retrievability: 0.6177644323744501
-review: 20231215012908470
-stability: 8.032459917058302
+reps: 3
+retrievability: 0.9003832760605897
+review: 20231223085300033
+stability: 37.55022531513775
 tags: 中药 ?
 title: 寒水石
 type: text/vnd.tiddlywiki
