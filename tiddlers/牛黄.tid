@@ -1,17 +1,17 @@
 created: 20231118023641350
 creator: KylePan
-difficulty: 1.0865168997185306
-due: 20231223014825757
+difficulty: 1.1869001757791202
+due: 20240130095059394
 grade: 1
-history: [{"due":"20231215134853365","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214134853365"}]
-interval: 1
+history: [{"due":"20231215134853365","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214134853365"},{"due":"20231223014825757","interval":1,"difficulty":1.0865168997185306,"stability":8.032459917058302,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231215014825757"}]
+interval: 8
 lapses: 0
-modified: 20231215014825757
+modified: 20231223095059394
 modifier: KylePan
-reps: 2
-retrievability: 0.6177644323744501
-review: 20231215014825757
-stability: 8.032459917058302
+reps: 3
+retrievability: 0.9003832760605897
+review: 20231223095059392
+stability: 37.55022531513775
 tags: 中药 ?
 title: 牛黄
 type: text/vnd.tiddlywiki
