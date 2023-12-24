@@ -1,17 +1,17 @@
 created: 20231121011957820
 creator: KylePan
-difficulty: 2.48769895915401
-due: 20231224083601146
+difficulty: 2.823274417189055
+due: 20231225041539913
 grade: 0
-history: [{"due":"20231221130631207","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220130631207"},{"due":"20231222013008114","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231221013008114"},{"due":"20231223013218842","interval":1,"difficulty":2.060134763649361,"stability":0.07117400905594407,"retrievability":0.40968274802337346,"grade":0,"lapses":2,"reps":1,"review":"20231222013218842"}]
+history: [{"due":"20231221130631207","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220130631207"},{"due":"20231222013008114","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231221013008114"},{"due":"20231223013218842","interval":1,"difficulty":2.060134763649361,"stability":0.07117400905594407,"retrievability":0.40968274802337346,"grade":0,"lapses":2,"reps":1,"review":"20231222013218842"},{"due":"20231224083601146","interval":1,"difficulty":2.48769895915401,"stability":0.052727002747608956,"retrievability":0.22756419550464868,"grade":0,"lapses":3,"reps":1,"review":"20231223083601143"}]
 interval: 1
-lapses: 3
-modified: 20231223083601146
+lapses: 4
+modified: 20231224041539913
 modifier: KylePan
 reps: 1
-retrievability: 0.22756419550464868
-review: 20231223083601143
-stability: 0.052727002747608956
+retrievability: 0.1355754580350447
+review: 20231224041539911
+stability: 0.03906112435736371
 tags: 方剂 ?
 title: 大定风珠
 type: text/vnd.tiddlywiki
