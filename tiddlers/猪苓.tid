@@ -1,15 +1,15 @@
 created: 20231122110528244
-difficulty: 0.5718632935728973
-due: 20231224111312096
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20240102084632977
+grade: 1
+history: [{"due":"20231224111312096","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223111312096"}]
+interval: 1
 lapses: 0
-modified: 20231223111312096
-reps: 1
-retrievability: 1
-review: 20231223111312096
-stability: 0.1296875
+modified: 20231224084632977
+reps: 2
+retrievability: 0.4437835062556419
+review: 20231224084632975
+stability: 8.840897471283636
 tags: 中药 ?
 title: 猪苓
 type: text/vnd.tiddlywiki

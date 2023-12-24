@@ -1,17 +1,17 @@
 created: 20231121010317740
 creator: KylePan
-difficulty: 1.7620000078546951
-due: 20231224040415643
+difficulty: 2.189564203359344
+due: 20231225084527440
 grade: 0
-history: [{"due":"20231221124319491","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220124319491"},{"due":"20231222083222351","interval":1,"difficulty":1.4504520156259877,"stability":0.0960748629946603,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231221083222351"}]
-interval: 2
-lapses: 2
-modified: 20231223040415644
+history: [{"due":"20231221124319491","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220124319491"},{"due":"20231222083222351","interval":1,"difficulty":1.4504520156259877,"stability":0.0960748629946603,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231221083222351"},{"due":"20231224040415643","interval":2,"difficulty":1.7620000078546951,"stability":0.07117400905594407,"retrievability":0.11154799222870741,"grade":0,"lapses":2,"reps":1,"review":"20231223040415641"}]
+interval: 1
+lapses: 3
+modified: 20231224084527441
 modifier: KylePan
 reps: 1
-retrievability: 0.11154799222870741
-review: 20231223040415641
-stability: 0.07117400905594407
+retrievability: 0.22756419550464868
+review: 20231224084527439
+stability: 0.052727002747608956
 tags: 方剂 ?
 title: 镇肝息风汤
 type: text/vnd.tiddlywiki
