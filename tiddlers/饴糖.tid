@@ -1,19 +1,20 @@
 created: 20231114105653272
 creator: KylePan
-difficulty: 3.429949240993425
-due: 20231224092335389
+difficulty: 3.529331216327795
+due: 20240124083818708
 grade: 1
-history: [{"due":"20231207064041048","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206064041048"},{"due":"20231208035139968","interval":1,"difficulty":3.480252452613064,"stability":0.2500261494800798,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231207035139967"},{"due":"20231212031013922","interval":1,"difficulty":3.3363813724016422,"stability":3.7450534805222353,"retrievability":0.6561289197885782,"grade":1,"lapses":1,"reps":2,"review":"20231208031013922"}]
-interval: 4
+history: [{"due":"20231207064041048","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206064041048"},{"due":"20231208035139968","interval":1,"difficulty":3.480252452613064,"stability":0.2500261494800798,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231207035139967"},{"due":"20231212031013922","interval":1,"difficulty":3.3363813724016422,"stability":3.7450534805222353,"retrievability":0.6561289197885782,"grade":1,"lapses":1,"reps":2,"review":"20231208031013922"},{"due":"20231224092335389","interval":4,"difficulty":3.429949240993425,"stability":11.92226913702808,"retrievability":0.8935678685917825,"grade":1,"lapses":1,"reps":3,"review":"20231212092335389"}]
+interval: 12
 lapses: 1
-modified: 20231212092335389
+modified: 20231224083818708
 modifier: KylePan
-reps: 3
-retrievability: 0.8935678685917825
-review: 20231212092335389
-stability: 11.92226913702808
+reps: 4
+retrievability: 0.8993819753343697
+review: 20231224083818707
+stability: 31.001532067703483
 tags: 中药 ?
 title: 饴糖
+type: text/vnd.tiddlywiki
 
 【药性】　甘，温。归脾、胃、肺经。
 
