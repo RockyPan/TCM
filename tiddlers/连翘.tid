@@ -1,17 +1,17 @@
 created: 20231113032113149
 creator: KylePan
-difficulty: 6.475359314915107
-due: 20231224094408262
+difficulty: 6.5720259626919155
+due: 20240108053530006
 grade: 1
-history: [{"due":"20231117103647350","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115103647350"},{"due":"20231212124449464","interval":9,"difficulty":4.822431111850943,"stability":17.93125127850223,"retrievability":0.6224311118509421,"grade":1,"lapses":0,"reps":2,"review":"20231124124449461"},{"due":"20231213075827320","interval":18,"difficulty":5.922067626668077,"stability":0.2500261494800798,"retrievability":0.8996365148171338,"grade":0,"lapses":1,"reps":1,"review":"20231212075827319"},{"due":"20231214015245849","interval":1,"difficulty":6.778196546456655,"stability":0.1200525453955683,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231213015245849"},{"due":"20231217015620701","interval":1,"difficulty":6.3939678144897565,"stability":2.5035493884798594,"retrievability":0.41577126803310094,"grade":1,"lapses":2,"reps":2,"review":"20231214015620701"}]
-interval: 3
+history: [{"due":"20231117103647350","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115103647350"},{"due":"20231212124449464","interval":9,"difficulty":4.822431111850943,"stability":17.93125127850223,"retrievability":0.6224311118509421,"grade":1,"lapses":0,"reps":2,"review":"20231124124449461"},{"due":"20231213075827320","interval":18,"difficulty":5.922067626668077,"stability":0.2500261494800798,"retrievability":0.8996365148171338,"grade":0,"lapses":1,"reps":1,"review":"20231212075827319"},{"due":"20231214015245849","interval":1,"difficulty":6.778196546456655,"stability":0.1200525453955683,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20231213015245849"},{"due":"20231217015620701","interval":1,"difficulty":6.3939678144897565,"stability":2.5035493884798594,"retrievability":0.41577126803310094,"grade":1,"lapses":2,"reps":2,"review":"20231214015620701"},{"due":"20231224094408262","interval":3,"difficulty":6.475359314915107,"stability":6.761859929862601,"retrievability":0.8813915004253505,"grade":1,"lapses":2,"reps":3,"review":"20231217094408261"}]
+interval: 7
 lapses: 2
-modified: 20231217094408262
+modified: 20231224053530007
 modifier: KylePan
-reps: 3
-retrievability: 0.8813915004253505
-review: 20231217094408261
-stability: 6.761859929862601
+reps: 4
+retrievability: 0.8966666477768083
+review: 20231224053530005
+stability: 14.828393988119494
 tags: 中药 ?
 title: 连翘
 type: text/vnd.tiddlywiki

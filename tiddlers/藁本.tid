@@ -1,15 +1,15 @@
 created: 20231122133107654
-difficulty: 0.5718632935728973
-due: 20231224123756465
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231223123756465
+difficulty: 1.2156467998285392
+due: 20231225052238870
+grade: 0
+history: [{"due":"20231224123756465","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223123756465"}]
+interval: 1
+lapses: 1
+modified: 20231224052238870
 reps: 1
-retrievability: 1
-review: 20231223123756465
-stability: 0.1296875
+retrievability: 0.4437835062556419
+review: 20231224052238869
+stability: 0.0960748629946603
 tags: 中药 ?
 title: 藁本
 type: text/vnd.tiddlywiki
