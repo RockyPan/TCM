@@ -1,17 +1,17 @@
 created: 20231121112304373
 creator: KylePan
-difficulty: 0.5718632935728973
-due: 20231224110636076
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20240102062218162
+grade: 1
+history: [{"due":"20231224110636076","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223110636076"}]
+interval: 1
 lapses: 0
-modified: 20231223110636076
+modified: 20231224062218162
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231223110636076
-stability: 0.1296875
+reps: 2
+retrievability: 0.4437835062556419
+review: 20231224062218160
+stability: 8.840897471283636
 tags: 中药 ?
 title: 瞿麦
 type: text/vnd.tiddlywiki

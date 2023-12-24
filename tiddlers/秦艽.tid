@@ -1,15 +1,15 @@
 created: 20231122133541050
-difficulty: 0.5718632935728973
-due: 20231224124919903
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231223124919903
+difficulty: 1.2156467998285392
+due: 20231225061340507
+grade: 0
+history: [{"due":"20231224124919903","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223124919903"}]
+interval: 1
+lapses: 1
+modified: 20231224061340507
 reps: 1
-retrievability: 1
-review: 20231223124919903
-stability: 0.1296875
+retrievability: 0.4437835062556419
+review: 20231224061340506
+stability: 0.0960748629946603
 tags: 中药 ?
 title: 秦艽
 type: text/vnd.tiddlywiki

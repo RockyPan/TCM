@@ -1,17 +1,17 @@
 created: 20231115010328296
 creator: KylePan
-difficulty: 5.097631992453566
-due: 20231224111253615
+difficulty: 5.195543888187008
+due: 20240111062924066
 grade: 1
-history: [{"due":"20231207124057023","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206124057023"},{"due":"20231208031845160","interval":1,"difficulty":3.480252452613064,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231207031845160"},{"due":"20231209023453140","interval":1,"difficulty":4.4611258107950436,"stability":0.18522392718173394,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231208023453140"},{"due":"20231212073926829","interval":1,"difficulty":4.227314557331674,"stability":3.268167546893202,"retrievability":0.5661887465366303,"grade":1,"lapses":2,"reps":2,"review":"20231209073926827"},{"due":"20231213081024031","interval":3,"difficulty":5.335129053047214,"stability":0.13721726016245223,"retrievability":0.9078144957155398,"grade":0,"lapses":3,"reps":1,"review":"20231212081024031"},{"due":"20231216024145976","interval":1,"difficulty":4.999144613702823,"stability":2.9528569772513604,"retrievability":0.4640155606556087,"grade":1,"lapses":3,"reps":2,"review":"20231213024145976"}]
-interval: 3
+history: [{"due":"20231207124057023","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206124057023"},{"due":"20231208031845160","interval":1,"difficulty":3.480252452613064,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231207031845160"},{"due":"20231209023453140","interval":1,"difficulty":4.4611258107950436,"stability":0.18522392718173394,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20231208023453140"},{"due":"20231212073926829","interval":1,"difficulty":4.227314557331674,"stability":3.268167546893202,"retrievability":0.5661887465366303,"grade":1,"lapses":2,"reps":2,"review":"20231209073926827"},{"due":"20231213081024031","interval":3,"difficulty":5.335129053047214,"stability":0.13721726016245223,"retrievability":0.9078144957155398,"grade":0,"lapses":3,"reps":1,"review":"20231212081024031"},{"due":"20231216024145976","interval":1,"difficulty":4.999144613702823,"stability":2.9528569772513604,"retrievability":0.4640155606556087,"grade":1,"lapses":3,"reps":2,"review":"20231213024145976"},{"due":"20231224111253615","interval":3,"difficulty":5.097631992453566,"stability":7.827433898837161,"retrievability":0.8984873787507432,"grade":1,"lapses":3,"reps":3,"review":"20231216111253612"}]
+interval: 8
 lapses: 3
-modified: 20231216111253616
+modified: 20231224062924066
 modifier: KylePan
-reps: 3
-retrievability: 0.8984873787507432
-review: 20231216111253612
-stability: 7.827433898837161
+reps: 4
+retrievability: 0.8979118957334415
+review: 20231224062924064
+stability: 18.38191605547143
 tags: 中药 ?
 title: 砂仁
 type: text/vnd.tiddlywiki
