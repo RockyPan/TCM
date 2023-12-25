@@ -5,7 +5,7 @@ grade: -1
 history: []
 interval: 0
 lapses: 0
-modified: 20231224134751367
+modified: 20231225032258118
 reps: 1
 retrievability: 1
 review: 20231224132139722
@@ -14,9 +14,8 @@ tags: 中药 ?
 title: 莱菔子
 type: text/vnd.tiddlywiki
 
-[img[cm_lfz.png]]
-
-<img src='./cm_lfz.png' style='width:200px;'/>
+[img width=200 [cm_lfz.png]]
+[img width=200 [cm_lfz.png]]
 
 【药性】　辛、甘，平。归脾、胃、肺经。
 
