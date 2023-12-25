@@ -1,15 +1,15 @@
 created: 20231122133213747
-difficulty: 1.2156467998285392
-due: 20231225060149269
-grade: 0
-history: [{"due":"20231224123801916","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223123801916"}]
+difficulty: 1
+due: 20240103100746608
+grade: 1
+history: [{"due":"20231224123801916","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223123801916"},{"due":"20231225060149269","interval":1,"difficulty":1.2156467998285392,"stability":0.0960748629946603,"retrievability":0.4437835062556419,"grade":0,"lapses":1,"reps":1,"review":"20231224060149267"}]
 interval: 1
 lapses: 1
-modified: 20231224060149270
-reps: 1
-retrievability: 0.4437835062556419
-review: 20231224060149267
-stability: 0.0960748629946603
+modified: 20231225100746609
+reps: 2
+retrievability: 0.33398801210329004
+review: 20231225100746603
+stability: 8.812552510976115
 tags: 中药 ?
 title: 蔓荆子
 type: text/vnd.tiddlywiki

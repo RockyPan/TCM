@@ -1,17 +1,17 @@
 created: 20231123034039549
 creator: KylePan
-difficulty: 0.5069763379459223
-due: 20231225130948197
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20240103101710266
+grade: 1
+history: [{"due":"20231225130948197","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224130948197"}]
+interval: 1
 lapses: 0
-modified: 20231224130948197
+modified: 20231225101710267
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231224130948197
-stability: 0.1296875
+reps: 2
+retrievability: 0.4437835062556419
+review: 20231225101710262
+stability: 8.840897471283636
 tags: 方剂 ?
 title: 消瘰丸
 type: text/vnd.tiddlywiki
