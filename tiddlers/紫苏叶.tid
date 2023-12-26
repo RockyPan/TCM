@@ -1,17 +1,17 @@
 created: 20231118103925311
 creator: KylePan
-difficulty: 1
-due: 20231225125608257
+difficulty: 1.0944364137170175
+due: 20240207033530740
 grade: 1
-history: [{"due":"20231217130532466","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216130532466"}]
-interval: 1
+history: [{"due":"20231217130532466","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216130532466"},{"due":"20231225125608257","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231217125608255"}]
+interval: 9
 lapses: 0
-modified: 20231217125608257
+modified: 20231226033530740
 modifier: KylePan
-reps: 2
-retrievability: 0.6177644323744501
-review: 20231217125608255
-stability: 8.499750752001383
+reps: 3
+retrievability: 0.8944364137170175
+review: 20231226033530740
+stability: 43.243880567648375
 tags: 中药 ?
 title: 紫苏叶
 type: text/vnd.tiddlywiki

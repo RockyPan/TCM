@@ -1,17 +1,17 @@
 created: 20231123084510330
 creator: KylePan
-difficulty: 0.5069763379459223
-due: 20231225131142069
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20240110032553333
+grade: 1
+history: [{"due":"20231225131142069","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224131142069"}]
+interval: 2
 lapses: 0
-modified: 20231224131142069
+modified: 20231226032553333
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231224131142069
-stability: 0.1296875
+reps: 2
+retrievability: 0.19694380042455134
+review: 20231226032553333
+stability: 14.557645929022986
 tags: 方剂 ?
 title: 止嗽散
 type: text/vnd.tiddlywiki

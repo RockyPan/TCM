@@ -1,17 +1,17 @@
 created: 20231123084627578
 creator: KylePan
-difficulty: 0.5069763379459223
-due: 20231225131148190
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20231224131148190
+difficulty: 1
+due: 20231227033545628
+grade: 0
+history: [{"due":"20231225131148190","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224131148190"}]
+interval: 2
+lapses: 1
+modified: 20231226033545628
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20231224131148190
-stability: 0.1296875
+retrievability: 0.19694380042455134
+review: 20231226033545628
+stability: 0.0960748629946603
 tags: 中药 ?
 title: 紫菀
 type: text/vnd.tiddlywiki
