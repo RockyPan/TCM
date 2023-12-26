@@ -1,17 +1,17 @@
 created: 20231121112155565
 creator: KylePan
-difficulty: 1.7496348119318292
-due: 20231226035114009
+difficulty: 2.177199007436478
+due: 20231227061102268
 grade: 0
-history: [{"due":"20231224110630286","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223110630286"},{"due":"20231225035744891","interval":1,"difficulty":1.2156467998285392,"stability":0.0960748629946603,"retrievability":0.4437835062556419,"grade":0,"lapses":1,"reps":1,"review":"20231224035744890"}]
+history: [{"due":"20231224110630286","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223110630286"},{"due":"20231225035744891","interval":1,"difficulty":1.2156467998285392,"stability":0.0960748629946603,"retrievability":0.4437835062556419,"grade":0,"lapses":1,"reps":1,"review":"20231224035744890"},{"due":"20231226035114009","interval":1,"difficulty":1.7496348119318292,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231225035114000"}]
 interval: 1
-lapses: 2
-modified: 20231225035114011
+lapses: 3
+modified: 20231226061102268
 modifier: KylePan
 reps: 1
-retrievability: 0.33398801210329004
-review: 20231225035114000
-stability: 0.07117400905594407
+retrievability: 0.22756419550464868
+review: 20231226061102268
+stability: 0.052727002747608956
 tags: 方剂 ?
 title: 八正散
 type: text/vnd.tiddlywiki
