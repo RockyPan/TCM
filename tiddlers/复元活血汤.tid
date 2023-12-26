@@ -1,17 +1,17 @@
 created: 20231119081232077
 creator: KylePan
-difficulty: 1
-due: 20231226014147391
+difficulty: 1.1055925971131362
+due: 20240203062713426
 grade: 1
-history: [{"due":"20231218075355520","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217075355520"}]
-interval: 1
+history: [{"due":"20231218075355520","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217075355520"},{"due":"20231226014147391","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231218014147390"}]
+interval: 8
 lapses: 0
-modified: 20231218014147391
+modified: 20231226062713426
 modifier: KylePan
-reps: 2
-retrievability: 0.6177644323744501
-review: 20231218014147390
-stability: 8.499750752001383
+reps: 3
+retrievability: 0.9055925971131363
+review: 20231226062713426
+stability: 39.177764994287756
 tags: 方剂 ?
 title: 复元活血汤
 type: text/vnd.tiddlywiki

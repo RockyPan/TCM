@@ -1,17 +1,17 @@
 created: 20231119031619910
 creator: KylePan
-difficulty: 1.3836181604531024
-due: 20231226020227572
+difficulty: 1.4846848321994786
+due: 20240125062504410
 grade: 1
-history: [{"due":"20231218070000201","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217070000201"},{"due":"20231219014050382","interval":1,"difficulty":1.773935412429729,"stability":0.11806790392114878,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231218014050382"}]
-interval: 1
+history: [{"due":"20231218070000201","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217070000201"},{"due":"20231219014050382","interval":1,"difficulty":1.773935412429729,"stability":0.11806790392114878,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231218014050382"},{"due":"20231226020227572","interval":1,"difficulty":1.3836181604531024,"stability":7.079590512186888,"retrievability":0.40968274802337346,"grade":1,"lapses":1,"reps":2,"review":"20231219020227572"}]
+interval: 7
 lapses: 1
-modified: 20231219020227572
+modified: 20231226062504410
 modifier: KylePan
-reps: 2
-retrievability: 0.40968274802337346
-review: 20231219020227572
-stability: 7.079590512186888
+reps: 3
+retrievability: 0.9010666717463764
+review: 20231226062504410
+stability: 29.72689878203845
 tags: 方剂 ?
 title: 定喘汤
 type: text/vnd.tiddlywiki

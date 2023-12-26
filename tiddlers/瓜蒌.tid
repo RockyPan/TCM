@@ -1,15 +1,17 @@
 created: 20231118103532887
-difficulty: 2.1055925971131364
-due: 20231226060849712
-grade: 0
-history: [{"due":"20231217125809776","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216125809776"},{"due":"20231225064806826","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231217064806823"}]
-interval: 8
+creator: KylePan
+difficulty: 1.6395806092164265
+due: 20240101062955002
+grade: 1
+history: [{"due":"20231217125809776","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216125809776"},{"due":"20231225064806826","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231217064806823"},{"due":"20231226060849712","interval":8,"difficulty":2.1055925971131364,"stability":0.0960748629946603,"retrievability":0.9055925971131363,"grade":0,"lapses":1,"reps":1,"review":"20231225060849707"}]
+interval: 1
 lapses: 1
-modified: 20231225060849713
-reps: 1
-retrievability: 0.9055925971131363
-review: 20231225060849707
-stability: 0.0960748629946603
+modified: 20231226062955002
+modifier: KylePan
+reps: 2
+retrievability: 0.33398801210329004
+review: 20231226062955002
+stability: 6.2624235556414165
 tags: 中药 ?
 title: 瓜蒌
 type: text/vnd.tiddlywiki
