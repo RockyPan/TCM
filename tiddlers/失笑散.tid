@@ -1,17 +1,17 @@
 created: 20231119081416205
 creator: KylePan
-difficulty: 1
-due: 20231226022159965
+difficulty: 1.0944364137170175
+due: 20240208010254214
 grade: 1
-history: [{"due":"20231218075614690","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217075614690"}]
-interval: 1
+history: [{"due":"20231218075614690","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217075614690"},{"due":"20231226022159965","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231218022159965"}]
+interval: 9
 lapses: 0
-modified: 20231218022159965
+modified: 20231227010254214
 modifier: KylePan
-reps: 2
-retrievability: 0.6177644323744501
-review: 20231218022159965
-stability: 8.499750752001383
+reps: 3
+retrievability: 0.8944364137170175
+review: 20231227010254214
+stability: 43.243880567648375
 tags: 方剂 ?
 title: 失笑散
 type: text/vnd.tiddlywiki

@@ -1,15 +1,17 @@
 created: 20231124052036797
-difficulty: 1.1507598442015643
-due: 20231226100430034
-grade: 0
-history: [{"due":"20231225132139722","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224132139722"}]
-interval: 1
+creator: KylePan
+difficulty: 1
+due: 20240109005934470
+grade: 1
+history: [{"due":"20231225132139722","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224132139722"},{"due":"20231226100430034","interval":1,"difficulty":1.1507598442015643,"stability":0.0960748629946603,"retrievability":0.4437835062556419,"grade":0,"lapses":1,"reps":1,"review":"20231225100430031"}]
+interval: 2
 lapses: 1
-modified: 20231225100430035
-reps: 1
-retrievability: 0.4437835062556419
-review: 20231225100430031
-stability: 0.0960748629946603
+modified: 20231227005934470
+modifier: KylePan
+reps: 2
+retrievability: 0.11154799222870741
+review: 20231227005934470
+stability: 13.278304045283392
 tags: 中药 ?
 title: 莱菔子
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231119032456296
 creator: KylePan
-difficulty: 1
-due: 20231226112154965
+difficulty: 1.0944364137170175
+due: 20240208011900958
 grade: 1
-history: [{"due":"20231218071050450","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217071050450"}]
-interval: 1
+history: [{"due":"20231218071050450","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217071050450"},{"due":"20231226112154965","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231218112154965"}]
+interval: 9
 lapses: 0
-modified: 20231218112154965
+modified: 20231227011900958
 modifier: KylePan
-reps: 2
-retrievability: 0.6177644323744501
-review: 20231218112154965
-stability: 8.499750752001383
+reps: 3
+retrievability: 0.8944364137170175
+review: 20231227011900958
+stability: 43.243880567648375
 tags: 中药 ?
 title: 旋覆花
 type: text/vnd.tiddlywiki
