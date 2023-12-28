@@ -1,17 +1,17 @@
 created: 20231123084913090
 creator: KylePan
-difficulty: 2.112312051809503
-due: 20231228013403205
+difficulty: 2.447887509844548
+due: 20231229020808315
 grade: 0
-history: [{"due":"20231225131709319","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224131709319"},{"due":"20231226040644781","interval":1,"difficulty":1.1507598442015643,"stability":0.0960748629946603,"retrievability":0.4437835062556419,"grade":0,"lapses":1,"reps":1,"review":"20231225040644777"},{"due":"20231227061622419","interval":1,"difficulty":1.6847478563048544,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231226061622418"}]
+history: [{"due":"20231225131709319","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224131709319"},{"due":"20231226040644781","interval":1,"difficulty":1.1507598442015643,"stability":0.0960748629946603,"retrievability":0.4437835062556419,"grade":0,"lapses":1,"reps":1,"review":"20231225040644777"},{"due":"20231227061622419","interval":1,"difficulty":1.6847478563048544,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231226061622418"},{"due":"20231228013403205","interval":1,"difficulty":2.112312051809503,"stability":0.052727002747608956,"retrievability":0.22756419550464868,"grade":0,"lapses":3,"reps":1,"review":"20231227013403205"}]
 interval: 1
-lapses: 3
-modified: 20231227013403205
+lapses: 4
+modified: 20231228020808315
 modifier: KylePan
 reps: 1
-retrievability: 0.22756419550464868
-review: 20231227013403205
-stability: 0.052727002747608956
+retrievability: 0.1355754580350447
+review: 20231228020808315
+stability: 0.03906112435736371
 tags: 方剂 ?
 title: 半夏白术天麻汤
 type: text/vnd.tiddlywiki
