@@ -1,17 +1,17 @@
 created: 20231121082000372
 creator: KylePan
-difficulty: 1.829633689481677
-due: 20231227011653912
+difficulty: 2.048014394303089
+due: 20231229011516045
 grade: 0
-history: [{"due":"20231222131212892","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221131212892"},{"due":"20231224031741904","interval":2,"difficulty":1.043860214302709,"stability":0.0960748629946603,"retrievability":0.19694380042455134,"grade":0,"lapses":1,"reps":1,"review":"20231223031741900"},{"due":"20231225083220144","interval":1,"difficulty":1.577848226405999,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231224083220142"}]
+history: [{"due":"20231222131212892","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221131212892"},{"due":"20231224031741904","interval":2,"difficulty":1.043860214302709,"stability":0.0960748629946603,"retrievability":0.19694380042455134,"grade":0,"lapses":1,"reps":1,"review":"20231223031741900"},{"due":"20231225083220144","interval":1,"difficulty":1.577848226405999,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231224083220142"},{"due":"20231227011653912","interval":2,"difficulty":1.829633689481677,"stability":0.052727002747608956,"retrievability":0.05178546307567797,"grade":0,"lapses":3,"reps":1,"review":"20231226011653912"}]
 interval: 2
-lapses: 3
-modified: 20231226011653912
+lapses: 4
+modified: 20231228011516045
 modifier: KylePan
 reps: 1
-retrievability: 0.05178546307567797
-review: 20231226011653912
-stability: 0.052727002747608956
+retrievability: 0.018380704821412165
+review: 20231228011516045
+stability: 0.03906112435736371
 tags: 方剂 ?
 title: 杏苏散
 type: text/vnd.tiddlywiki

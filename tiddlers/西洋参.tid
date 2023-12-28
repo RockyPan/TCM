@@ -1,17 +1,17 @@
 created: 20231114011951940
 creator: KylePan
-difficulty: 3.743679714987201
-due: 20231227030846468
+difficulty: 3.835828576719827
+due: 20240208005930149
 grade: 1
-history: [{"due":"20231203075525733","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202075525733"},{"due":"20231210014616344","interval":2,"difficulty":3.640976298811018,"stability":6.175806421831119,"retrievability":0.6931759895835838,"grade":1,"lapses":0,"reps":2,"review":"20231204014616344"}]
-interval: 6
+history: [{"due":"20231203075525733","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202075525733"},{"due":"20231210014616344","interval":2,"difficulty":3.640976298811018,"stability":6.175806421831119,"retrievability":0.6931759895835838,"grade":1,"lapses":0,"reps":2,"review":"20231204014616344"},{"due":"20231227030846468","interval":6,"difficulty":3.743679714987201,"stability":16.61804658423306,"retrievability":0.9027034161761834,"grade":1,"lapses":0,"reps":3,"review":"20231210030846463"}]
+interval: 18
 lapses: 0
-modified: 20231210030846469
+modified: 20231228005930149
 modifier: KylePan
-reps: 3
-retrievability: 0.9027034161761834
-review: 20231210030846463
-stability: 16.61804658423306
+reps: 4
+retrievability: 0.8921488617326256
+review: 20231228005930148
+stability: 41.87427928027646
 tags: 中药 ?
 title: 西洋参
 type: text/vnd.tiddlywiki
