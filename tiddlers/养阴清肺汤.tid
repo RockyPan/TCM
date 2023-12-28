@@ -1,17 +1,17 @@
 created: 20231121110858542
 creator: KylePan
-difficulty: 1.829633689481677
-due: 20231227012628576
+difficulty: 2.048014394303089
+due: 20231229012210060
 grade: 0
-history: [{"due":"20231222134309410","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221134309410"},{"due":"20231224034339879","interval":2,"difficulty":1.043860214302709,"stability":0.0960748629946603,"retrievability":0.19694380042455134,"grade":0,"lapses":1,"reps":1,"review":"20231223034339877"},{"due":"20231225083808642","interval":1,"difficulty":1.577848226405999,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231224083808641"}]
+history: [{"due":"20231222134309410","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221134309410"},{"due":"20231224034339879","interval":2,"difficulty":1.043860214302709,"stability":0.0960748629946603,"retrievability":0.19694380042455134,"grade":0,"lapses":1,"reps":1,"review":"20231223034339877"},{"due":"20231225083808642","interval":1,"difficulty":1.577848226405999,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231224083808641"},{"due":"20231227012628576","interval":2,"difficulty":1.829633689481677,"stability":0.052727002747608956,"retrievability":0.05178546307567797,"grade":0,"lapses":3,"reps":1,"review":"20231226012628575"}]
 interval: 2
-lapses: 3
-modified: 20231226012628576
+lapses: 4
+modified: 20231228012210060
 modifier: KylePan
 reps: 1
-retrievability: 0.05178546307567797
-review: 20231226012628575
-stability: 0.052727002747608956
+retrievability: 0.018380704821412165
+review: 20231228012210060
+stability: 0.03906112435736371
 tags: 方剂 ?
 title: 养阴清肺汤
 type: text/vnd.tiddlywiki
