@@ -1,17 +1,17 @@
 created: 20231120083153856
 creator: KylePan
-difficulty: 1
-due: 20231229031350312
+difficulty: 1.0972748152734606
+due: 20240210135213504
 grade: 1
-history: [{"due":"20231220132141576","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219132141576"}]
-interval: 1
+history: [{"due":"20231220132141576","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219132141576"},{"due":"20231229031350312","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231220031350312"}]
+interval: 9
 lapses: 0
-modified: 20231220031350312
+modified: 20231229135213505
 modifier: KylePan
-reps: 2
-retrievability: 0.5162905511021803
-review: 20231220031350312
-stability: 8.7482017605697
+reps: 3
+retrievability: 0.8972748152734608
+review: 20231229135213504
+stability: 43.23396583127258
 tags: 中药 ?
 title: 苦参
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231119084020313
 creator: KylePan
-difficulty: 1
-due: 20231229021904690
+difficulty: 1.0972748152734606
+due: 20240210135049722
 grade: 1
-history: [{"due":"20231220124825895","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219124825895"}]
-interval: 1
+history: [{"due":"20231220124825895","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219124825895"},{"due":"20231229021904690","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231220021904690"}]
+interval: 9
 lapses: 0
-modified: 20231220021904690
+modified: 20231229135049723
 modifier: KylePan
-reps: 2
-retrievability: 0.5162905511021803
-review: 20231220021904690
-stability: 8.7482017605697
+reps: 3
+retrievability: 0.8972748152734608
+review: 20231229135049716
+stability: 43.23396583127258
 tags: 中药 ?
 title: 淡竹叶
 type: text/vnd.tiddlywiki
