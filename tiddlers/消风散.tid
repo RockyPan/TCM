@@ -1,17 +1,17 @@
 created: 20231120082735992
 creator: KylePan
-difficulty: 1
-due: 20231229034630912
+difficulty: 1.0865331417501058
+due: 20240215021859097
 grade: 1
-history: [{"due":"20231220132100959","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219132100959"}]
-interval: 1
+history: [{"due":"20231220132100959","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219132100959"},{"due":"20231229034630912","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231220034630912"}]
+interval: 10
 lapses: 0
-modified: 20231220034630912
+modified: 20231230021859098
 modifier: KylePan
-reps: 2
-retrievability: 0.5162905511021803
-review: 20231220034630912
-stability: 8.7482017605697
+reps: 3
+retrievability: 0.8865331417501058
+review: 20231230021859095
+stability: 47.31354442844167
 tags: 方剂 ?
 title: 消风散
 type: text/vnd.tiddlywiki
