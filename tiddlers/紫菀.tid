@@ -1,17 +1,17 @@
 created: 20231123084627578
 creator: KylePan
-difficulty: 1.3115479922287074
-due: 20231229014532316
+difficulty: 1.5633334553043854
+due: 20231231081849147
 grade: 0
-history: [{"due":"20231225131148190","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224131148190"},{"due":"20231227033545628","interval":2,"difficulty":1,"stability":0.0960748629946603,"retrievability":0.19694380042455134,"grade":0,"lapses":1,"reps":1,"review":"20231226033545628"}]
+history: [{"due":"20231225131148190","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224131148190"},{"due":"20231227033545628","interval":2,"difficulty":1,"stability":0.0960748629946603,"retrievability":0.19694380042455134,"grade":0,"lapses":1,"reps":1,"review":"20231226033545628"},{"due":"20231229014532316","interval":2,"difficulty":1.3115479922287074,"stability":0.07117400905594407,"retrievability":0.11154799222870741,"grade":0,"lapses":2,"reps":1,"review":"20231228014532316"}]
 interval: 2
-lapses: 2
-modified: 20231228014532316
+lapses: 3
+modified: 20231230081849148
 modifier: KylePan
 reps: 1
-retrievability: 0.11154799222870741
-review: 20231228014532316
-stability: 0.07117400905594407
+retrievability: 0.05178546307567797
+review: 20231230081849144
+stability: 0.052727002747608956
 tags: 中药 ?
 title: 紫菀
 type: text/vnd.tiddlywiki
