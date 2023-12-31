@@ -1,18 +1,18 @@
 caption: 
 created: 20231113054411000
 creator: KylePan
-difficulty: 6.352054159147249
-due: 20231230013957661
+difficulty: 6.446438596434839
+due: 20240131024013927
 grade: 1
-history: [{"due":"20231128102513686","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102513686"},{"due":"20231204031929278","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128031929278"},{"due":"20231205034646150","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231204034646150"},{"due":"20231208010802020","interval":1,"difficulty":6.1725197853298575,"stability":2.5031669457276235,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231205010802020"},{"due":"20231215015514820","interval":3,"difficulty":6.253894284371546,"stability":6.866612878729356,"retrievability":0.8813744990416884,"grade":1,"lapses":1,"reps":3,"review":"20231208015514820"}]
-interval: 7
+history: [{"due":"20231128102513686","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102513686"},{"due":"20231204031929278","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128031929278"},{"due":"20231205034646150","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231204034646150"},{"due":"20231208010802020","interval":1,"difficulty":6.1725197853298575,"stability":2.5031669457276235,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231205010802020"},{"due":"20231215015514820","interval":3,"difficulty":6.253894284371546,"stability":6.866612878729356,"retrievability":0.8813744990416884,"grade":1,"lapses":1,"reps":3,"review":"20231208015514820"},{"due":"20231230013957661","interval":7,"difficulty":6.352054159147249,"stability":15.102800935975662,"retrievability":0.8981598747757034,"grade":1,"lapses":1,"reps":4,"review":"20231215013957661"}]
+interval: 16
 lapses: 1
-modified: 20231215013957661
+modified: 20231231024013927
 modifier: KylePan
-reps: 4
-retrievability: 0.8981598747757034
-review: 20231215013957661
-stability: 15.102800935975662
+reps: 5
+retrievability: 0.8943844372875901
+review: 20231231024013926
+stability: 31.01525746963822
 tags: 中药 ?
 title: 京大戟
 type: text/vnd.tiddlywiki
