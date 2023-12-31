@@ -1,17 +1,17 @@
 created: 20231121010633476
 creator: KylePan
-difficulty: 1
-due: 20231230035246187
+difficulty: 1.0865331417501058
+due: 20240216031528978
 grade: 1
-history: [{"due":"20231221124329515","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220124329515"}]
-interval: 1
+history: [{"due":"20231221124329515","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220124329515"},{"due":"20231230035246187","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231221035246187"}]
+interval: 10
 lapses: 0
-modified: 20231221035246187
+modified: 20231231031528978
 modifier: KylePan
-reps: 2
-retrievability: 0.5162905511021803
-review: 20231221035246187
-stability: 8.7482017605697
+reps: 3
+retrievability: 0.8865331417501058
+review: 20231231031528976
+stability: 47.31354442844167
 tags: 中药 ?
 title: 天冬
 type: text/vnd.tiddlywiki

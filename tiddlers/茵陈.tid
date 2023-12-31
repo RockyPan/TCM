@@ -1,17 +1,17 @@
 created: 20231121010840557
 creator: KylePan
-difficulty: 1
-due: 20231230082515030
+difficulty: 1.0865331417501058
+due: 20240216034007512
 grade: 1
-history: [{"due":"20231221124342092","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220124342092"}]
-interval: 1
+history: [{"due":"20231221124342092","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220124342092"},{"due":"20231230082515030","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231221082515030"}]
+interval: 10
 lapses: 0
-modified: 20231221082515030
+modified: 20231231034007512
 modifier: KylePan
-reps: 2
-retrievability: 0.5162905511021803
-review: 20231221082515030
-stability: 8.7482017605697
+reps: 3
+retrievability: 0.8865331417501058
+review: 20231231034007509
+stability: 47.31354442844167
 tags: 中药 ?
 title: 茵陈
 type: text/vnd.tiddlywiki
