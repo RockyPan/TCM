@@ -1,17 +1,17 @@
 created: 20231113030040558
 creator: KylePan
-difficulty: 6.7552877193694
-due: 20231231080441011
+difficulty: 7.007073182445078
+due: 20240102012633186
 grade: 0
-history: [{"due":"20231117103600871","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115103600871"},{"due":"20231215035858629","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231125035858623"},{"due":"20231216024112084","interval":20,"difficulty":5.88883913988042,"stability":0.16205398577412577,"retrievability":0.8983491398804202,"grade":0,"lapses":1,"reps":1,"review":"20231215024112084"},{"due":"20231219121511726","interval":1,"difficulty":5.61080301848338,"stability":2.726265122587825,"retrievability":0.5219638786029598,"grade":1,"lapses":1,"reps":2,"review":"20231216121511723"},{"due":"20231229015018538","interval":4,"difficulty":5.6675729376377,"stability":8.846035923450021,"retrievability":0.8567699191543192,"grade":1,"lapses":1,"reps":3,"review":"20231220015018538"}]
-interval: 10
-lapses: 2
-modified: 20231230080441012
+history: [{"due":"20231117103600871","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115103600871"},{"due":"20231215035858629","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231125035858623"},{"due":"20231216024112084","interval":20,"difficulty":5.88883913988042,"stability":0.16205398577412577,"retrievability":0.8983491398804202,"grade":0,"lapses":1,"reps":1,"review":"20231215024112084"},{"due":"20231219121511726","interval":1,"difficulty":5.61080301848338,"stability":2.726265122587825,"retrievability":0.5219638786029598,"grade":1,"lapses":1,"reps":2,"review":"20231216121511723"},{"due":"20231229015018538","interval":4,"difficulty":5.6675729376377,"stability":8.846035923450021,"retrievability":0.8567699191543192,"grade":1,"lapses":1,"reps":3,"review":"20231220015018538"},{"due":"20231231080441011","interval":10,"difficulty":6.7552877193694,"stability":0.07117400905594407,"retrievability":0.8877147817316994,"grade":0,"lapses":2,"reps":1,"review":"20231230080441007"}]
+interval: 2
+lapses: 3
+modified: 20240101012633188
 modifier: KylePan
 reps: 1
-retrievability: 0.8877147817316994
-review: 20231230080441007
-stability: 0.07117400905594407
+retrievability: 0.05178546307567797
+review: 20240101012633180
+stability: 0.052727002747608956
 tags: 方剂 ?
 title: 银翘散
 type: text/vnd.tiddlywiki

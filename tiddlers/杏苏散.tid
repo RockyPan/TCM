@@ -1,17 +1,17 @@
 created: 20231121082000372
 creator: KylePan
-difficulty: 2.2525552110538807
-due: 20231231075620276
+difficulty: 2.453243010247556
+due: 20240102011553023
 grade: 0
-history: [{"due":"20231222131212892","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221131212892"},{"due":"20231224031741904","interval":2,"difficulty":1.043860214302709,"stability":0.0960748629946603,"retrievability":0.19694380042455134,"grade":0,"lapses":1,"reps":1,"review":"20231223031741900"},{"due":"20231225083220144","interval":1,"difficulty":1.577848226405999,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231224083220142"},{"due":"20231227011653912","interval":2,"difficulty":1.829633689481677,"stability":0.052727002747608956,"retrievability":0.05178546307567797,"grade":0,"lapses":3,"reps":1,"review":"20231226011653912"},{"due":"20231229011516045","interval":2,"difficulty":2.048014394303089,"stability":0.03906112435736371,"retrievability":0.018380704821412165,"grade":0,"lapses":4,"reps":1,"review":"20231228011516045"}]
+history: [{"due":"20231222131212892","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221131212892"},{"due":"20231224031741904","interval":2,"difficulty":1.043860214302709,"stability":0.0960748629946603,"retrievability":0.19694380042455134,"grade":0,"lapses":1,"reps":1,"review":"20231223031741900"},{"due":"20231225083220144","interval":1,"difficulty":1.577848226405999,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231224083220142"},{"due":"20231227011653912","interval":2,"difficulty":1.829633689481677,"stability":0.052727002747608956,"retrievability":0.05178546307567797,"grade":0,"lapses":3,"reps":1,"review":"20231226011653912"},{"due":"20231229011516045","interval":2,"difficulty":2.048014394303089,"stability":0.03906112435736371,"retrievability":0.018380704821412165,"grade":0,"lapses":4,"reps":1,"review":"20231228011516045"},{"due":"20231231075620276","interval":2,"difficulty":2.2525552110538807,"stability":0.028937192644249494,"retrievability":0.0045408167507914364,"grade":0,"lapses":5,"reps":1,"review":"20231230075620271"}]
 interval: 2
-lapses: 5
-modified: 20231230075620277
+lapses: 6
+modified: 20240101011553025
 modifier: KylePan
 reps: 1
-retrievability: 0.0045408167507914364
-review: 20231230075620271
-stability: 0.028937192644249494
+retrievability: 0.000687799193675486
+review: 20240101011553018
+stability: 0.02143719956623701
 tags: 方剂 ?
 title: 杏苏散
 type: text/vnd.tiddlywiki
