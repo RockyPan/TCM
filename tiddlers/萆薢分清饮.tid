@@ -1,18 +1,18 @@
 caption: 
 created: 20231122132512335
 creator: KylePan
-difficulty: 1
-due: 20240102040305559
+difficulty: 1.0982951371011798
+due: 20240214104709365
 grade: 1
-history: [{"due":"20231224123110794","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223123110794"}]
-interval: 1
+history: [{"due":"20231224123110794","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223123110794"},{"due":"20240102040305559","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231224040305558"}]
+interval: 9
 lapses: 0
-modified: 20231224040305560
+modified: 20240102104709365
 modifier: KylePan
-reps: 2
-retrievability: 0.4437835062556419
-review: 20231224040305558
-stability: 8.840897471283636
+reps: 3
+retrievability: 0.8982951371011797
+review: 20240102104709361
+stability: 43.23300601803576
 tags: 方剂 ?
 title: 萆薢分清饮
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231121112428462
 creator: KylePan
-difficulty: 1
-due: 20240102040314027
+difficulty: 1.0982951371011798
+due: 20240214104722634
 grade: 1
-history: [{"due":"20231224110641984","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223110641984"}]
-interval: 1
+history: [{"due":"20231224110641984","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223110641984"},{"due":"20240102040314027","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231224040314025"}]
+interval: 9
 lapses: 0
-modified: 20231224040314028
+modified: 20240102104722634
 modifier: KylePan
-reps: 2
-retrievability: 0.4437835062556419
-review: 20231224040314025
-stability: 8.840897471283636
+reps: 3
+retrievability: 0.8982951371011797
+review: 20240102104722630
+stability: 43.23300601803576
 tags: 中药 ?
 title: 萹蓄
 type: text/vnd.tiddlywiki
