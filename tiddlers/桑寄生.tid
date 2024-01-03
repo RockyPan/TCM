@@ -1,17 +1,17 @@
 created: 20231121011508965
 creator: KylePan
-difficulty: 2.143634862591659
-due: 20240102010345016
-grade: 0
-history: [{"due":"20231221125856066","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220125856066"},{"due":"20231222021509197","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231221021509197"},{"due":"20231231024335289","interval":1,"difficulty":1.060134763649361,"stability":8.506153667428459,"retrievability":0.40968274802337346,"grade":1,"lapses":1,"reps":2,"review":"20231222024335288"}]
-interval: 10
+difficulty: 1.395420325667337
+due: 20240112064222051
+grade: 1
+history: [{"due":"20231221125856066","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220125856066"},{"due":"20231222021509197","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231221021509197"},{"due":"20231231024335289","interval":1,"difficulty":1.060134763649361,"stability":8.506153667428459,"retrievability":0.40968274802337346,"grade":1,"lapses":1,"reps":2,"review":"20231222024335288"},{"due":"20240102010345016","interval":10,"difficulty":2.143634862591659,"stability":0.07117400905594407,"retrievability":0.8835000989422979,"grade":0,"lapses":2,"reps":1,"review":"20240101010345012"}]
+interval: 2
 lapses: 2
-modified: 20240101010345016
+modified: 20240103064222052
 modifier: KylePan
-reps: 1
-retrievability: 0.8835000989422979
-review: 20240101010345012
-stability: 0.07117400905594407
+reps: 2
+retrievability: 0.05178546307567797
+review: 20240103064222047
+stability: 9.142554881633897
 tags: 中药 ?
 title: 桑寄生
 type: text/vnd.tiddlywiki
