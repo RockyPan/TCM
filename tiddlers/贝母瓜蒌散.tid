@@ -1,17 +1,17 @@
 created: 20231123084150649
 creator: KylePan
-difficulty: 1
-due: 20240103041817976
+difficulty: 1.0982951371011798
+due: 20240215075026490
 grade: 1
-history: [{"due":"20231225131029248","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224131029248"}]
-interval: 1
+history: [{"due":"20231225131029248","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224131029248"},{"due":"20240103041817976","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231225041817972"}]
+interval: 9
 lapses: 0
-modified: 20231225041817977
+modified: 20240103075026491
 modifier: KylePan
-reps: 2
-retrievability: 0.4437835062556419
-review: 20231225041817972
-stability: 8.840897471283636
+reps: 3
+retrievability: 0.8982951371011797
+review: 20240103075026487
+stability: 43.23300601803576
 tags: 方剂 ?
 title: 贝母瓜蒌散
 type: text/vnd.tiddlywiki
