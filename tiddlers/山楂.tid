@@ -1,15 +1,15 @@
 created: 20231124041933015
-difficulty: 1
-due: 20240103101108391
+difficulty: 1.0876533314932602
+due: 20240220035709207
 grade: 1
-history: [{"due":"20231225132134687","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224132134687"}]
-interval: 1
+history: [{"due":"20231225132134687","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224132134687"},{"due":"20240103101108391","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231225101108390"}]
+interval: 10
 lapses: 0
-modified: 20231225101108392
-reps: 2
-retrievability: 0.4437835062556419
-review: 20231225101108390
-stability: 8.840897471283636
+modified: 20240104035709207
+reps: 3
+retrievability: 0.8876533314932603
+review: 20240104035709202
+stability: 47.299130775264075
 tags: 中药 ?
 title: 山楂
 type: text/vnd.tiddlywiki
