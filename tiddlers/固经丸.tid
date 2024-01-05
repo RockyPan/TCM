@@ -1,17 +1,17 @@
 created: 20231117022931195
 creator: KylePan
-difficulty: 2.3595503543692233
-due: 20240105020651492
+difficulty: 2.462036786634128
+due: 20240224030720961
 grade: 1
-history: [{"due":"20231213134501792","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212134501792"},{"due":"20231214014125401","interval":1,"difficulty":2.4066171424412186,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213014125401"},{"due":"20231219014514740","interval":1,"difficulty":2.2627460622297972,"stability":4.836706610072051,"retrievability":0.6561289197885782,"grade":1,"lapses":1,"reps":2,"review":"20231214014514740"}]
-interval: 5
+history: [{"due":"20231213134501792","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212134501792"},{"due":"20231214014125401","interval":1,"difficulty":2.4066171424412186,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213014125401"},{"due":"20231219014514740","interval":1,"difficulty":2.2627460622297972,"stability":4.836706610072051,"retrievability":0.6561289197885782,"grade":1,"lapses":1,"reps":2,"review":"20231214014514740"},{"due":"20240105020651492","interval":5,"difficulty":2.3595503543692233,"stability":17.457119336591145,"retrievability":0.8968042921394257,"grade":1,"lapses":1,"reps":3,"review":"20231219020651492"}]
+interval: 17
 lapses: 1
-modified: 20231219020651492
+modified: 20240105030720961
 modifier: KylePan
-reps: 3
-retrievability: 0.8968042921394257
-review: 20231219020651492
-stability: 17.457119336591145
+reps: 4
+retrievability: 0.9024864322649042
+review: 20240105030720960
+stability: 49.68524457690087
 tags: 方剂 ?
 title: 固经丸
 type: text/vnd.tiddlywiki
