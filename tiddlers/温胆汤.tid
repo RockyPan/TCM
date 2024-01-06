@@ -1,17 +1,17 @@
 created: 20231123033432429
 creator: KylePan
-difficulty: 2.0873131459739245
-due: 20240105072653804
+difficulty: 2.3390986090496027
+due: 20240107021519453
 grade: 0
-history: [{"due":"20231224125832350","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223125832350"},{"due":"20231225082238963","interval":1,"difficulty":1.2156467998285392,"stability":0.0960748629946603,"retrievability":0.4437835062556419,"grade":0,"lapses":1,"reps":1,"review":"20231224082238961"},{"due":"20240103101415739","interval":1,"difficulty":1,"stability":8.812552510976115,"retrievability":0.33398801210329004,"grade":1,"lapses":1,"reps":2,"review":"20231225101415735"}]
-interval: 10
-lapses: 2
-modified: 20240104072653805
+history: [{"due":"20231224125832350","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223125832350"},{"due":"20231225082238963","interval":1,"difficulty":1.2156467998285392,"stability":0.0960748629946603,"retrievability":0.4437835062556419,"grade":0,"lapses":1,"reps":1,"review":"20231224082238961"},{"due":"20240103101415739","interval":1,"difficulty":1,"stability":8.812552510976115,"retrievability":0.33398801210329004,"grade":1,"lapses":1,"reps":2,"review":"20231225101415735"},{"due":"20240105072653804","interval":10,"difficulty":2.0873131459739245,"stability":0.07117400905594407,"retrievability":0.8873131459739245,"grade":0,"lapses":2,"reps":1,"review":"20240104072653801"}]
+interval: 2
+lapses: 3
+modified: 20240106021519454
 modifier: KylePan
 reps: 1
-retrievability: 0.8873131459739245
-review: 20240104072653801
-stability: 0.07117400905594407
+retrievability: 0.05178546307567797
+review: 20240106021519449
+stability: 0.052727002747608956
 tags: 方剂 ?
 title: 温胆汤
 type: text/vnd.tiddlywiki
