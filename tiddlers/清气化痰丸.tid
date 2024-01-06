@@ -1,17 +1,17 @@
 created: 20231123033449525
 creator: KylePan
-difficulty: 2.0876533314932604
-due: 20240105035404641
+difficulty: 2.399201323721968
+due: 20240107015527042
 grade: 0
-history: [{"due":"20231225034722357","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224034722357"},{"due":"20240103100947103","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231225100947099"}]
-interval: 10
-lapses: 1
-modified: 20240104035404641
+history: [{"due":"20231225034722357","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224034722357"},{"due":"20240103100947103","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231225100947099"},{"due":"20240105035404641","interval":10,"difficulty":2.0876533314932604,"stability":0.0960748629946603,"retrievability":0.8876533314932603,"grade":0,"lapses":1,"reps":1,"review":"20240104035404636"}]
+interval: 2
+lapses: 2
+modified: 20240106015527043
 modifier: KylePan
 reps: 1
-retrievability: 0.8876533314932603
-review: 20240104035404636
-stability: 0.0960748629946603
+retrievability: 0.11154799222870741
+review: 20240106015527040
+stability: 0.07117400905594407
 tags: 方剂 ?
 title: 清气化痰丸
 type: text/vnd.tiddlywiki

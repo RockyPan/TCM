@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20231117054006009","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115054006009"},{"due":"20231212125122399","interval":9,"difficulty":4.822431111850943,"stability":17.93125127850223,"retrievability":0.6224311118509421,"grade":1,"lapses":0,"reps":2,"review":"20231124125122394"}]
 interval: 18
 lapses: 0
-modified: 20231212081547624
+modified: 20240106020748204
 modifier: KylePan
 reps: 3
 retrievability: 0.8996365148171338
@@ -15,6 +15,8 @@ stability: 38.82844990724686
 tags: 中药 ?
 title: 五味子
 type: text/vnd.tiddlywiki
+
+[img height=250 [五味子.png]] [img height=250 [五味子2.png]]
 
 【药性】　酸、甘，温。归肺、心、肾经。
 
