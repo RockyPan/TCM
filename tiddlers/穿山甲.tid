@@ -1,17 +1,17 @@
 created: 20231113094634911
 creator: KylePan
-difficulty: 5.090937829979273
-due: 20240107063048594
-grade: 0
-history: [{"due":"20231202032420412","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032420412"},{"due":"20231205024247712","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231202024247709"},{"due":"20231214005401092","interval":3,"difficulty":3.8901767290898945,"stability":9.091527048314079,"retrievability":0.9098045073026005,"grade":1,"lapses":0,"reps":3,"review":"20231205005401091"},{"due":"20240106012757645","interval":9,"difficulty":3.9911318610248916,"stability":22.953028153227443,"retrievability":0.9009551319349972,"grade":1,"lapses":0,"reps":4,"review":"20231214012757645"}]
-interval: 23
+difficulty: 4.624925842082563
+due: 20240110035537642
+grade: 1
+history: [{"due":"20231202032420412","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032420412"},{"due":"20231205024247712","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231202024247709"},{"due":"20231214005401092","interval":3,"difficulty":3.8901767290898945,"stability":9.091527048314079,"retrievability":0.9098045073026005,"grade":1,"lapses":0,"reps":3,"review":"20231205005401091"},{"due":"20240106012757645","interval":9,"difficulty":3.9911318610248916,"stability":22.953028153227443,"retrievability":0.9009551319349972,"grade":1,"lapses":0,"reps":4,"review":"20231214012757645"},{"due":"20240107063048594","interval":23,"difficulty":5.090937829979273,"stability":0.0960748629946603,"retrievability":0.8998059689543816,"grade":0,"lapses":1,"reps":1,"review":"20240106063048590"}]
+interval: 1
 lapses: 1
-modified: 20240106063048595
+modified: 20240107035537643
 modifier: KylePan
-reps: 1
-retrievability: 0.8998059689543816
-review: 20240106063048590
-stability: 0.0960748629946603
+reps: 2
+retrievability: 0.33398801210329004
+review: 20240107035537640
+stability: 3.0798609143978792
 tags: 中药 ?
 title: 穿山甲
 type: text/vnd.tiddlywiki
