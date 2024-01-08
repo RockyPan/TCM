@@ -1,18 +1,18 @@
 caption: 
 created: 20231113033900892
 creator: KylePan
-difficulty: 7.5162361657150045
-due: 20240107094846366
+difficulty: 7.612453237074377
+due: 20240216011526382
 grade: 1
-history: [{"due":"20231127060832552","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125060832552"},{"due":"20231128033205867","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231127033205867"},{"due":"20231129032552031","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231128032552031"},{"due":"20231201014630470","interval":1,"difficulty":7.206226883981173,"stability":2.338239805239507,"retrievability":0.8329034904484198,"grade":1,"lapses":2,"reps":2,"review":"20231129014630470"},{"due":"20231206020127002","interval":2,"difficulty":7.320048849594188,"stability":4.982760637233665,"retrievability":0.9138219656130142,"grade":1,"lapses":2,"reps":3,"review":"20231201020127002"},{"due":"20231217012018785","interval":5,"difficulty":7.4197208355588655,"stability":10.609363611259544,"retrievability":0.8996719859646777,"grade":1,"lapses":2,"reps":4,"review":"20231206012018785"}]
-interval: 11
+history: [{"due":"20231127060832552","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125060832552"},{"due":"20231128033205867","interval":2,"difficulty":6.1000000000000005,"stability":0.7778591317158038,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20231127033205867"},{"due":"20231129032552031","interval":1,"difficulty":7.173323393532753,"stability":0.5762522178987278,"retrievability":0.8733233935327525,"grade":0,"lapses":2,"reps":1,"review":"20231128032552031"},{"due":"20231201014630470","interval":1,"difficulty":7.206226883981173,"stability":2.338239805239507,"retrievability":0.8329034904484198,"grade":1,"lapses":2,"reps":2,"review":"20231129014630470"},{"due":"20231206020127002","interval":2,"difficulty":7.320048849594188,"stability":4.982760637233665,"retrievability":0.9138219656130142,"grade":1,"lapses":2,"reps":3,"review":"20231201020127002"},{"due":"20231217012018785","interval":5,"difficulty":7.4197208355588655,"stability":10.609363611259544,"retrievability":0.8996719859646777,"grade":1,"lapses":2,"reps":4,"review":"20231206012018785"},{"due":"20240107094846366","interval":11,"difficulty":7.5162361657150045,"stability":21.154291746049505,"retrievability":0.8965153301561392,"grade":1,"lapses":2,"reps":5,"review":"20231217094846365"}]
+interval: 22
 lapses: 2
-modified: 20231217094846367
+modified: 20240108011526382
 modifier: KylePan
-reps: 5
-retrievability: 0.8965153301561392
-review: 20231217094846365
-stability: 21.154291746049505
+reps: 6
+retrievability: 0.8962170713593727
+review: 20240108011526382
+stability: 39.36218851298598
 tags: 方剂 ?
 title: 麻黄杏仁甘草石膏汤
 type: text/vnd.tiddlywiki
