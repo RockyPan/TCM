@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20231201033119169","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231130033119169"},{"due":"20231202030256353","interval":1,"difficulty":4.852327106252045,"stability":0.7778591317158038,"retrievability":0.9045267970246111,"grade":0,"lapses":1,"reps":1,"review":"20231201030256353"},{"due":"20231205041046486","interval":1,"difficulty":4.925650499784798,"stability":2.94876871382978,"retrievability":0.8733233935327525,"grade":1,"lapses":1,"reps":2,"review":"20231202041046484"},{"due":"20231206024039802","interval":3,"difficulty":6.024004546458028,"stability":0.3155666907540653,"retrievability":0.89835404667323,"grade":0,"lapses":2,"reps":1,"review":"20231205024039802"},{"due":"20231209015904271","interval":1,"difficulty":5.940146282428502,"stability":2.56443405950715,"retrievability":0.7161417359704745,"grade":1,"lapses":2,"reps":2,"review":"20231206015904271"},{"due":"20231216080641940","interval":3,"difficulty":6.024183718799146,"stability":7.022616146316467,"retrievability":0.8840374363706436,"grade":1,"lapses":2,"reps":3,"review":"20231209080641934"},{"due":"20231231120900975","interval":7,"difficulty":6.124489150249123,"stability":15.434654077849663,"retrievability":0.9003054314499761,"grade":1,"lapses":2,"reps":4,"review":"20231216120900974"}]
 interval: 16
 lapses: 2
-modified: 20240102105959445
+modified: 20240110012806465
 modifier: KylePan
 reps: 5
 retrievability: 0.896533429641626
@@ -29,3 +29,6 @@ type: text/vnd.tiddlywiki
 # 目赤肿痛，咽喉肿痛，白喉，瘰疬，痈肿疮毒
 
 分类：清热药 清热凉血药
+
+---
+入血分，有解毒凉血的作用。[[牡丹皮]]只凉血不解毒。和心肌炎相关的证必须用玄参来解毒，包括感冒的后期，也可以用玄参入血分解毒。
