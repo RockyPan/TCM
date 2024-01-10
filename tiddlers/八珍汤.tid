@@ -1,17 +1,17 @@
 created: 20231115104747339
 creator: KylePan
-difficulty: 1.75552788387127
-due: 20240110040542675
+difficulty: 1.8545289683049557
+due: 20240326023250944
 grade: 1
-history: [{"due":"20231211065525549","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210065525549"},{"due":"20231217010023040","interval":1,"difficulty":1.6593598759969754,"stability":5.766471149385786,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231211010023040"}]
-interval: 6
+history: [{"due":"20231211065525549","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210065525549"},{"due":"20231217010023040","interval":1,"difficulty":1.6593598759969754,"stability":5.766471149385786,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231211010023040"},{"due":"20240110040542675","interval":6,"difficulty":1.75552788387127,"stability":23.749673314708716,"retrievability":0.8961680078742948,"grade":1,"lapses":0,"reps":3,"review":"20231217040542673"}]
+interval: 24
 lapses: 0
-modified: 20231217040542676
+modified: 20240110023250944
 modifier: KylePan
-reps: 3
-retrievability: 0.8961680078742948
-review: 20231217040542673
-stability: 23.749673314708716
+reps: 4
+retrievability: 0.8990010844336859
+review: 20240110023250944
+stability: 75.91077405607086
 tags: 方剂 ?
 title: 八珍汤
 type: text/vnd.tiddlywiki
