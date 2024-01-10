@@ -1,17 +1,17 @@
 created: 20231115133048076
 creator: KylePan
-difficulty: 1.75552788387127
-due: 20240110094528060
+difficulty: 1.8545289683049557
+due: 20240326030007639
 grade: 1
-history: [{"due":"20231211071942354","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210071942354"},{"due":"20231217014345111","interval":1,"difficulty":1.6593598759969754,"stability":5.766471149385786,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231211014345111"}]
-interval: 6
+history: [{"due":"20231211071942354","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210071942354"},{"due":"20231217014345111","interval":1,"difficulty":1.6593598759969754,"stability":5.766471149385786,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231211014345111"},{"due":"20240110094528060","interval":6,"difficulty":1.75552788387127,"stability":23.749673314708716,"retrievability":0.8961680078742948,"grade":1,"lapses":0,"reps":3,"review":"20231217094528058"}]
+interval: 24
 lapses: 0
-modified: 20231217094528060
+modified: 20240110030007639
 modifier: KylePan
-reps: 3
-retrievability: 0.8961680078742948
-review: 20231217094528058
-stability: 23.749673314708716
+reps: 4
+retrievability: 0.8990010844336859
+review: 20240110030007639
+stability: 75.91077405607086
 tags: 方剂 ?
 title: 六味地黄丸
 type: text/vnd.tiddlywiki
