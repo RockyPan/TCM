@@ -1,17 +1,17 @@
 created: 20231121110858542
 creator: KylePan
-difficulty: 2.253298584101931
-due: 20240110014334298
-grade: 1
-history: [{"due":"20231222134309410","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221134309410"},{"due":"20231224034339879","interval":2,"difficulty":1.043860214302709,"stability":0.0960748629946603,"retrievability":0.19694380042455134,"grade":0,"lapses":1,"reps":1,"review":"20231223034339877"},{"due":"20231225083808642","interval":1,"difficulty":1.577848226405999,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231224083808641"},{"due":"20231227012628576","interval":2,"difficulty":1.829633689481677,"stability":0.052727002747608956,"retrievability":0.05178546307567797,"grade":0,"lapses":3,"reps":1,"review":"20231226012628575"},{"due":"20231229012210060","interval":2,"difficulty":2.048014394303089,"stability":0.03906112435736371,"retrievability":0.018380704821412165,"grade":0,"lapses":4,"reps":1,"review":"20231228012210060"},{"due":"20231231080009343","interval":2,"difficulty":2.2525552110538807,"stability":0.028937192644249494,"retrievability":0.0045408167507914364,"grade":0,"lapses":5,"reps":1,"review":"20231230080009338"},{"due":"20240102012409057","interval":2,"difficulty":2.453243010247556,"stability":0.02143719956623701,"retrievability":0.000687799193675486,"grade":0,"lapses":6,"reps":1,"review":"20240101012409051"},{"due":"20240104071118546","interval":2,"difficulty":2.6532968396762593,"stability":0.01588106803905859,"retrievability":0.000053829428702820716,"grade":0,"lapses":7,"reps":1,"review":"20240103071118543"},{"due":"20240106013946779","interval":2,"difficulty":2.8532985674204365,"stability":0.011764984567220686,"retrievability":0.0000017277441772809941,"grade":0,"lapses":8,"reps":1,"review":"20240105013946779"},{"due":"20240108032550955","interval":2,"difficulty":3.0532985840703075,"stability":0.008715714933436302,"retrievability":1.6649870714083786e-8,"grade":0,"lapses":9,"reps":1,"review":"20240107032550950"}]
+difficulty: 3.3060060837794425
+due: 20240112024333605
+grade: 0
+history: [{"due":"20231222134309410","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221134309410"},{"due":"20231224034339879","interval":2,"difficulty":1.043860214302709,"stability":0.0960748629946603,"retrievability":0.19694380042455134,"grade":0,"lapses":1,"reps":1,"review":"20231223034339877"},{"due":"20231225083808642","interval":1,"difficulty":1.577848226405999,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231224083808641"},{"due":"20231227012628576","interval":2,"difficulty":1.829633689481677,"stability":0.052727002747608956,"retrievability":0.05178546307567797,"grade":0,"lapses":3,"reps":1,"review":"20231226012628575"},{"due":"20231229012210060","interval":2,"difficulty":2.048014394303089,"stability":0.03906112435736371,"retrievability":0.018380704821412165,"grade":0,"lapses":4,"reps":1,"review":"20231228012210060"},{"due":"20231231080009343","interval":2,"difficulty":2.2525552110538807,"stability":0.028937192644249494,"retrievability":0.0045408167507914364,"grade":0,"lapses":5,"reps":1,"review":"20231230080009338"},{"due":"20240102012409057","interval":2,"difficulty":2.453243010247556,"stability":0.02143719956623701,"retrievability":0.000687799193675486,"grade":0,"lapses":6,"reps":1,"review":"20240101012409051"},{"due":"20240104071118546","interval":2,"difficulty":2.6532968396762593,"stability":0.01588106803905859,"retrievability":0.000053829428702820716,"grade":0,"lapses":7,"reps":1,"review":"20240103071118543"},{"due":"20240106013946779","interval":2,"difficulty":2.8532985674204365,"stability":0.011764984567220686,"retrievability":0.0000017277441772809941,"grade":0,"lapses":8,"reps":1,"review":"20240105013946779"},{"due":"20240108032550955","interval":2,"difficulty":3.0532985840703075,"stability":0.008715714933436302,"retrievability":1.6649870714083786e-8,"grade":0,"lapses":9,"reps":1,"review":"20240107032550950"},{"due":"20240110014334298","interval":2,"difficulty":2.253298584101931,"stability":1.3224724055144634,"retrievability":3.162299113987446e-11,"grade":1,"lapses":9,"reps":2,"review":"20240109014334298"}]
 interval: 2
-lapses: 9
-modified: 20240109014334299
+lapses: 10
+modified: 20240111024333605
 modifier: KylePan
-reps: 2
-retrievability: 3.162299113987446e-11
-review: 20240109014334298
-stability: 1.3224724055144634
+reps: 1
+retrievability: 0.8527074996775114
+review: 20240111024333605
+stability: 0.0064567604289573555
 tags: 方剂 ?
 title: 养阴清肺汤
 type: text/vnd.tiddlywiki
@@ -20,6 +20,8 @@ type: text/vnd.tiddlywiki
 
 __养阴清肺是妙方，玄参草芍麦地黄，
 薄荷贝母丹皮入，时疫白喉急煎尝。__
+
+__母单何玄要卖草地__
 
 【组成】大[[生地|生地黄]]二钱(6g)　[[麦门冬|麦冬]]一钱二分(4g)　生[[甘草]]五分(2g)　[[玄参]]一钱半(4.5g)　贝母（[[浙贝母]]）去心，八分(3g)　[[丹皮|牡丹皮]]八分(3g)　[[薄荷]]五分(2g)　[[白芍]]炒，八分(3g)
 

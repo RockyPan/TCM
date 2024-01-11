@@ -1,17 +1,17 @@
 created: 20231124052330835
 creator: KylePan
-difficulty: 2.0492055391011994
-due: 20240111063601941
+difficulty: 2.1524890711412183
+due: 20240129032807285
 grade: 1
-history: [{"due":"20231225133011589","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224133011589"},{"due":"20240103100236070","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231225100236066"},{"due":"20240105032740096","interval":10,"difficulty":2.0876533314932604,"stability":0.0960748629946603,"retrievability":0.8876533314932603,"grade":0,"lapses":1,"reps":1,"review":"20240104032740091"},{"due":"20240106031857768","interval":1,"difficulty":2.6216413435965507,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20240105031857768"}]
-interval: 1
+history: [{"due":"20231225133011589","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224133011589"},{"due":"20240103100236070","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231225100236066"},{"due":"20240105032740096","interval":10,"difficulty":2.0876533314932604,"stability":0.0960748629946603,"retrievability":0.8876533314932603,"grade":0,"lapses":1,"reps":1,"review":"20240104032740091"},{"due":"20240106031857768","interval":1,"difficulty":2.6216413435965507,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20240105031857768"},{"due":"20240111063601941","interval":1,"difficulty":2.0492055391011994,"stability":5.179009695558988,"retrievability":0.22756419550464868,"grade":1,"lapses":2,"reps":2,"review":"20240106063601935"}]
+interval: 5
 lapses: 2
-modified: 20240106063601941
+modified: 20240111032807285
 modifier: KylePan
-reps: 2
-retrievability: 0.22756419550464868
-review: 20240106063601935
-stability: 5.179009695558988
+reps: 3
+retrievability: 0.903283532040019
+review: 20240111032807285
+stability: 18.457886985153866
 tags: 方剂 ?
 title: 健脾丸
 type: text/vnd.tiddlywiki
@@ -20,6 +20,8 @@ type: text/vnd.tiddlywiki
 
 __健脾参术苓草陈，肉蔻香连合砂仁，
 楂肉山药曲麦炒，消补兼施此方寻。__
+
+__黄山四君子，想杀山神卖肉皮。__
 
 【组成】[[白术]]炒，二两半(75g)　[[木香]]另研　[[黄连]]酒炒　[[甘草]]各七钱半(22g)　白[[茯苓]]去皮，二两(60g)　[[人参]]一两五钱(45g)　[[神曲|六神曲]]炒　[[陈皮]]　[[砂仁]]　[[麦芽]]炒　[[山楂]]取肉　[[山药]]　[[肉豆蔻]]面裹煨熟，纸包槌去油，各一两(30g)
 
