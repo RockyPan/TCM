@@ -1,17 +1,17 @@
 created: 20231121011508965
 creator: KylePan
-difficulty: 1.395420325667337
-due: 20240112064222051
+difficulty: 1.4865708974612402
+due: 20240222100103288
 grade: 1
-history: [{"due":"20231221125856066","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220125856066"},{"due":"20231222021509197","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231221021509197"},{"due":"20231231024335289","interval":1,"difficulty":1.060134763649361,"stability":8.506153667428459,"retrievability":0.40968274802337346,"grade":1,"lapses":1,"reps":2,"review":"20231222024335288"},{"due":"20240102010345016","interval":10,"difficulty":2.143634862591659,"stability":0.07117400905594407,"retrievability":0.8835000989422979,"grade":0,"lapses":2,"reps":1,"review":"20240101010345012"}]
-interval: 2
+history: [{"due":"20231221125856066","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220125856066"},{"due":"20231222021509197","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231221021509197"},{"due":"20231231024335289","interval":1,"difficulty":1.060134763649361,"stability":8.506153667428459,"retrievability":0.40968274802337346,"grade":1,"lapses":1,"reps":2,"review":"20231222024335288"},{"due":"20240102010345016","interval":10,"difficulty":2.143634862591659,"stability":0.07117400905594407,"retrievability":0.8835000989422979,"grade":0,"lapses":2,"reps":1,"review":"20240101010345012"},{"due":"20240112064222051","interval":2,"difficulty":1.395420325667337,"stability":9.142554881633897,"retrievability":0.05178546307567797,"grade":1,"lapses":2,"reps":2,"review":"20240103064222047"}]
+interval: 10
 lapses: 2
-modified: 20240103064222052
+modified: 20240113100103288
 modifier: KylePan
-reps: 2
-retrievability: 0.05178546307567797
-review: 20240103064222047
-stability: 9.142554881633897
+reps: 3
+retrievability: 0.8911505717939031
+review: 20240113100103287
+stability: 39.843536165297415
 tags: 中药 ?
 title: 桑寄生
 type: text/vnd.tiddlywiki
