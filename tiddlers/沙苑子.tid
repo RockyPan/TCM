@@ -1,18 +1,18 @@
 caption: 
 created: 20231117013412830
 creator: KylePan
-difficulty: 1.5130113996333343
-due: 20240114074459790
+difficulty: 1.6092348363741362
+due: 20240414011137900
 grade: 1
-history: [{"due":"20231213133032420","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212133032420"},{"due":"20231219024123872","interval":1,"difficulty":1.4066171424412184,"stability":6.432206674360466,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231213024123872"}]
-interval: 6
+history: [{"due":"20231213133032420","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212133032420"},{"due":"20231219024123872","interval":1,"difficulty":1.4066171424412184,"stability":6.432206674360466,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231213024123872"},{"due":"20240114074459790","interval":6,"difficulty":1.5130113996333343,"stability":25.96376829062712,"retrievability":0.906394257192116,"grade":1,"lapses":0,"reps":3,"review":"20231219074459790"}]
+interval: 27
 lapses: 0
-modified: 20231219074459790
+modified: 20240115011137900
 modifier: KylePan
-reps: 3
-retrievability: 0.906394257192116
-review: 20231219074459790
-stability: 25.96376829062712
+reps: 4
+retrievability: 0.8962234367408018
+review: 20240115011137900
+stability: 89.61997792916398
 tags: 中药 ?
 title: 沙苑子
 type: text/vnd.tiddlywiki
