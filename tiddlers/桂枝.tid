@@ -1,17 +1,17 @@
 created: 20231113010156683
 creator: KylePan
-difficulty: 5.257470363438438
-due: 20240116012410592
+difficulty: 5.357330429913678
+due: 20240326020341802
 grade: 1
-history: [{"due":"20231116012630703","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012630703"},{"due":"20231122082414052","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116082414052"},{"due":"20231211130723003","interval":8,"difficulty":5.1582034015854665,"stability":16.869537326515847,"retrievability":0.8582034015854654,"grade":1,"lapses":0,"reps":3,"review":"20231124130722999"}]
-interval: 17
+history: [{"due":"20231116012630703","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012630703"},{"due":"20231122082414052","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116082414052"},{"due":"20231211130723003","interval":8,"difficulty":5.1582034015854665,"stability":16.869537326515847,"retrievability":0.8582034015854654,"grade":1,"lapses":0,"reps":3,"review":"20231124130722999"},{"due":"20240116012410592","interval":17,"difficulty":5.257470363438438,"stability":35.94694856062865,"retrievability":0.8992669618529714,"grade":1,"lapses":0,"reps":4,"review":"20231211012410592"}]
+interval: 36
 lapses: 0
-modified: 20231211012410592
+modified: 20240116020341802
 modifier: KylePan
-reps: 4
-retrievability: 0.8992669618529714
-review: 20231211012410592
-stability: 35.94694856062865
+reps: 5
+retrievability: 0.89986006647524
+review: 20240116020341802
+stability: 70.21984650055995
 tags: 中药 ?
 title: 桂枝
 type: text/vnd.tiddlywiki
