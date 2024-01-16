@@ -1,17 +1,17 @@
 created: 20231113034202500
 creator: KylePan
-difficulty: 5.29168348736227
-due: 20240116044229045
+difficulty: 5.392431799735877
+due: 20240316014027706
 grade: 1
-history: [{"due":"20231127062543865","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125062543865"},{"due":"20231203015337343","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127015337343"},{"due":"20231217020838360","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231203020838356"}]
-interval: 14
+history: [{"due":"20231127062543865","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125062543865"},{"due":"20231203015337343","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127015337343"},{"due":"20231217020838360","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231203020838356"},{"due":"20240116044229045","interval":14,"difficulty":5.29168348736227,"stability":30.238529839360552,"retrievability":0.9000370602143911,"grade":1,"lapses":0,"reps":4,"review":"20231217044229039"}]
+interval: 30
 lapses: 0
-modified: 20231217044229045
+modified: 20240116014027706
 modifier: KylePan
-reps: 4
-retrievability: 0.9000370602143911
-review: 20231217044229039
-stability: 30.238529839360552
+reps: 5
+retrievability: 0.9007483123736075
+review: 20240116014027705
+stability: 59.67047048784958
 tags: 方剂 ?
 title: 柴葛解肌汤
 type: text/vnd.tiddlywiki

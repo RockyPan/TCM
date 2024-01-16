@@ -1,17 +1,17 @@
 created: 20231113034952588
 creator: KylePan
-difficulty: 5.29168348736227
-due: 20240116040729799
+difficulty: 5.392431799735877
+due: 20240316013619914
 grade: 1
-history: [{"due":"20231127064350315","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125064350315"},{"due":"20231203013455111","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127013455111"},{"due":"20231217020051075","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231203020051074"}]
-interval: 14
+history: [{"due":"20231127064350315","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125064350315"},{"due":"20231203013455111","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127013455111"},{"due":"20231217020051075","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231203020051074"},{"due":"20240116040729799","interval":14,"difficulty":5.29168348736227,"stability":30.238529839360552,"retrievability":0.9000370602143911,"grade":1,"lapses":0,"reps":4,"review":"20231217040729797"}]
+interval: 30
 lapses: 0
-modified: 20231217040729799
+modified: 20240116013619914
 modifier: KylePan
-reps: 4
-retrievability: 0.9000370602143911
-review: 20231217040729797
-stability: 30.238529839360552
+reps: 5
+retrievability: 0.9007483123736075
+review: 20240116013619914
+stability: 59.67047048784958
 tags: 中药 ?
 title: 白薇
 type: text/vnd.tiddlywiki
