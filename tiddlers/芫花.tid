@@ -1,17 +1,17 @@
 created: 20231113054140703
 creator: KylePan
-difficulty: 5.29168348736227
-due: 20240117112327283
+difficulty: 5.389298771688526
+due: 20240319030116364
 grade: 1
-history: [{"due":"20231128102459706","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102459706"},{"due":"20231204094308472","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128094308472"},{"due":"20231218035852534","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231204035852534"}]
-interval: 14
+history: [{"due":"20231128102459706","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102459706"},{"due":"20231204094308472","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128094308472"},{"due":"20231218035852534","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231204035852534"},{"due":"20240117112327283","interval":14,"difficulty":5.29168348736227,"stability":30.238529839360552,"retrievability":0.9000370602143911,"grade":1,"lapses":0,"reps":4,"review":"20231218112327283"}]
+interval: 31
 lapses: 0
-modified: 20231218112327283
+modified: 20240118030116364
 modifier: KylePan
-reps: 4
-retrievability: 0.9000370602143911
-review: 20231218112327283
-stability: 30.238529839360552
+reps: 5
+retrievability: 0.8976152843262561
+review: 20240118030116364
+stability: 60.660305958968486
 tags: 中药 ?
 title: 芫花
 type: text/vnd.tiddlywiki

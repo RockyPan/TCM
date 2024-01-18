@@ -1,17 +1,17 @@
 created: 20231117023427380
 creator: KylePan
-difficulty: 5.004429187961592
-due: 20240117011522274
-grade: 0
-history: [{"due":"20231213134524909","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212134524909"},{"due":"20231214025252120","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213025252120"},{"due":"20231215023505044","interval":1,"difficulty":3.1285810210441785,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231214023505044"},{"due":"20231219023501604","interval":1,"difficulty":2.7443522890772796,"stability":4.428749907316133,"retrievability":0.41577126803310094,"grade":1,"lapses":2,"reps":2,"review":"20231215023501604"},{"due":"20231221012807170","interval":5,"difficulty":3.832203924658365,"stability":0.06479703952115799,"retrievability":0.8878516355810852,"grade":0,"lapses":3,"reps":1,"review":"20231220012807170"},{"due":"20231222081841830","interval":1,"difficulty":4.228917179442528,"stability":0.0480028275235072,"retrievability":0.19671325478416343,"grade":0,"lapses":4,"reps":1,"review":"20231221081841830"},{"due":"20231227030542572","interval":2,"difficulty":3.441320849235348,"stability":3.797720654151713,"retrievability":0.012403669792819642,"grade":1,"lapses":4,"reps":2,"review":"20231223030542570"},{"due":"20240111005959741","interval":5,"difficulty":3.5117965251335246,"stability":13.813386944224218,"retrievability":0.8704756758981764,"grade":1,"lapses":4,"reps":3,"review":"20231228005959740"},{"due":"20240113013740809","interval":15,"difficulty":4.603687559339213,"stability":0.028937192644249494,"retrievability":0.891891034205688,"grade":0,"lapses":5,"reps":1,"review":"20240112013740809"},{"due":"20240115121105354","interval":2,"difficulty":4.804375358532889,"stability":0.02143719956623701,"retrievability":0.000687799193675486,"grade":0,"lapses":6,"reps":1,"review":"20240114121105350"}]
+difficulty: 4.204430915705769
+due: 20240119025913148
+grade: 1
+history: [{"due":"20231213134524909","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212134524909"},{"due":"20231214025252120","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213025252120"},{"due":"20231215023505044","interval":1,"difficulty":3.1285810210441785,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20231214023505044"},{"due":"20231219023501604","interval":1,"difficulty":2.7443522890772796,"stability":4.428749907316133,"retrievability":0.41577126803310094,"grade":1,"lapses":2,"reps":2,"review":"20231215023501604"},{"due":"20231221012807170","interval":5,"difficulty":3.832203924658365,"stability":0.06479703952115799,"retrievability":0.8878516355810852,"grade":0,"lapses":3,"reps":1,"review":"20231220012807170"},{"due":"20231222081841830","interval":1,"difficulty":4.228917179442528,"stability":0.0480028275235072,"retrievability":0.19671325478416343,"grade":0,"lapses":4,"reps":1,"review":"20231221081841830"},{"due":"20231227030542572","interval":2,"difficulty":3.441320849235348,"stability":3.797720654151713,"retrievability":0.012403669792819642,"grade":1,"lapses":4,"reps":2,"review":"20231223030542570"},{"due":"20240111005959741","interval":5,"difficulty":3.5117965251335246,"stability":13.813386944224218,"retrievability":0.8704756758981764,"grade":1,"lapses":4,"reps":3,"review":"20231228005959740"},{"due":"20240113013740809","interval":15,"difficulty":4.603687559339213,"stability":0.028937192644249494,"retrievability":0.891891034205688,"grade":0,"lapses":5,"reps":1,"review":"20240112013740809"},{"due":"20240115121105354","interval":2,"difficulty":4.804375358532889,"stability":0.02143719956623701,"retrievability":0.000687799193675486,"grade":0,"lapses":6,"reps":1,"review":"20240114121105350"},{"due":"20240117011522274","interval":2,"difficulty":5.004429187961592,"stability":0.01588106803905859,"retrievability":0.000053829428702820716,"grade":0,"lapses":7,"reps":1,"review":"20240116011522274"}]
 interval: 2
 lapses: 7
-modified: 20240116011522274
+modified: 20240118025913148
 modifier: KylePan
-reps: 1
-retrievability: 0.000053829428702820716
-review: 20240116011522274
-stability: 0.01588106803905859
+reps: 2
+retrievability: 0.0000017277441772809941
+review: 20240118025913148
+stability: 1.3878780977307303
 tags: 中药 ?
 title: 香附
 type: text/vnd.tiddlywiki
