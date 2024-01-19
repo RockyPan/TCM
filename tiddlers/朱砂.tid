@@ -1,17 +1,17 @@
 created: 20231117094857828
 creator: KylePan
-difficulty: 1.498285460773688
-due: 20240118015834090
+difficulty: 1.596229947500443
+due: 20240427013000828
 grade: 1
-history: [{"due":"20231213135629106","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135629106"},{"due":"20231219030239841","interval":1,"difficulty":1.4066171424412184,"stability":6.432206674360466,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231213030239841"}]
-interval: 7
+history: [{"due":"20231213135629106","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212135629106"},{"due":"20231219030239841","interval":1,"difficulty":1.4066171424412184,"stability":6.432206674360466,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231213030239841"},{"due":"20240118015834090","interval":7,"difficulty":1.498285460773688,"stability":29.362774144316525,"retrievability":0.8916683183324695,"grade":1,"lapses":0,"reps":3,"review":"20231220015834089"}]
+interval: 30
 lapses: 0
-modified: 20231220015834090
+modified: 20240119013000832
 modifier: KylePan
-reps: 3
-retrievability: 0.8916683183324695
-review: 20231220015834089
-stability: 29.362774144316525
+reps: 4
+retrievability: 0.8979444867267551
+review: 20240119013000828
+stability: 98.77054548304676
 tags: 中药 ?
 title: 朱砂
 type: text/vnd.tiddlywiki
