@@ -1,17 +1,17 @@
 created: 20231117014713582
 creator: KylePan
-difficulty: 2.1468670965876675
-due: 20240120074045933
+difficulty: 2.250557402179008
+due: 20240207131838991
 grade: 1
-history: [{"due":"20231213134234347","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212134234347"},{"due":"20231219015056409","interval":1,"difficulty":1.4066171424412184,"stability":6.432206674360466,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231213015056409"},{"due":"20240114065407247","interval":6,"difficulty":1.5130113996333343,"stability":25.96376829062712,"retrievability":0.906394257192116,"grade":1,"lapses":0,"reps":3,"review":"20231219065407247"},{"due":"20240115122957461","interval":26,"difficulty":2.6128790844843772,"stability":0.0960748629946603,"retrievability":0.8998676848510427,"grade":0,"lapses":1,"reps":1,"review":"20240114122957459"}]
-interval: 1
+history: [{"due":"20231213134234347","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212134234347"},{"due":"20231219015056409","interval":1,"difficulty":1.4066171424412184,"stability":6.432206674360466,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231213015056409"},{"due":"20240114065407247","interval":6,"difficulty":1.5130113996333343,"stability":25.96376829062712,"retrievability":0.906394257192116,"grade":1,"lapses":0,"reps":3,"review":"20231219065407247"},{"due":"20240115122957461","interval":26,"difficulty":2.6128790844843772,"stability":0.0960748629946603,"retrievability":0.8998676848510427,"grade":0,"lapses":1,"reps":1,"review":"20240114122957459"},{"due":"20240120074045933","interval":1,"difficulty":2.1468670965876675,"stability":5.2020348703998085,"retrievability":0.33398801210329004,"grade":1,"lapses":1,"reps":2,"review":"20240115074045932"}]
+interval: 5
 lapses: 1
-modified: 20240115074045933
+modified: 20240120131838992
 modifier: KylePan
-reps: 2
-retrievability: 0.33398801210329004
-review: 20240115074045932
-stability: 5.2020348703998085
+reps: 3
+retrievability: 0.9036903055913403
+review: 20240120131838986
+stability: 18.06194739980046
 tags: 中药 ?
 title: 海螵蛸
 type: text/vnd.tiddlywiki
