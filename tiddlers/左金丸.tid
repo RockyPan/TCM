@@ -1,17 +1,17 @@
 created: 20231114010350261
 creator: KylePan
-difficulty: 4.227853968101034
-due: 20240120014501697
+difficulty: 4.321383176721957
+due: 20240226120514709
 grade: 1
-history: [{"due":"20231203065103820","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202065103820"},{"due":"20231210030137942","interval":2,"difficulty":3.640976298811018,"stability":6.175806421831119,"retrievability":0.6931759895835838,"grade":1,"lapses":0,"reps":2,"review":"20231204030137942"},{"due":"20231227041750267","interval":6,"difficulty":3.743679714987201,"stability":16.61804658423306,"retrievability":0.9027034161761834,"grade":1,"lapses":0,"reps":3,"review":"20231210041750264"},{"due":"20231229014608196","interval":18,"difficulty":4.835828576719827,"stability":0.0960748629946603,"retrievability":0.8921488617326256,"grade":0,"lapses":1,"reps":1,"review":"20231228014608196"},{"due":"20240104081910969","interval":2,"difficulty":4.147376568948534,"stability":4.966281958230448,"retrievability":0.11154799222870741,"grade":1,"lapses":1,"reps":2,"review":"20231230081910968"}]
-interval: 6
+history: [{"due":"20231203065103820","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231202065103820"},{"due":"20231210030137942","interval":2,"difficulty":3.640976298811018,"stability":6.175806421831119,"retrievability":0.6931759895835838,"grade":1,"lapses":0,"reps":2,"review":"20231204030137942"},{"due":"20231227041750267","interval":6,"difficulty":3.743679714987201,"stability":16.61804658423306,"retrievability":0.9027034161761834,"grade":1,"lapses":0,"reps":3,"review":"20231210041750264"},{"due":"20231229014608196","interval":18,"difficulty":4.835828576719827,"stability":0.0960748629946603,"retrievability":0.8921488617326256,"grade":0,"lapses":1,"reps":1,"review":"20231228014608196"},{"due":"20240104081910969","interval":2,"difficulty":4.147376568948534,"stability":4.966281958230448,"retrievability":0.11154799222870741,"grade":1,"lapses":1,"reps":2,"review":"20231230081910968"},{"due":"20240120014501697","interval":6,"difficulty":4.227853968101034,"stability":14.974456678664891,"retrievability":0.8804773991524998,"grade":1,"lapses":1,"reps":3,"review":"20240105014501697"}]
+interval: 16
 lapses: 1
-modified: 20240105014501697
+modified: 20240121120514709
 modifier: KylePan
-reps: 3
-retrievability: 0.8804773991524998
-review: 20240105014501697
-stability: 14.974456678664891
+reps: 4
+retrievability: 0.8935292086209232
+review: 20240121120514703
+stability: 36.063243620224526
 tags: 方剂 ?
 title: 左金丸
 type: text/vnd.tiddlywiki
