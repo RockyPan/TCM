@@ -1,17 +1,17 @@
 created: 20231123084627578
 creator: KylePan
-difficulty: 1.293070548122352
-due: 20240121070511812
+difficulty: 1.3846610209948527
+due: 20240222015335062
 grade: 1
-history: [{"due":"20231225131148190","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224131148190"},{"due":"20231227033545628","interval":2,"difficulty":1,"stability":0.0960748629946603,"retrievability":0.19694380042455134,"grade":0,"lapses":1,"reps":1,"review":"20231226033545628"},{"due":"20231229014532316","interval":2,"difficulty":1.3115479922287074,"stability":0.07117400905594407,"retrievability":0.11154799222870741,"grade":0,"lapses":2,"reps":1,"review":"20231228014532316"},{"due":"20231231081849147","interval":2,"difficulty":1.5633334553043854,"stability":0.052727002747608956,"retrievability":0.05178546307567797,"grade":0,"lapses":3,"reps":1,"review":"20231230081849144"},{"due":"20240112044857215","interval":3,"difficulty":1,"stability":9.80618858203753,"retrievability":0.002491972475169907,"grade":1,"lapses":3,"reps":2,"review":"20240102044857209"},{"due":"20240114103707511","interval":11,"difficulty":2.0885297313715605,"stability":0.03906112435736371,"retrievability":0.8885297313715604,"grade":0,"lapses":4,"reps":1,"review":"20240113103707504"}]
-interval: 2
+history: [{"due":"20231225131148190","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224131148190"},{"due":"20231227033545628","interval":2,"difficulty":1,"stability":0.0960748629946603,"retrievability":0.19694380042455134,"grade":0,"lapses":1,"reps":1,"review":"20231226033545628"},{"due":"20231229014532316","interval":2,"difficulty":1.3115479922287074,"stability":0.07117400905594407,"retrievability":0.11154799222870741,"grade":0,"lapses":2,"reps":1,"review":"20231228014532316"},{"due":"20231231081849147","interval":2,"difficulty":1.5633334553043854,"stability":0.052727002747608956,"retrievability":0.05178546307567797,"grade":0,"lapses":3,"reps":1,"review":"20231230081849144"},{"due":"20240112044857215","interval":3,"difficulty":1,"stability":9.80618858203753,"retrievability":0.002491972475169907,"grade":1,"lapses":3,"reps":2,"review":"20240102044857209"},{"due":"20240114103707511","interval":11,"difficulty":2.0885297313715605,"stability":0.03906112435736371,"retrievability":0.8885297313715604,"grade":0,"lapses":4,"reps":1,"review":"20240113103707504"},{"due":"20240121070511812","interval":2,"difficulty":1.293070548122352,"stability":6.427312691959513,"retrievability":0.0045408167507914364,"grade":1,"lapses":4,"reps":2,"review":"20240115070511812"}]
+interval: 7
 lapses: 4
-modified: 20240115070511812
+modified: 20240122015335062
 modifier: KylePan
-reps: 2
-retrievability: 0.0045408167507914364
-review: 20240115070511812
-stability: 6.427312691959513
+reps: 3
+retrievability: 0.8915904728725007
+review: 20240122015335062
+stability: 30.662997555305832
 tags: 中药 ?
 title: 紫菀
 type: text/vnd.tiddlywiki
