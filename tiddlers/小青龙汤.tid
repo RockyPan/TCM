@@ -1,17 +1,17 @@
 created: 20231113014514544
 creator: KylePan
-difficulty: 6.019211081594454
-due: 20240122115911188
-grade: 0
-history: [{"due":"20231117053759911","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115053759911"},{"due":"20231212131219709","interval":9,"difficulty":4.822431111850943,"stability":17.93125127850223,"retrievability":0.6224311118509421,"grade":1,"lapses":0,"reps":2,"review":"20231124131219705"},{"due":"20240120084700679","interval":18,"difficulty":4.922067626668077,"stability":38.82844990724686,"retrievability":0.8996365148171338,"grade":1,"lapses":0,"reps":3,"review":"20231212084700679"}]
-interval: 40
+difficulty: 5.330759073823161
+due: 20240127014253692
+grade: 1
+history: [{"due":"20231117053759911","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115053759911"},{"due":"20231212131219709","interval":9,"difficulty":4.822431111850943,"stability":17.93125127850223,"retrievability":0.6224311118509421,"grade":1,"lapses":0,"reps":2,"review":"20231124131219705"},{"due":"20240120084700679","interval":18,"difficulty":4.922067626668077,"stability":38.82844990724686,"retrievability":0.8996365148171338,"grade":1,"lapses":0,"reps":3,"review":"20231212084700679"},{"due":"20240122115911188","interval":40,"difficulty":6.019211081594454,"stability":0.0960748629946603,"retrievability":0.8971434549263774,"grade":0,"lapses":1,"reps":1,"review":"20240121115911180"}]
+interval: 2
 lapses: 1
-modified: 20240121115911189
+modified: 20240123014253692
 modifier: KylePan
-reps: 1
-retrievability: 0.8971434549263774
-review: 20240121115911180
-stability: 0.0960748629946603
+reps: 2
+retrievability: 0.11154799222870741
+review: 20240123014253692
+stability: 4.181493065024152
 tags: 方剂 ?
 title: 小青龙汤
 type: text/vnd.tiddlywiki
