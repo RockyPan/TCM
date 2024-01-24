@@ -1,17 +1,17 @@
 created: 20231114105511183
 creator: KylePan
-difficulty: 3.645738981581551
-due: 20240123083033570
+difficulty: 3.7437429566297498
+due: 20240403123035143
 grade: 1
-history: [{"due":"20231207064021491","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206064021491"},{"due":"20231208034743753","interval":1,"difficulty":3.480252452613064,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231207034743753"},{"due":"20231212025817267","interval":1,"difficulty":3.4611258107950436,"stability":3.5401894687382867,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231208025817267"},{"due":"20231224083104151","interval":4,"difficulty":3.5488936091141934,"stability":11.612979820825618,"retrievability":0.8877677983191496,"grade":1,"lapses":1,"reps":3,"review":"20231212083104151"}]
-interval: 12
+history: [{"due":"20231207064021491","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206064021491"},{"due":"20231208034743753","interval":1,"difficulty":3.480252452613064,"stability":0.4259704768919878,"retrievability":0.8325719125598604,"grade":0,"lapses":1,"reps":1,"review":"20231207034743753"},{"due":"20231212025817267","interval":1,"difficulty":3.4611258107950436,"stability":3.5401894687382867,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231208025817267"},{"due":"20231224083104151","interval":4,"difficulty":3.5488936091141934,"stability":11.612979820825618,"retrievability":0.8877677983191496,"grade":1,"lapses":1,"reps":3,"review":"20231212083104151"},{"due":"20240123083033570","interval":12,"difficulty":3.645738981581551,"stability":30.360217316906528,"retrievability":0.8968453724673574,"grade":1,"lapses":1,"reps":4,"review":"20231224083033569"}]
+interval: 31
 lapses: 1
-modified: 20231224083033571
+modified: 20240124123035144
 modifier: KylePan
-reps: 4
-retrievability: 0.8968453724673574
-review: 20231224083033569
-stability: 30.360217316906528
+reps: 5
+retrievability: 0.8980039750481984
+review: 20240124123035140
+stability: 69.5886153118517
 tags: 方剂 ?
 title: 小建中汤
 type: text/vnd.tiddlywiki

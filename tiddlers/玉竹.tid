@@ -1,17 +1,17 @@
 created: 20231113034735964
 creator: KylePan
-difficulty: 5.2713080713274065
-due: 20240123015026874
+difficulty: 5.367592297732685
+due: 20240331123239395
 grade: 1
-history: [{"due":"20231127064318506","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125064318506"},{"due":"20231203090813326","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127090813326"},{"due":"20231219024941726","interval":7,"difficulty":5.174765109495022,"stability":15.436156742736665,"retrievability":0.8747651094950208,"grade":1,"lapses":0,"reps":3,"review":"20231204024941726"}]
-interval: 16
+history: [{"due":"20231127064318506","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125064318506"},{"due":"20231203090813326","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127090813326"},{"due":"20231219024941726","interval":7,"difficulty":5.174765109495022,"stability":15.436156742736665,"retrievability":0.8747651094950208,"grade":1,"lapses":0,"reps":3,"review":"20231204024941726"},{"due":"20240123015026874","interval":16,"difficulty":5.2713080713274065,"stability":33.67758473704348,"retrievability":0.8965429618323845,"grade":1,"lapses":0,"reps":4,"review":"20231220015026874"}]
+interval: 35
 lapses: 0
-modified: 20231220015026874
+modified: 20240124123239396
 modifier: KylePan
-reps: 4
-retrievability: 0.8965429618323845
-review: 20231220015026874
-stability: 33.67758473704348
+reps: 5
+retrievability: 0.8962842264052778
+review: 20240124123239391
+stability: 67.38608084454357
 tags: 中药 ?
 title: 玉竹
 type: text/vnd.tiddlywiki
