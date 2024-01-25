@@ -1,17 +1,17 @@
 created: 20231121112304373
 creator: KylePan
-difficulty: 1.9593422584089468
-due: 20240124025506628
+difficulty: 2.0435222740312233
+due: 20240219030434971
 grade: 1
-history: [{"due":"20231224110636076","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223110636076"},{"due":"20240102062218162","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231224062218160"},{"due":"20240104064146706","interval":10,"difficulty":2.0876533314932604,"stability":0.0960748629946603,"retrievability":0.8876533314932603,"grade":0,"lapses":1,"reps":1,"review":"20240103064146695"},{"due":"20240106011801994","interval":2,"difficulty":2.399201323721968,"stability":0.07117400905594407,"retrievability":0.11154799222870741,"grade":0,"lapses":2,"reps":1,"review":"20240105011801994"},{"due":"20240115023458713","interval":2,"difficulty":1.650986786797646,"stability":8.135097797832506,"retrievability":0.05178546307567797,"grade":1,"lapses":2,"reps":2,"review":"20240107023458712"},{"due":"20240117005556115","interval":9,"difficulty":2.740961553587535,"stability":0.052727002747608956,"retrievability":0.8899747667898887,"grade":0,"lapses":3,"reps":1,"review":"20240116005556114"}]
-interval: 2
+history: [{"due":"20231224110636076","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223110636076"},{"due":"20240102062218162","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231224062218160"},{"due":"20240104064146706","interval":10,"difficulty":2.0876533314932604,"stability":0.0960748629946603,"retrievability":0.8876533314932603,"grade":0,"lapses":1,"reps":1,"review":"20240103064146695"},{"due":"20240106011801994","interval":2,"difficulty":2.399201323721968,"stability":0.07117400905594407,"retrievability":0.11154799222870741,"grade":0,"lapses":2,"reps":1,"review":"20240105011801994"},{"due":"20240115023458713","interval":2,"difficulty":1.650986786797646,"stability":8.135097797832506,"retrievability":0.05178546307567797,"grade":1,"lapses":2,"reps":2,"review":"20240107023458712"},{"due":"20240117005556115","interval":9,"difficulty":2.740961553587535,"stability":0.052727002747608956,"retrievability":0.8899747667898887,"grade":0,"lapses":3,"reps":1,"review":"20240116005556114"},{"due":"20240124025506628","interval":2,"difficulty":1.9593422584089468,"stability":5.991518820778378,"retrievability":0.018380704821412165,"grade":1,"lapses":3,"reps":2,"review":"20240118025506628"}]
+interval: 7
 lapses: 3
-modified: 20240118025506628
+modified: 20240125030434971
 modifier: KylePan
-reps: 2
-retrievability: 0.018380704821412165
-review: 20240118025506628
-stability: 5.991518820778378
+reps: 3
+retrievability: 0.8841800156222762
+review: 20240125030434971
+stability: 24.702279065205765
 tags: 中药 ?
 title: 瞿麦
 type: text/vnd.tiddlywiki
