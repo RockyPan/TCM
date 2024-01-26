@@ -1,17 +1,17 @@
 created: 20231113010440611
 creator: KylePan
-difficulty: 4.88883913988042
-due: 20240126015603620
+difficulty: 4.987861312971792
+due: 20240419021221217
 grade: 1
-history: [{"due":"20231116012702543","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012702543"},{"due":"20231214102542627","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231124102542624"}]
-interval: 20
+history: [{"due":"20231116012702543","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012702543"},{"due":"20231214102542627","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231124102542624"},{"due":"20240126015603620","interval":20,"difficulty":4.88883913988042,"stability":42.560874995645975,"retrievability":0.8983491398804202,"grade":1,"lapses":0,"reps":3,"review":"20231214015603620"}]
+interval: 43
 lapses: 0
-modified: 20231214015603620
+modified: 20240126021221217
 modifier: KylePan
-reps: 3
-retrievability: 0.8983491398804202
-review: 20231214015603620
-stability: 42.560874995645975
+reps: 4
+retrievability: 0.8990221730913714
+review: 20240126021221217
+stability: 84.16699365804564
 tags: 中药 ?
 title: 苦杏仁
 type: text/vnd.tiddlywiki
