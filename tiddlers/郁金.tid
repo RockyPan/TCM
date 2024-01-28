@@ -1,17 +1,17 @@
 created: 20231118023817916
 creator: KylePan
-difficulty: 1.806245734315003
-due: 20240126034022666
+difficulty: 1.9005661479537117
+due: 20240422131905678
 grade: 1
-history: [{"due":"20231215134916964","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214134916964"},{"due":"20231223024329756","interval":1,"difficulty":1.0865168997185306,"stability":8.032459917058302,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231215024329756"},{"due":"20231224101257727","interval":8,"difficulty":2.18690017577912,"stability":0.0960748629946603,"retrievability":0.9003832760605897,"grade":0,"lapses":1,"reps":1,"review":"20231223101257725"},{"due":"20231230083935921","interval":1,"difficulty":1.7208881878824103,"stability":6.05700680386445,"retrievability":0.33398801210329004,"grade":1,"lapses":1,"reps":2,"review":"20231224083935916"}]
-interval: 7
+history: [{"due":"20231215134916964","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214134916964"},{"due":"20231223024329756","interval":1,"difficulty":1.0865168997185306,"stability":8.032459917058302,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231215024329756"},{"due":"20231224101257727","interval":8,"difficulty":2.18690017577912,"stability":0.0960748629946603,"retrievability":0.9003832760605897,"grade":0,"lapses":1,"reps":1,"review":"20231223101257725"},{"due":"20231230083935921","interval":1,"difficulty":1.7208881878824103,"stability":6.05700680386445,"retrievability":0.33398801210329004,"grade":1,"lapses":1,"reps":2,"review":"20231224083935916"},{"due":"20240126034022666","interval":7,"difficulty":1.806245734315003,"stability":26.41296183068446,"retrievability":0.8853575464325928,"grade":1,"lapses":1,"reps":3,"review":"20231231034022664"}]
+interval: 28
 lapses: 1
-modified: 20231231034022666
+modified: 20240128131905678
 modifier: KylePan
-reps: 3
-retrievability: 0.8853575464325928
-review: 20231231034022664
-stability: 26.41296183068446
+reps: 4
+retrievability: 0.894320413638709
+review: 20240128131905675
+stability: 84.96311723662495
 tags: 中药 ?
 title: 郁金
 type: text/vnd.tiddlywiki
