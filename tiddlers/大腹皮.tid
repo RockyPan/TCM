@@ -1,5 +1,6 @@
 created: 20231121111531518
 creator: KylePan
+<<<<<<< HEAD
 difficulty: 2.8198197626297303
 due: 20240130015824321
 grade: 1
@@ -12,6 +13,20 @@ reps: 2
 retrievability: 0.8395370957663117
 review: 20240126015824321
 stability: 3.972017960911532
+=======
+difficulty: 2.685105202031152
+due: 20240203124448360
+grade: 1
+history: [{"due":"20231222135827448","interval":0,"difficulty":0.6469164138781576,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231221135827448"},{"due":"20231223013231945","interval":1,"difficulty":1.2906999201337994,"stability":0.0960748629946603,"retrievability":0.4437835062556419,"grade":0,"lapses":1,"reps":1,"review":"20231222013231945"},{"due":"20231224083613540","interval":1,"difficulty":1.8246879322370895,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231223083613538"},{"due":"20231225041559589","interval":1,"difficulty":2.2522521277417384,"stability":0.052727002747608956,"retrievability":0.22756419550464868,"grade":0,"lapses":3,"reps":1,"review":"20231224041559587"},{"due":"20231231052444198","interval":1,"difficulty":1.5878275857767832,"stability":5.716270391905461,"retrievability":0.1355754580350447,"grade":1,"lapses":3,"reps":2,"review":"20231225052444195"},{"due":"20240124040340166","interval":6,"difficulty":1.683133217150113,"stability":24.269275291080152,"retrievability":0.89530563137333,"grade":1,"lapses":3,"reps":3,"review":"20231231040340165"},{"due":"20240126030019620","interval":25,"difficulty":2.7802826668634184,"stability":0.6023884238244042,"retrievability":0.8971494497133051,"grade":0,"lapses":4,"reps":1,"review":"20240125030019620"}]
+interval: 2
+lapses: 4
+modified: 20240127124448361
+modifier: KylePan
+reps: 2
+retrievability: 0.7048225351677334
+review: 20240127124448359
+stability: 7.481547028200563
+>>>>>>> 0b56074 (Updated with Git-Sync)
 tags: 中药 ?
 title: 大腹皮
 type: text/vnd.tiddlywiki

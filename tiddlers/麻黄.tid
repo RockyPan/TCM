@@ -1,17 +1,17 @@
 created: 20231110065006212
 creator: KylePan
-difficulty: 4.88883913988042
-due: 20240126015635094
+difficulty: 4.985638513422018
+due: 20240421125031201
 grade: 1
-history: [{"due":"20231116012328296","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012328296"},{"due":"20231214102633324","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231124102633322"}]
-interval: 20
+history: [{"due":"20231116012328296","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114012328296"},{"due":"20231214102633324","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231124102633322"},{"due":"20240126015635094","interval":20,"difficulty":4.88883913988042,"stability":42.560874995645975,"retrievability":0.8983491398804202,"grade":1,"lapses":0,"reps":3,"review":"20231214015635094"}]
+interval: 44
 lapses: 0
-modified: 20231214015635094
+modified: 20240127125031201
 modifier: KylePan
-reps: 3
-retrievability: 0.8983491398804202
-review: 20231214015635094
-stability: 42.560874995645975
+reps: 4
+retrievability: 0.8967993735415973
+review: 20240127125031198
+stability: 85.14423349825451
 tags: 中药 ?
 title: 麻黄
 type: text/vnd.tiddlywiki

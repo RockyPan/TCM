@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"requestRetention":0.9,"increaseFactor":60,"difficultyDecay":-0.7,"stabilityDecay":-0.2,"totalCase":80,"totalDiff":-4.486893266001067,"totalReview":80,"defaultDifficulty":5,"defaultStability":2,"stabilityDataArry":[]}
+=======
+{"requestRetention":0.9,"increaseFactor":60,"difficultyDecay":-0.7,"stabilityDecay":-0.2,"totalCase":82,"totalDiff":-2.463071786417749,"totalReview":82,"defaultDifficulty":5,"defaultStability":2,"stabilityDataArry":[]}
+>>>>>>> 0b56074 (Updated with Git-Sync)
