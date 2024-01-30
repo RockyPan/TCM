@@ -1,17 +1,17 @@
 created: 20231118032435553
 creator: KylePan
-difficulty: 1.1869001757791202
-due: 20240130101134840
+difficulty: 1.285765089573182
+due: 20240613012150183
 grade: 1
-history: [{"due":"20231215135809510","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135809510"},{"due":"20231223015535741","interval":1,"difficulty":1.0865168997185306,"stability":8.032459917058302,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231215015535741"}]
-interval: 8
+history: [{"due":"20231215135809510","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135809510"},{"due":"20231223015535741","interval":1,"difficulty":1.0865168997185306,"stability":8.032459917058302,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231215015535741"},{"due":"20240130101134840","interval":8,"difficulty":1.1869001757791202,"stability":37.55022531513775,"retrievability":0.9003832760605897,"grade":1,"lapses":0,"reps":3,"review":"20231223101134836"}]
+interval: 38
 lapses: 0
-modified: 20231223101134840
+modified: 20240130012150183
 modifier: KylePan
-reps: 3
-retrievability: 0.9003832760605897
-review: 20231223101134836
-stability: 37.55022531513775
+reps: 4
+retrievability: 0.8988649137940616
+review: 20240130012150183
+stability: 134.93168337808737
 tags: 方剂 ?
 title: 苏合香丸
 type: text/vnd.tiddlywiki

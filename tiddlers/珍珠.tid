@@ -1,17 +1,17 @@
 created: 20231118025351206
 creator: KylePan
-difficulty: 1.1869001757791202
-due: 20240130101306419
+difficulty: 1.285765089573182
+due: 20240613014002958
 grade: 1
-history: [{"due":"20231215135358833","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135358833"},{"due":"20231223024528363","interval":1,"difficulty":1.0865168997185306,"stability":8.032459917058302,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231215024528363"}]
-interval: 8
+history: [{"due":"20231215135358833","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135358833"},{"due":"20231223024528363","interval":1,"difficulty":1.0865168997185306,"stability":8.032459917058302,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231215024528363"},{"due":"20240130101306419","interval":8,"difficulty":1.1869001757791202,"stability":37.55022531513775,"retrievability":0.9003832760605897,"grade":1,"lapses":0,"reps":3,"review":"20231223101306417"}]
+interval: 38
 lapses: 0
-modified: 20231223101306420
+modified: 20240130014002958
 modifier: KylePan
-reps: 3
-retrievability: 0.9003832760605897
-review: 20231223101306417
-stability: 37.55022531513775
+reps: 4
+retrievability: 0.8988649137940616
+review: 20240130014002958
+stability: 134.93168337808737
 tags: 中药 ?
 title: 珍珠
 type: text/vnd.tiddlywiki

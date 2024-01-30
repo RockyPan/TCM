@@ -1,17 +1,17 @@
 created: 20231118025551307
 creator: KylePan
-difficulty: 1.1869001757791202
-due: 20240130101333274
+difficulty: 1.285765089573182
+due: 20240613014346870
 grade: 1
-history: [{"due":"20231215135432348","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135432348"},{"due":"20231223024838260","interval":1,"difficulty":1.0865168997185306,"stability":8.032459917058302,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231215024838260"}]
-interval: 8
+history: [{"due":"20231215135432348","interval":0,"difficulty":1.2687524673440806,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231214135432348"},{"due":"20231223024838260","interval":1,"difficulty":1.0865168997185306,"stability":8.032459917058302,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231215024838260"},{"due":"20240130101333274","interval":8,"difficulty":1.1869001757791202,"stability":37.55022531513775,"retrievability":0.9003832760605897,"grade":1,"lapses":0,"reps":3,"review":"20231223101333255"}]
+interval: 38
 lapses: 0
-modified: 20231223101333275
+modified: 20240130014346870
 modifier: KylePan
-reps: 3
-retrievability: 0.9003832760605897
-review: 20231223101333255
-stability: 37.55022531513775
+reps: 4
+retrievability: 0.8988649137940616
+review: 20240130014346870
+stability: 134.93168337808737
 tags: 方剂 ?
 title: 紫雪
 type: text/vnd.tiddlywiki
