@@ -1,17 +1,17 @@
 created: 20231113054257751
 creator: KylePan
-difficulty: 6.446438596434839
-due: 20240131022414138
+difficulty: 6.546485245052139
+due: 20240328013338082
 grade: 1
-history: [{"due":"20231128102508473","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102508473"},{"due":"20231204013431530","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128013431530"},{"due":"20231205032431135","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231204032431135"},{"due":"20231208010243851","interval":1,"difficulty":6.1725197853298575,"stability":2.5031669457276235,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231205010243851"},{"due":"20231215013908189","interval":3,"difficulty":6.253894284371546,"stability":6.866612878729356,"retrievability":0.8813744990416884,"grade":1,"lapses":1,"reps":3,"review":"20231208013908189"},{"due":"20231230011930718","interval":7,"difficulty":6.352054159147249,"stability":15.102800935975662,"retrievability":0.8981598747757034,"grade":1,"lapses":1,"reps":4,"review":"20231215011930718"}]
-interval: 16
+history: [{"due":"20231128102508473","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102508473"},{"due":"20231204013431530","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128013431530"},{"due":"20231205032431135","interval":6,"difficulty":6.191646427147878,"stability":0.4259704768919878,"retrievability":0.891646427147878,"grade":0,"lapses":1,"reps":1,"review":"20231204032431135"},{"due":"20231208010243851","interval":1,"difficulty":6.1725197853298575,"stability":2.5031669457276235,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231205010243851"},{"due":"20231215013908189","interval":3,"difficulty":6.253894284371546,"stability":6.866612878729356,"retrievability":0.8813744990416884,"grade":1,"lapses":1,"reps":3,"review":"20231208013908189"},{"due":"20231230011930718","interval":7,"difficulty":6.352054159147249,"stability":15.102800935975662,"retrievability":0.8981598747757034,"grade":1,"lapses":1,"reps":4,"review":"20231215011930718"},{"due":"20240131022414138","interval":16,"difficulty":6.446438596434839,"stability":31.01525746963822,"retrievability":0.8943844372875901,"grade":1,"lapses":1,"reps":5,"review":"20231231022414137"}]
+interval: 31
 lapses: 1
-modified: 20231231022414138
+modified: 20240131013338082
 modifier: KylePan
-reps: 5
-retrievability: 0.8943844372875901
-review: 20231231022414137
-stability: 31.01525746963822
+reps: 6
+retrievability: 0.9000466486173
+review: 20240131013338082
+stability: 57.43256516541539
 tags: 中药 ?
 title: 甘遂
 type: text/vnd.tiddlywiki
