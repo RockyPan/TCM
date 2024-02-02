@@ -1,17 +1,17 @@
 created: 20231118102100599
 creator: KylePan
-difficulty: 1.1055925971131362
-due: 20240202101252728
+difficulty: 1.2060229560216535
+due: 20240624013313124
 grade: 1
-history: [{"due":"20231217125317348","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216125317348"},{"due":"20231225121223949","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231217121223947"}]
-interval: 8
+history: [{"due":"20231217125317348","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216125317348"},{"due":"20231225121223949","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231217121223947"},{"due":"20240202101252728","interval":8,"difficulty":1.1055925971131362,"stability":39.177764994287756,"retrievability":0.9055925971131363,"grade":1,"lapses":0,"reps":3,"review":"20231225101252723"}]
+interval: 39
 lapses: 0
-modified: 20231225101252728
+modified: 20240202013313124
 modifier: KylePan
-reps: 3
-retrievability: 0.9055925971131363
-review: 20231225101252723
-stability: 39.177764994287756
+reps: 4
+retrievability: 0.9004303589085172
+review: 20240202013313124
+stability: 142.82594373862938
 tags: 方剂 ?
 title: 天台乌药散
 type: text/vnd.tiddlywiki

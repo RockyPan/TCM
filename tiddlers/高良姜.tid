@@ -1,15 +1,17 @@
 created: 20231118102822528
-difficulty: 1.1055925971131362
-due: 20240202060218652
+creator: KylePan
+difficulty: 1.2060229560216535
+due: 20240624011948964
 grade: 1
-history: [{"due":"20231217125358559","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216125358559"},{"due":"20231225045514323","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231217045514321"}]
-interval: 8
+history: [{"due":"20231217125358559","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231216125358559"},{"due":"20231225045514323","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231217045514321"},{"due":"20240202060218652","interval":8,"difficulty":1.1055925971131362,"stability":39.177764994287756,"retrievability":0.9055925971131363,"grade":1,"lapses":0,"reps":3,"review":"20231225060218644"}]
+interval: 39
 lapses: 0
-modified: 20231225060218654
-reps: 3
-retrievability: 0.9055925971131363
-review: 20231225060218644
-stability: 39.177764994287756
+modified: 20240202011948964
+modifier: KylePan
+reps: 4
+retrievability: 0.9004303589085172
+review: 20240202011948964
+stability: 142.82594373862938
 tags: 中药 ?
 title: 高良姜
 type: text/vnd.tiddlywiki
