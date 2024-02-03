@@ -1,17 +1,17 @@
 created: 20231114131814782
 creator: KylePan
-difficulty: 2.686718658917184
-due: 20240203100704694
+difficulty: 2.786923225430655
+due: 20240512123408975
 grade: 1
-history: [{"due":"20231207065125204","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206065125204"},{"due":"20231211024735176","interval":1,"difficulty":2.480252452613064,"stability":4.2940362257416975,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231207024735176"},{"due":"20231225014634173","interval":4,"difficulty":2.5867690832763808,"stability":13.992559034256445,"retrievability":0.9065166306633163,"grade":1,"lapses":0,"reps":3,"review":"20231211014634173"}]
-interval: 14
+history: [{"due":"20231207065125204","interval":0,"difficulty":2.4476805400532036,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231206065125204"},{"due":"20231211024735176","interval":1,"difficulty":2.480252452613064,"stability":4.2940362257416975,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231207024735176"},{"due":"20231225014634173","interval":4,"difficulty":2.5867690832763808,"stability":13.992559034256445,"retrievability":0.9065166306633163,"grade":1,"lapses":0,"reps":3,"review":"20231211014634173"},{"due":"20240203100704694","interval":14,"difficulty":2.686718658917184,"stability":40.08646943122532,"retrievability":0.8999495756408029,"grade":1,"lapses":0,"reps":4,"review":"20231225100704690"}]
+interval: 40
 lapses: 0
-modified: 20231225100704694
+modified: 20240203123408976
 modifier: KylePan
-reps: 4
-retrievability: 0.8999495756408029
-review: 20231225100704690
-stability: 40.08646943122532
+reps: 5
+retrievability: 0.9002045665134708
+review: 20240203123408970
+stability: 98.96041836740739
 tags: 中药 ?
 title: 鹿茸
 type: text/vnd.tiddlywiki
