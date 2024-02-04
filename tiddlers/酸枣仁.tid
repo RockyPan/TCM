@@ -1,17 +1,17 @@
 created: 20231115084559192
 creator: KylePan
-difficulty: 3.0286262956686327
-due: 20240204094739597
+difficulty: 3.1296587681645622
+due: 20240502013458111
 grade: 1
-history: [{"due":"20231210105737654","interval":0,"difficulty":2.043253369025958,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231209105737654"},{"due":"20231211030519182","interval":1,"difficulty":2.97510366059459,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231210030519178"},{"due":"20231215024016854","interval":1,"difficulty":2.831232580383168,"stability":4.17069962541188,"retrievability":0.6561289197885782,"grade":1,"lapses":1,"reps":2,"review":"20231211024016854"},{"due":"20231228015550358","interval":4,"difficulty":2.9351219639646695,"stability":13.099409938667913,"retrievability":0.9038893835815014,"grade":1,"lapses":1,"reps":3,"review":"20231215015550358"}]
-interval: 14
+history: [{"due":"20231210105737654","interval":0,"difficulty":2.043253369025958,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231209105737654"},{"due":"20231211030519182","interval":1,"difficulty":2.97510366059459,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231210030519178"},{"due":"20231215024016854","interval":1,"difficulty":2.831232580383168,"stability":4.17069962541188,"retrievability":0.6561289197885782,"grade":1,"lapses":1,"reps":2,"review":"20231211024016854"},{"due":"20231228015550358","interval":4,"difficulty":2.9351219639646695,"stability":13.099409938667913,"retrievability":0.9038893835815014,"grade":1,"lapses":1,"reps":3,"review":"20231215015550358"},{"due":"20240204094739597","interval":14,"difficulty":3.0286262956686327,"stability":37.40706402907697,"retrievability":0.8935043317039632,"grade":1,"lapses":1,"reps":4,"review":"20231229094739591"}]
+interval: 37
 lapses: 1
-modified: 20231229094739597
+modified: 20240204013458111
 modifier: KylePan
-reps: 4
-retrievability: 0.8935043317039632
-review: 20231229094739591
-stability: 37.40706402907697
+reps: 5
+retrievability: 0.9010324724959292
+review: 20240204013458111
+stability: 88.31983414480109
 tags: 中药 ?
 title: 酸枣仁
 type: text/vnd.tiddlywiki
