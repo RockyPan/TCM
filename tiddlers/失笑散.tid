@@ -1,17 +1,17 @@
 created: 20231119081416205
 creator: KylePan
-difficulty: 1.0944364137170175
-due: 20240208010254214
+difficulty: 1.194971349893888
+due: 20240713142924188
 grade: 1
-history: [{"due":"20231218075614690","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217075614690"},{"due":"20231226022159965","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231218022159965"}]
-interval: 9
+history: [{"due":"20231218075614690","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217075614690"},{"due":"20231226022159965","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231218022159965"},{"due":"20240208010254214","interval":9,"difficulty":1.0944364137170175,"stability":43.243880567648375,"retrievability":0.8944364137170175,"grade":1,"lapses":0,"reps":3,"review":"20231227010254214"}]
+interval: 43
 lapses: 0
-modified: 20231227010254214
+modified: 20240208142924189
 modifier: KylePan
-reps: 3
-retrievability: 0.8944364137170175
-review: 20231227010254214
-stability: 43.243880567648375
+reps: 4
+retrievability: 0.9005349361768705
+review: 20240208142924184
+stability: 156.01265822325564
 tags: 方剂 ?
 title: 失笑散
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231127123957929
 creator: KylePan
-difficulty: 2.9854211216321387
-due: 20240208022010883
-grade: -1
-history: []
-interval: 0
+difficulty: 3.0854211216321388
+due: 20240215142532602
+grade: 1
+history: [{"due":"20240208022010883","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022010883"}]
+interval: 2
 lapses: 0
-modified: 20240206022010883
+modified: 20240208142532602
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240206022010883
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20240208142532598
+stability: 6.99287620577906
 tags: 中药 ?
 title: 苍耳子
 type: text/vnd.tiddlywiki

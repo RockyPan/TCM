@@ -1,17 +1,17 @@
 created: 20231127124322258
 creator: KylePan
-difficulty: 2.9854211216321387
-due: 20240208022047881
-grade: -1
-history: []
-interval: 0
+difficulty: 3.0854211216321388
+due: 20240215143056719
+grade: 1
+history: [{"due":"20240208022047881","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022047881"}]
+interval: 2
 lapses: 0
-modified: 20240206022047881
+modified: 20240208143056720
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240206022047881
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20240208143056715
+stability: 6.99287620577906
 tags: 中药 ?
 title: 西河柳
 type: text/vnd.tiddlywiki

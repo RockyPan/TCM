@@ -1,17 +1,17 @@
 created: 20231127124637012
 creator: KylePan
-difficulty: 2.9854211216321387
-due: 20240208022055395
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20240206022055395
+difficulty: 4.085421121632138
+due: 20240209142737505
+grade: 0
+history: [{"due":"20240208022055395","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022055395"}]
+interval: 2
+lapses: 1
+modified: 20240208142737505
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20240206022055395
-stability: 2
+retrievability: 0.9
+review: 20240208142737503
+stability: 1.4816364413634358
 tags: 中药 ?
 title: 浮萍
 type: text/vnd.tiddlywiki

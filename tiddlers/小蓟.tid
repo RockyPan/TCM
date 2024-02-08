@@ -1,17 +1,17 @@
 created: 20231119082602338
 creator: KylePan
-difficulty: 1.0944364137170175
-due: 20240208011846822
+difficulty: 1.194971349893888
+due: 20240713143108866
 grade: 1
-history: [{"due":"20231218081738532","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217081738532"},{"due":"20231226111956348","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231218111956347"}]
-interval: 9
+history: [{"due":"20231218081738532","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217081738532"},{"due":"20231226111956348","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20231218111956347"},{"due":"20240208011846822","interval":9,"difficulty":1.0944364137170175,"stability":43.243880567648375,"retrievability":0.8944364137170175,"grade":1,"lapses":0,"reps":3,"review":"20231227011846822"}]
+interval: 43
 lapses: 0
-modified: 20231227011846822
+modified: 20240208143108866
 modifier: KylePan
-reps: 3
-retrievability: 0.8944364137170175
-review: 20231227011846822
-stability: 43.243880567648375
+reps: 4
+retrievability: 0.9005349361768705
+review: 20240208143108861
+stability: 156.01265822325564
 tags: 中药 ?
 title: 小蓟
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231127125336839
 creator: KylePan
-difficulty: 2.9854211216321387
-due: 20240208022116178
-grade: -1
-history: []
-interval: 0
+difficulty: 3.0854211216321388
+due: 20240215143158946
+grade: 1
+history: [{"due":"20240208022116178","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022116178"}]
+interval: 2
 lapses: 0
-modified: 20240206022116178
+modified: 20240208143158947
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240206022116178
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20240208143158941
+stability: 6.99287620577906
 tags: 中药 ?
 title: 鸭跖草
 type: text/vnd.tiddlywiki

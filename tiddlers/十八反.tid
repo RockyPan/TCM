@@ -1,19 +1,20 @@
 created: 20231127105944717
 creator: KylePan
-difficulty: 2.9854211216321387
-due: 20240208021853502
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20240206021853502
+difficulty: 4.085421121632138
+due: 20240209142953514
+grade: 0
+history: [{"due":"20240208021853502","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206021853502"}]
+interval: 2
+lapses: 1
+modified: 20240208142953514
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20240206021853502
-stability: 2
+retrievability: 0.9
+review: 20240208142953508
+stability: 1.4816364413634358
 tags: 中药 ?
 title: 十八反
+type: text/vnd.tiddlywiki
 
 本草明言十八反，半蒌贝蔹及攻乌，藻戟遂芫俱战草，诸参辛芍叛藜芦。
 
