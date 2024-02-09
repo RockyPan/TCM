@@ -1,17 +1,17 @@
 created: 20231127124233557
 creator: KylePan
-difficulty: 4.085421121632138
-due: 20240209142857648
-grade: 0
-history: [{"due":"20240208022028748","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022028748"}]
-interval: 2
+difficulty: 4.21677971103538
+due: 20240213075016561
+grade: 1
+history: [{"due":"20240208022028748","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022028748"},{"due":"20240209142857648","interval":2,"difficulty":4.085421121632138,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20240208142857643"}]
+interval: 1
 lapses: 1
-modified: 20240208142857648
+modified: 20240209075016561
 modifier: KylePan
-reps: 1
-retrievability: 0.9
-review: 20240208142857643
-stability: 1.4816364413634358
+reps: 2
+retrievability: 0.9313585894032408
+review: 20240209075016555
+stability: 3.613869542474606
 tags: 中药 ?
 title: 胡荽
 type: text/vnd.tiddlywiki

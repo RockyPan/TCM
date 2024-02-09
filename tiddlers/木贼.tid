@@ -1,17 +1,17 @@
 created: 20231127124746807
 creator: KylePan
-difficulty: 4.085421121632138
-due: 20240209142905145
-grade: 0
-history: [{"due":"20240208022104443","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022104443"}]
-interval: 2
+difficulty: 4.21677971103538
+due: 20240213075034592
+grade: 1
+history: [{"due":"20240208022104443","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022104443"},{"due":"20240209142905145","interval":2,"difficulty":4.085421121632138,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20240208142905138"}]
+interval: 1
 lapses: 1
-modified: 20240208142905147
+modified: 20240209075034593
 modifier: KylePan
-reps: 1
-retrievability: 0.9
-review: 20240208142905138
-stability: 1.4816364413634358
+reps: 2
+retrievability: 0.9313585894032408
+review: 20240209075034587
+stability: 3.613869542474606
 tags: 中药 ?
 title: 木贼
 type: text/vnd.tiddlywiki

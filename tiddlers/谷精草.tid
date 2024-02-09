@@ -1,17 +1,17 @@
 created: 20231127124833643
 creator: KylePan
-difficulty: 4.085421121632138
-due: 20240209142801086
-grade: 0
-history: [{"due":"20240208022110338","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022110338"}]
-interval: 2
+difficulty: 4.21677971103538
+due: 20240213075010254
+grade: 1
+history: [{"due":"20240208022110338","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022110338"},{"due":"20240209142801086","interval":2,"difficulty":4.085421121632138,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20240208142801085"}]
+interval: 1
 lapses: 1
-modified: 20240208142801086
+modified: 20240209075010254
 modifier: KylePan
-reps: 1
-retrievability: 0.9
-review: 20240208142801085
-stability: 1.4816364413634358
+reps: 2
+retrievability: 0.9313585894032408
+review: 20240209075010250
+stability: 3.613869542474606
 tags: 中药 ?
 title: 谷精草
 type: text/vnd.tiddlywiki

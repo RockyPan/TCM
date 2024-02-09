@@ -1,17 +1,17 @@
 created: 20231113020003720
 creator: KylePan
-difficulty: 8.05158003773789
-due: 20240209005957768
+difficulty: 8.148145750393967
+due: 20240219074034055
 grade: 1
-history: [{"due":"20231117054930254","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115054930254"},{"due":"20231212110657269","interval":9,"difficulty":4.822431111850943,"stability":17.93125127850223,"retrievability":0.6224311118509421,"grade":1,"lapses":0,"reps":2,"review":"20231124110657267"},{"due":"20240120010753064","interval":18,"difficulty":4.922067626668077,"stability":38.82844990724686,"retrievability":0.8996365148171338,"grade":1,"lapses":0,"reps":3,"review":"20231212010753063"},{"due":"20240121131209522","interval":39,"difficulty":6.021648775025372,"stability":0.0960748629946603,"retrievability":0.8995811483572953,"grade":0,"lapses":1,"reps":1,"review":"20240120131209517"},{"due":"20240124120713760","interval":1,"difficulty":5.555636787128662,"stability":2.7204585487445896,"retrievability":0.33398801210329004,"grade":1,"lapses":1,"reps":2,"review":"20240121120713749"},{"due":"20240131123827210","interval":3,"difficulty":5.645945628356251,"stability":7.332123219559165,"retrievability":0.8903088412275887,"grade":1,"lapses":1,"reps":3,"review":"20240124123827205"},{"due":"20240201012350565","interval":7,"difficulty":6.750251158479996,"stability":1.097623272188053,"retrievability":0.9043055301237445,"grade":0,"lapses":2,"reps":1,"review":"20240131012350565"},{"due":"20240202020405319","interval":1,"difficulty":7.858724542496714,"stability":0.8131393194811983,"retrievability":0.9084733840167178,"grade":0,"lapses":3,"reps":1,"review":"20240201020405319"},{"due":"20240204011839927","interval":1,"difficulty":7.937195416577741,"stability":2.3543201006097925,"retrievability":0.8784708740810269,"grade":1,"lapses":3,"reps":2,"review":"20240202011839927"}]
-interval: 2
+history: [{"due":"20231117054930254","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231115054930254"},{"due":"20231212110657269","interval":9,"difficulty":4.822431111850943,"stability":17.93125127850223,"retrievability":0.6224311118509421,"grade":1,"lapses":0,"reps":2,"review":"20231124110657267"},{"due":"20240120010753064","interval":18,"difficulty":4.922067626668077,"stability":38.82844990724686,"retrievability":0.8996365148171338,"grade":1,"lapses":0,"reps":3,"review":"20231212010753063"},{"due":"20240121131209522","interval":39,"difficulty":6.021648775025372,"stability":0.0960748629946603,"retrievability":0.8995811483572953,"grade":0,"lapses":1,"reps":1,"review":"20240120131209517"},{"due":"20240124120713760","interval":1,"difficulty":5.555636787128662,"stability":2.7204585487445896,"retrievability":0.33398801210329004,"grade":1,"lapses":1,"reps":2,"review":"20240121120713749"},{"due":"20240131123827210","interval":3,"difficulty":5.645945628356251,"stability":7.332123219559165,"retrievability":0.8903088412275887,"grade":1,"lapses":1,"reps":3,"review":"20240124123827205"},{"due":"20240201012350565","interval":7,"difficulty":6.750251158479996,"stability":1.097623272188053,"retrievability":0.9043055301237445,"grade":0,"lapses":2,"reps":1,"review":"20240131012350565"},{"due":"20240202020405319","interval":1,"difficulty":7.858724542496714,"stability":0.8131393194811983,"retrievability":0.9084733840167178,"grade":0,"lapses":3,"reps":1,"review":"20240201020405319"},{"due":"20240204011839927","interval":1,"difficulty":7.937195416577741,"stability":2.3543201006097925,"retrievability":0.8784708740810269,"grade":1,"lapses":3,"reps":2,"review":"20240202011839927"},{"due":"20240209005957768","interval":2,"difficulty":8.05158003773789,"stability":4.82492010170417,"retrievability":0.9143846211601507,"grade":1,"lapses":3,"reps":3,"review":"20240204005957768"}]
+interval: 5
 lapses: 3
-modified: 20240204005957768
+modified: 20240209074034055
 modifier: KylePan
-reps: 3
-retrievability: 0.9143846211601507
-review: 20240204005957768
-stability: 4.82492010170417
+reps: 4
+retrievability: 0.8965657126560774
+review: 20240209074034050
+stability: 10.127909720770166
 tags: 方剂 ?
 title: 败毒散
 type: text/vnd.tiddlywiki
