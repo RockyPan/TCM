@@ -1,17 +1,17 @@
 created: 20231119083915708
 creator: KylePan
-difficulty: 1.0972748152734606
-due: 20240210135303339
+difficulty: 1.1977881156418313
+due: 20240715132622108
 grade: 1
-history: [{"due":"20231220124816201","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219124816201"},{"due":"20231229031637218","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231220031637217"}]
-interval: 9
+history: [{"due":"20231220124816201","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219124816201"},{"due":"20231229031637218","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231220031637217"},{"due":"20240210135303339","interval":9,"difficulty":1.0972748152734606,"stability":43.23396583127258,"retrievability":0.8972748152734608,"grade":1,"lapses":0,"reps":3,"review":"20231229135303337"}]
+interval: 43
 lapses: 0
-modified: 20231229135303339
+modified: 20240210132622108
 modifier: KylePan
-reps: 3
-retrievability: 0.8972748152734608
-review: 20231229135303337
-stability: 43.23396583127258
+reps: 4
+retrievability: 0.9005133003683707
+review: 20240210132622104
+stability: 155.82211635379903
 tags: 中药 ?
 title: 藕节
 type: text/vnd.tiddlywiki
