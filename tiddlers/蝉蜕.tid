@@ -1,17 +1,17 @@
 created: 20231120083024177
 creator: KylePan
-difficulty: 1.0972748152734606
-due: 20240210134941178
+difficulty: 1.1977881156418313
+due: 20240715132449065
 grade: 1
-history: [{"due":"20231220132127447","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219132127447"},{"due":"20231229021412034","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231220021412033"}]
-interval: 9
+history: [{"due":"20231220132127447","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219132127447"},{"due":"20231229021412034","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231220021412033"},{"due":"20240210134941178","interval":9,"difficulty":1.0972748152734606,"stability":43.23396583127258,"retrievability":0.8972748152734608,"grade":1,"lapses":0,"reps":3,"review":"20231229134941171"}]
+interval: 43
 lapses: 0
-modified: 20231229134941179
+modified: 20240210132449065
 modifier: KylePan
-reps: 3
-retrievability: 0.8972748152734608
-review: 20231229134941171
-stability: 43.23396583127258
+reps: 4
+retrievability: 0.9005133003683707
+review: 20240210132449060
+stability: 155.82211635379903
 tags: 中药 ?
 title: 蝉蜕
 type: text/vnd.tiddlywiki
