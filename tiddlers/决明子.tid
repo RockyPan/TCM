@@ -1,17 +1,17 @@
 created: 20231121011310155
 creator: KylePan
-difficulty: 1.1546462923288694
-due: 20240211041301904
+difficulty: 1.2545716461393404
+due: 20240709135447162
 grade: 1
-history: [{"due":"20231221125831434","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220125831434"},{"due":"20231222015100597","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231221015100597"},{"due":"20231231021155368","interval":1,"difficulty":1.060134763649361,"stability":8.506153667428459,"retrievability":0.40968274802337346,"grade":1,"lapses":1,"reps":2,"review":"20231222021155367"}]
-interval: 9
+history: [{"due":"20231221125831434","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220125831434"},{"due":"20231222015100597","interval":1,"difficulty":1.4504520156259877,"stability":0.11806790392114878,"retrievability":0.5162905511021803,"grade":0,"lapses":1,"reps":1,"review":"20231221015100597"},{"due":"20231231021155368","interval":1,"difficulty":1.060134763649361,"stability":8.506153667428459,"retrievability":0.40968274802337346,"grade":1,"lapses":1,"reps":2,"review":"20231222021155367"},{"due":"20240211041301904","interval":9,"difficulty":1.1546462923288694,"stability":41.966962072980216,"retrievability":0.8945115286795083,"grade":1,"lapses":1,"reps":3,"review":"20231231041301901"}]
+interval: 42
 lapses: 1
-modified: 20231231041301904
+modified: 20240211135447162
 modifier: KylePan
-reps: 3
-retrievability: 0.8945115286795083
-review: 20231231041301901
-stability: 41.966962072980216
+reps: 4
+retrievability: 0.8999253538104708
+review: 20240211135447156
+stability: 149.0613360456246
 tags: 中药 ?
 title: 决明子
 type: text/vnd.tiddlywiki
