@@ -1,18 +1,18 @@
 caption: 
 created: 20231113012200273
 creator: KylePan
-difficulty: 5.905119902150511
-due: 20240212025938967
+difficulty: 6.004268017304614
+due: 20240414133756107
 grade: 1
-history: [{"due":"20231116014203081","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014203081"},{"due":"20231214102442652","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231124102442646"},{"due":"20231215015539101","interval":20,"difficulty":5.88883913988042,"stability":0.16205398577412577,"retrievability":0.8983491398804202,"grade":0,"lapses":1,"reps":1,"review":"20231214015539101"},{"due":"20231218014405029","interval":1,"difficulty":5.61080301848338,"stability":2.726265122587825,"retrievability":0.5219638786029598,"grade":1,"lapses":1,"reps":2,"review":"20231215014405029"},{"due":"20231225021104758","interval":3,"difficulty":5.7013322047707975,"stability":7.30461251226286,"retrievability":0.8905291862874174,"grade":1,"lapses":1,"reps":3,"review":"20231218021104758"},{"due":"20240110100347096","interval":7,"difficulty":5.805295216679471,"stability":15.970470402805946,"retrievability":0.9039630119086729,"grade":1,"lapses":1,"reps":4,"review":"20231225100347091"}]
-interval: 16
+history: [{"due":"20231116014203081","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114014203081"},{"due":"20231214102442652","interval":10,"difficulty":4.79049,"stability":19.657456432345345,"retrievability":0.5904900000000001,"grade":1,"lapses":0,"reps":2,"review":"20231124102442646"},{"due":"20231215015539101","interval":20,"difficulty":5.88883913988042,"stability":0.16205398577412577,"retrievability":0.8983491398804202,"grade":0,"lapses":1,"reps":1,"review":"20231214015539101"},{"due":"20231218014405029","interval":1,"difficulty":5.61080301848338,"stability":2.726265122587825,"retrievability":0.5219638786029598,"grade":1,"lapses":1,"reps":2,"review":"20231215014405029"},{"due":"20231225021104758","interval":3,"difficulty":5.7013322047707975,"stability":7.30461251226286,"retrievability":0.8905291862874174,"grade":1,"lapses":1,"reps":3,"review":"20231218021104758"},{"due":"20240110100347096","interval":7,"difficulty":5.805295216679471,"stability":15.970470402805946,"retrievability":0.9039630119086729,"grade":1,"lapses":1,"reps":4,"review":"20231225100347091"},{"due":"20240212025938967","interval":16,"difficulty":5.905119902150511,"stability":32.706036082285735,"retrievability":0.8998246854710394,"grade":1,"lapses":1,"reps":5,"review":"20240110025938967"}]
+interval: 33
 lapses: 1
-modified: 20240110025938967
+modified: 20240212133756109
 modifier: KylePan
-reps: 5
-retrievability: 0.8998246854710394
-review: 20240110025938967
-stability: 32.706036082285735
+reps: 6
+retrievability: 0.8991481151541032
+review: 20240212133756103
+stability: 62.265686598619794
 tags: 方剂 ?
 title: 九味羌活汤
 type: text/vnd.tiddlywiki
