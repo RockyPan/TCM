@@ -1,17 +1,17 @@
 created: 20231120082735992
 creator: KylePan
-difficulty: 1.0865331417501058
-due: 20240215021859097
+difficulty: 1.1811650964539506
+due: 20240813132400036
 grade: 1
-history: [{"due":"20231220132100959","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219132100959"},{"due":"20231229034630912","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231220034630912"}]
-interval: 10
+history: [{"due":"20231220132100959","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231219132100959"},{"due":"20231229034630912","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231220034630912"},{"due":"20240215021859097","interval":10,"difficulty":1.0865331417501058,"stability":47.31354442844167,"retrievability":0.8865331417501058,"grade":1,"lapses":0,"reps":3,"review":"20231230021859095"}]
+interval: 50
 lapses: 0
-modified: 20231230021859098
+modified: 20240218132400036
 modifier: KylePan
-reps: 3
-retrievability: 0.8865331417501058
-review: 20231230021859095
-stability: 47.31354442844167
+reps: 4
+retrievability: 0.8946319547038448
+review: 20240218132400028
+stability: 177.1248160279308
 tags: 方剂 ?
 title: 消风散
 type: text/vnd.tiddlywiki

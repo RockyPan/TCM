@@ -1,17 +1,17 @@
 created: 20231123084150649
 creator: KylePan
-difficulty: 1.0982951371011798
-due: 20240215075026490
+difficulty: 1.1922466087852646
+due: 20240731130910632
 grade: 1
-history: [{"due":"20231225131029248","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224131029248"},{"due":"20240103041817976","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231225041817972"}]
-interval: 9
+history: [{"due":"20231225131029248","interval":0,"difficulty":0.5069763379459223,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231224131029248"},{"due":"20240103041817976","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231225041817972"},{"due":"20240215075026490","interval":9,"difficulty":1.0982951371011798,"stability":43.23300601803576,"retrievability":0.8982951371011797,"grade":1,"lapses":0,"reps":3,"review":"20240103075026487"}]
+interval: 46
 lapses: 0
-modified: 20240103075026491
+modified: 20240218130910632
 modifier: KylePan
-reps: 3
-retrievability: 0.8982951371011797
-review: 20240103075026487
-stability: 43.23300601803576
+reps: 4
+retrievability: 0.893951471684085
+review: 20240218130910627
+stability: 164.03764467984163
 tags: 方剂 ?
 title: 贝母瓜蒌散
 type: text/vnd.tiddlywiki

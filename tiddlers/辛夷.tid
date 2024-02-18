@@ -1,17 +1,17 @@
 created: 20231127124119559
 creator: KylePan
-difficulty: 3.0854211216321388
-due: 20240215143144210
+difficulty: 3.145554031535239
+due: 20240315132417067
 grade: 1
-history: [{"due":"20240208022022012","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022022012"}]
-interval: 2
+history: [{"due":"20240208022022012","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022022012"},{"due":"20240215143144210","interval":2,"difficulty":3.0854211216321388,"stability":6.99287620577906,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20240208143144203"}]
+interval: 10
 lapses: 0
-modified: 20240208143144211
+modified: 20240218132417067
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20240208143144203
-stability: 6.99287620577906
+reps: 3
+retrievability: 0.8601329099031001
+review: 20240218132417062
+stability: 26.132312964457803
 tags: 中药 ?
 title: 辛夷
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231123014220641
 creator: KylePan
-difficulty: 2.35700172854186
-due: 20240215121909838
+difficulty: 3.152539714302393
+due: 20240219131135665
 grade: 0
-history: [{"due":"20231224125323909","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223125323909"},{"due":"20231225042846221","interval":1,"difficulty":1.2156467998285392,"stability":0.0960748629946603,"retrievability":0.4437835062556419,"grade":0,"lapses":1,"reps":1,"review":"20231224042846219"},{"due":"20231226055936320","interval":1,"difficulty":1.7496348119318292,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231225055936317"},{"due":"20240103062633073","interval":1,"difficulty":1.1771990074364778,"stability":7.600426507727065,"retrievability":0.22756419550464868,"grade":1,"lapses":2,"reps":2,"review":"20231226062633073"},{"due":"20240213021225546","interval":9,"difficulty":1.2599059426883386,"stability":39.779686943281014,"retrievability":0.8827069352518608,"grade":1,"lapses":2,"reps":3,"review":"20240104021225542"}]
-interval: 41
-lapses: 3
-modified: 20240214121909838
+history: [{"due":"20231224125323909","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223125323909"},{"due":"20231225042846221","interval":1,"difficulty":1.2156467998285392,"stability":0.0960748629946603,"retrievability":0.4437835062556419,"grade":0,"lapses":1,"reps":1,"review":"20231224042846219"},{"due":"20231226055936320","interval":1,"difficulty":1.7496348119318292,"stability":0.07117400905594407,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20231225055936317"},{"due":"20240103062633073","interval":1,"difficulty":1.1771990074364778,"stability":7.600426507727065,"retrievability":0.22756419550464868,"grade":1,"lapses":2,"reps":2,"review":"20231226062633073"},{"due":"20240213021225546","interval":9,"difficulty":1.2599059426883386,"stability":39.779686943281014,"retrievability":0.8827069352518608,"grade":1,"lapses":2,"reps":3,"review":"20240104021225542"},{"due":"20240215121909838","interval":41,"difficulty":2.35700172854186,"stability":0.8131393194811983,"retrievability":0.8970957858535211,"grade":0,"lapses":3,"reps":1,"review":"20240214121909836"}]
+interval: 4
+lapses: 4
+modified: 20240218131135665
 modifier: KylePan
 reps: 1
-retrievability: 0.8970957858535211
-review: 20240214121909836
-stability: 0.8131393194811983
+retrievability: 0.5955379857605332
+review: 20240218131135659
+stability: 0.6023884238244042
 tags: 方剂 ?
 title: 二陈汤
 type: text/vnd.tiddlywiki
