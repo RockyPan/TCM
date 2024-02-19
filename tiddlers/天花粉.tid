@@ -1,17 +1,17 @@
 created: 20231113094804031
 creator: KylePan
-difficulty: 5.158313296643745
-due: 20240216020811535
+difficulty: 5.251153501970349
+due: 20240511010147335
 grade: 1
-history: [{"due":"20231202032456282","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032456282"},{"due":"20231205034016020","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231202034016018"},{"due":"20231206013825117","interval":3,"difficulty":4.8901767290898945,"stability":0.4259704768919878,"retrievability":0.9098045073026005,"grade":0,"lapses":1,"reps":1,"review":"20231205013825117"},{"due":"20231209013827632","interval":1,"difficulty":4.871050087271874,"stability":2.8776601763773564,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231206013827632"},{"due":"20231217075203266","interval":3,"difficulty":4.967027768882524,"stability":7.866800521086298,"retrievability":0.89597768161065,"grade":1,"lapses":1,"reps":3,"review":"20231209075203262"},{"due":"20240105121204104","interval":8,"difficulty":5.065423646631502,"stability":18.599770003512756,"retrievability":0.8983958777489783,"grade":1,"lapses":1,"reps":4,"review":"20231217121204103"}]
-interval: 20
+history: [{"due":"20231202032456282","interval":0,"difficulty":3.7478003092274337,"stability":0.5750000000000001,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231201032456282"},{"due":"20231205034016020","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20231202034016018"},{"due":"20231206013825117","interval":3,"difficulty":4.8901767290898945,"stability":0.4259704768919878,"retrievability":0.9098045073026005,"grade":0,"lapses":1,"reps":1,"review":"20231205013825117"},{"due":"20231209013827632","interval":1,"difficulty":4.871050087271874,"stability":2.8776601763773564,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20231206013827632"},{"due":"20231217075203266","interval":3,"difficulty":4.967027768882524,"stability":7.866800521086298,"retrievability":0.89597768161065,"grade":1,"lapses":1,"reps":3,"review":"20231209075203262"},{"due":"20240105121204104","interval":8,"difficulty":5.065423646631502,"stability":18.599770003512756,"retrievability":0.8983958777489783,"grade":1,"lapses":1,"reps":4,"review":"20231217121204103"},{"due":"20240216020811535","interval":20,"difficulty":5.158313296643745,"stability":40.89950222287349,"retrievability":0.8928896500122421,"grade":1,"lapses":1,"reps":5,"review":"20240106020811534"}]
+interval: 44
 lapses: 1
-modified: 20240106020811535
+modified: 20240219010147335
 modifier: KylePan
-reps: 5
-retrievability: 0.8928896500122421
-review: 20240106020811534
-stability: 40.89950222287349
+reps: 6
+retrievability: 0.8928402053266042
+review: 20240219010147335
+stability: 82.28578979413498
 tags: 中药 ?
 title: 天花粉
 type: text/vnd.tiddlywiki

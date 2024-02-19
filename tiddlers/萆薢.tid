@@ -1,15 +1,17 @@
 created: 20231122132750019
-difficulty: 2.1944278600773433
-due: 20240217020211892
+creator: KylePan
+difficulty: 3.202315144194384
+due: 20240220010733066
 grade: 0
-history: [{"due":"20231224123128786","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223123128786"},{"due":"20240102040237606","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231224040237604"},{"due":"20240214104655103","interval":9,"difficulty":1.0982951371011798,"stability":43.23300601803576,"retrievability":0.8982951371011797,"grade":1,"lapses":0,"reps":3,"review":"20240102104655098"}]
-interval: 45
-lapses: 1
-modified: 20240216020211892
+history: [{"due":"20231224123128786","interval":0,"difficulty":0.5718632935728973,"stability":0.1296875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231223123128786"},{"due":"20240102040237606","interval":1,"difficulty":1,"stability":8.840897471283636,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20231224040237604"},{"due":"20240214104655103","interval":9,"difficulty":1.0982951371011798,"stability":43.23300601803576,"retrievability":0.8982951371011797,"grade":1,"lapses":0,"reps":3,"review":"20240102104655098"},{"due":"20240217020211892","interval":45,"difficulty":2.1944278600773433,"stability":1.4816364413634358,"retrievability":0.8961327229761632,"grade":0,"lapses":1,"reps":1,"review":"20240216020211888"}]
+interval: 3
+lapses: 2
+modified: 20240219010733066
+modifier: KylePan
 reps: 1
-retrievability: 0.8961327229761632
-review: 20240216020211888
-stability: 1.4816364413634358
+retrievability: 0.8078872841170406
+review: 20240219010733066
+stability: 1.097623272188053
 tags: 中药 ?
 title: 萆薢
 type: text/vnd.tiddlywiki

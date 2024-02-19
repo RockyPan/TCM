@@ -1,17 +1,17 @@
 created: 20231121010840557
 creator: KylePan
-difficulty: 1.0865331417501058
-due: 20240216034007512
+difficulty: 1.1811650964539506
+due: 20240814010605075
 grade: 1
-history: [{"due":"20231221124342092","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220124342092"},{"due":"20231230082515030","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231221082515030"}]
-interval: 10
+history: [{"due":"20231221124342092","interval":0,"difficulty":0.7341614645238075,"stability":0.159375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231220124342092"},{"due":"20231230082515030","interval":1,"difficulty":1,"stability":8.7482017605697,"retrievability":0.5162905511021803,"grade":1,"lapses":0,"reps":2,"review":"20231221082515030"},{"due":"20240216034007512","interval":10,"difficulty":1.0865331417501058,"stability":47.31354442844167,"retrievability":0.8865331417501058,"grade":1,"lapses":0,"reps":3,"review":"20231231034007509"}]
+interval: 50
 lapses: 0
-modified: 20231231034007512
+modified: 20240219010605075
 modifier: KylePan
-reps: 3
-retrievability: 0.8865331417501058
-review: 20231231034007509
-stability: 47.31354442844167
+reps: 4
+retrievability: 0.8946319547038448
+review: 20240219010605074
+stability: 177.1248160279308
 tags: 中药 ?
 title: 茵陈
 type: text/vnd.tiddlywiki
