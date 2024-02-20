@@ -1,17 +1,17 @@
 created: 20231115135248545
 creator: KylePan
-difficulty: 2.702040320581335
-due: 20240219071524007
+difficulty: 2.8000233097218015
+due: 20240614010506820
 grade: 1
-history: [{"due":"20231211074102606","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210074102606"},{"due":"20231212024724383","interval":1,"difficulty":2.6593598759969757,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231211024724383"},{"due":"20231217092404702","interval":1,"difficulty":2.5154887957855543,"stability":4.50902856733787,"retrievability":0.6561289197885782,"grade":1,"lapses":1,"reps":2,"review":"20231212092404701"},{"due":"20240102124354898","interval":5,"difficulty":2.6052227113205992,"stability":16.447044802457558,"retrievability":0.8897339155350449,"grade":1,"lapses":1,"reps":3,"review":"20231217124354896"}]
-interval: 17
+history: [{"due":"20231211074102606","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210074102606"},{"due":"20231212024724383","interval":1,"difficulty":2.6593598759969757,"stability":0.2500261494800798,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231211024724383"},{"due":"20231217092404702","interval":1,"difficulty":2.5154887957855543,"stability":4.50902856733787,"retrievability":0.6561289197885782,"grade":1,"lapses":1,"reps":2,"review":"20231212092404701"},{"due":"20240102124354898","interval":5,"difficulty":2.6052227113205992,"stability":16.447044802457558,"retrievability":0.8897339155350449,"grade":1,"lapses":1,"reps":3,"review":"20231217124354896"},{"due":"20240219071524007","interval":17,"difficulty":2.702040320581335,"stability":46.99915911984716,"retrievability":0.8968176092607358,"grade":1,"lapses":1,"reps":4,"review":"20240103071524002"}]
+interval: 48
 lapses: 1
-modified: 20240103071524007
+modified: 20240220010506820
 modifier: KylePan
-reps: 4
-retrievability: 0.8968176092607358
-review: 20240103071524002
-stability: 46.99915911984716
+reps: 5
+retrievability: 0.8979829891404664
+review: 20240220010506820
+stability: 115.20534870664588
 tags: 方剂 ?
 title: 益胃汤
 type: text/vnd.tiddlywiki
