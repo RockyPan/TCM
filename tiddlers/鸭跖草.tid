@@ -1,17 +1,17 @@
 created: 20231127125336839
 creator: KylePan
-difficulty: 4.212982853590433
-due: 20240226010427020
+difficulty: 4.3086715472513495
+due: 20240312013513060
 grade: 1
-history: [{"due":"20240208022116178","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022116178"},{"due":"20240215143158946","interval":2,"difficulty":3.0854211216321388,"stability":6.99287620577906,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20240208143158941"},{"due":"20240219132548930","interval":10,"difficulty":4.145554031535239,"stability":1.4816364413634358,"retrievability":0.8601329099031001,"grade":0,"lapses":1,"reps":1,"review":"20240218132548925"}]
-interval: 2
+history: [{"due":"20240208022116178","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022116178"},{"due":"20240215143158946","interval":2,"difficulty":3.0854211216321388,"stability":6.99287620577906,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20240208143158941"},{"due":"20240219132548930","interval":10,"difficulty":4.145554031535239,"stability":1.4816364413634358,"retrievability":0.8601329099031001,"grade":0,"lapses":1,"reps":1,"review":"20240218132548925"},{"due":"20240226010427020","interval":2,"difficulty":4.212982853590433,"stability":5.7384669020300985,"retrievability":0.8674288220551943,"grade":1,"lapses":1,"reps":2,"review":"20240220010427020"}]
+interval: 6
 lapses: 1
-modified: 20240220010427020
+modified: 20240226013513060
 modifier: KylePan
-reps: 2
-retrievability: 0.8674288220551943
-review: 20240220010427020
-stability: 5.7384669020300985
+reps: 3
+retrievability: 0.8956886936609157
+review: 20240226013513060
+stability: 15.339694337204309
 tags: 中药 ?
 title: 鸭跖草
 type: text/vnd.tiddlywiki
