@@ -1,17 +1,17 @@
 created: 20231127124637012
 creator: KylePan
-difficulty: 4.281134084983142
-due: 20240226121921843
+difficulty: 4.384323415828896
+due: 20240326011419657
 grade: 1
-history: [{"due":"20240208022055395","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022055395"},{"due":"20240209142737505","interval":2,"difficulty":4.085421121632138,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20240208142737503"},{"due":"20240213074959172","interval":1,"difficulty":4.21677971103538,"stability":3.613869542474606,"retrievability":0.9313585894032408,"grade":1,"lapses":1,"reps":2,"review":"20240209074959166"}]
-interval: 5
+history: [{"due":"20240208022055395","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022055395"},{"due":"20240209142737505","interval":2,"difficulty":4.085421121632138,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20240208142737503"},{"due":"20240213074959172","interval":1,"difficulty":4.21677971103538,"stability":3.613869542474606,"retrievability":0.9313585894032408,"grade":1,"lapses":1,"reps":2,"review":"20240209074959166"},{"due":"20240226121921843","interval":5,"difficulty":4.281134084983142,"stability":12.416892146637261,"retrievability":0.8643543739477624,"grade":1,"lapses":1,"reps":3,"review":"20240214121921841"}]
+interval: 12
 lapses: 1
-modified: 20240214121921843
+modified: 20240226011419657
 modifier: KylePan
-reps: 3
-retrievability: 0.8643543739477624
-review: 20240214121921841
-stability: 12.416892146637261
+reps: 4
+retrievability: 0.9031893308457535
+review: 20240226011419656
+stability: 28.677798372527885
 tags: 中药 ?
 title: 浮萍
 type: text/vnd.tiddlywiki

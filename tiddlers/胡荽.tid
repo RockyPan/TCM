@@ -1,17 +1,17 @@
 created: 20231127124233557
 creator: KylePan
-difficulty: 4.281134084983142
-due: 20240226122134982
+difficulty: 4.384323415828896
+due: 20240326011656058
 grade: 1
-history: [{"due":"20240208022028748","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022028748"},{"due":"20240209142857648","interval":2,"difficulty":4.085421121632138,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20240208142857643"},{"due":"20240213075016561","interval":1,"difficulty":4.21677971103538,"stability":3.613869542474606,"retrievability":0.9313585894032408,"grade":1,"lapses":1,"reps":2,"review":"20240209075016555"}]
-interval: 5
+history: [{"due":"20240208022028748","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022028748"},{"due":"20240209142857648","interval":2,"difficulty":4.085421121632138,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20240208142857643"},{"due":"20240213075016561","interval":1,"difficulty":4.21677971103538,"stability":3.613869542474606,"retrievability":0.9313585894032408,"grade":1,"lapses":1,"reps":2,"review":"20240209075016555"},{"due":"20240226122134982","interval":5,"difficulty":4.281134084983142,"stability":12.416892146637261,"retrievability":0.8643543739477624,"grade":1,"lapses":1,"reps":3,"review":"20240214122134975"}]
+interval: 12
 lapses: 1
-modified: 20240214122134982
+modified: 20240226011656058
 modifier: KylePan
-reps: 3
-retrievability: 0.8643543739477624
-review: 20240214122134975
-stability: 12.416892146637261
+reps: 4
+retrievability: 0.9031893308457535
+review: 20240226011656058
+stability: 28.677798372527885
 tags: 中药 ?
 title: 胡荽
 type: text/vnd.tiddlywiki
