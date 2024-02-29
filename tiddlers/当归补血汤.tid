@@ -1,17 +1,17 @@
 created: 20231115084049624
 creator: KylePan
-difficulty: 2.1766045417396924
-due: 20240229080016125
+difficulty: 2.2773736461006213
+due: 20240725010035942
 grade: 1
-history: [{"due":"20231210104457335","interval":0,"difficulty":2.043253369025958,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231209104457335"},{"due":"20231215022756214","interval":1,"difficulty":1.9751036605945897,"stability":5.143270388606108,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231210022756211"},{"due":"20240103011517022","interval":5,"difficulty":2.077748960663138,"stability":18.773284526742486,"retrievability":0.9026453000685482,"grade":1,"lapses":0,"reps":3,"review":"20231215011517022"}]
-interval: 19
+history: [{"due":"20231210104457335","interval":0,"difficulty":2.043253369025958,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231209104457335"},{"due":"20231215022756214","interval":1,"difficulty":1.9751036605945897,"stability":5.143270388606108,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231210022756211"},{"due":"20240103011517022","interval":5,"difficulty":2.077748960663138,"stability":18.773284526742486,"retrievability":0.9026453000685482,"grade":1,"lapses":0,"reps":3,"review":"20231215011517022"},{"due":"20240229080016125","interval":19,"difficulty":2.1766045417396924,"stability":57.465896625465085,"retrievability":0.8988555810765543,"grade":1,"lapses":0,"reps":4,"review":"20240103080016123"}]
+interval: 57
 lapses: 0
-modified: 20240103080016125
+modified: 20240229010035942
 modifier: KylePan
-reps: 4
-retrievability: 0.8988555810765543
-review: 20240103080016123
-stability: 57.465896625465085
+reps: 5
+retrievability: 0.9007691043609287
+review: 20240229010035942
+stability: 147.38421822163073
 tags: 方剂 ?
 title: 当归补血汤
 type: text/vnd.tiddlywiki
