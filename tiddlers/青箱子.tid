@@ -1,17 +1,17 @@
 created: 20231127125614109
 creator: KylePan
-difficulty: 1.2687524673440806
-due: 20240301012847370
-grade: -1
-history: []
-interval: 0
+difficulty: 1.3687524673440807
+due: 20240312010935358
+grade: 1
+history: [{"due":"20240301012847370","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240228012847370"}]
+interval: 2
 lapses: 0
-modified: 20240228012847370
+modified: 20240301010935358
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240228012847370
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20240301010935358
+stability: 10.819489985567232
 tags: 中药 ?
 title: 青箱子
 type: text/vnd.tiddlywiki

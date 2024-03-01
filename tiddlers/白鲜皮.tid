@@ -1,17 +1,17 @@
 created: 20231127125806886
 creator: KylePan
-difficulty: 1.2687524673440806
-due: 20240301012857000
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20240228012857000
+difficulty: 2.368752467344081
+due: 20240302010733850
+grade: 0
+history: [{"due":"20240301012857000","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240228012857000"}]
+interval: 2
+lapses: 1
+modified: 20240301010733850
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20240228012857000
-stability: 2
+retrievability: 0.9
+review: 20240301010733850
+stability: 1.4816364413634358
 tags: 中药 ?
 title: 白鲜皮
 type: text/vnd.tiddlywiki

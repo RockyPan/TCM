@@ -1,17 +1,17 @@
 created: 20231127130811407
 creator: KylePan
-difficulty: 1.2687524673440806
-due: 20240301012926825
-grade: -1
-history: []
-interval: 0
+difficulty: 1.3687524673440807
+due: 20240312010837983
+grade: 1
+history: [{"due":"20240301012926825","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240228012926825"}]
+interval: 2
 lapses: 0
-modified: 20240228012926825
+modified: 20240301010837983
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240228012926825
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20240301010837983
+stability: 10.819489985567232
 tags: 中药 ?
 title: 贯众
 type: text/vnd.tiddlywiki

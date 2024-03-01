@@ -1,17 +1,17 @@
 created: 20231127130642133
 creator: KylePan
-difficulty: 1.2687524673440806
-due: 20240301012912609
-grade: -1
-history: []
-interval: 0
+difficulty: 1.3687524673440807
+due: 20240312010810335
+grade: 1
+history: [{"due":"20240301012912609","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240228012912609"}]
+interval: 2
 lapses: 0
-modified: 20240228012912609
+modified: 20240301010810335
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240228012912609
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20240301010810334
+stability: 10.819489985567232
 tags: 中药 ?
 title: 大青叶
 type: text/vnd.tiddlywiki
