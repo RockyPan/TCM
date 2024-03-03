@@ -1,17 +1,17 @@
 created: 20231117014838374
 creator: KylePan
-difficulty: 2.3280363922782943
-due: 20240302022732627
+difficulty: 2.426842986575972
+due: 20240721134452412
 grade: 1
-history: [{"due":"20231213134245516","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212134245516"},{"due":"20231214023319072","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213023319072"},{"due":"20231219020141116","interval":1,"difficulty":2.1285810210441785,"stability":5.215738974465072,"retrievability":0.5219638786029598,"grade":1,"lapses":1,"reps":2,"review":"20231214020141116"},{"due":"20240106070438094","interval":5,"difficulty":2.232511810994252,"stability":18.14163547138441,"retrievability":0.903930789950073,"grade":1,"lapses":1,"reps":3,"review":"20231219070438094"}]
-interval: 19
+history: [{"due":"20231213134245516","interval":0,"difficulty":1.4747668508725869,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231212134245516"},{"due":"20231214023319072","interval":1,"difficulty":2.4066171424412186,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20231213023319072"},{"due":"20231219020141116","interval":1,"difficulty":2.1285810210441785,"stability":5.215738974465072,"retrievability":0.5219638786029598,"grade":1,"lapses":1,"reps":2,"review":"20231214020141116"},{"due":"20240106070438094","interval":5,"difficulty":2.232511810994252,"stability":18.14163547138441,"retrievability":0.903930789950073,"grade":1,"lapses":1,"reps":3,"review":"20231219070438094"},{"due":"20240302022732627","interval":19,"difficulty":2.3280363922782943,"stability":55.30352010416847,"retrievability":0.895524581284042,"grade":1,"lapses":1,"reps":4,"review":"20240107022732627"}]
+interval: 56
 lapses: 1
-modified: 20240107022732627
+modified: 20240303134452412
 modifier: KylePan
-reps: 4
-retrievability: 0.895524581284042
-review: 20240107022732627
-stability: 55.30352010416847
+reps: 5
+retrievability: 0.8988065942976777
+review: 20240303134452411
+stability: 140.44391531119587
 tags: 中药 ?
 title: 茜草
 type: text/vnd.tiddlywiki
