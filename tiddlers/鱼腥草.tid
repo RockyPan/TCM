@@ -1,17 +1,17 @@
 created: 20231127131507492
 creator: KylePan
-difficulty: 1.2687524673440806
-due: 20240303012723624
-grade: -1
-history: []
-interval: 0
+difficulty: 1.3225674355895431
+due: 20240320010859420
+grade: 1
+history: [{"due":"20240303012723624","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240301012723624"}]
+interval: 3
 lapses: 0
-modified: 20240301012723624
+modified: 20240304010859420
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240301012723624
-stability: 2
+reps: 2
+retrievability: 0.8538149682454624
+review: 20240304010859420
+stability: 15.521223368349466
 tags: 中药 ?
 title: 鱼腥草
 type: text/vnd.tiddlywiki

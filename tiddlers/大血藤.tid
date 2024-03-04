@@ -1,17 +1,17 @@
 created: 20231127131640537
 creator: KylePan
-difficulty: 1.2687524673440806
-due: 20240303012738014
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20240301012738014
+difficulty: 2.3225674355895434
+due: 20240305010315980
+grade: 0
+history: [{"due":"20240303012738014","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240301012738014"}]
+interval: 3
+lapses: 1
+modified: 20240304010315980
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20240301012738014
-stability: 2
+retrievability: 0.8538149682454624
+review: 20240304010315980
+stability: 1.4816364413634358
 tags: 中药 ?
 title: 大血藤
 type: text/vnd.tiddlywiki

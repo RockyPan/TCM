@@ -1,17 +1,17 @@
 created: 20231127131600262
 creator: KylePan
-difficulty: 1.2687524673440806
-due: 20240303012729176
-grade: -1
-history: []
-interval: 0
+difficulty: 1.3225674355895431
+due: 20240320010333924
+grade: 1
+history: [{"due":"20240303012729176","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240301012729176"}]
+interval: 3
 lapses: 0
-modified: 20240301012729176
+modified: 20240304010333924
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240301012729176
-stability: 2
+reps: 2
+retrievability: 0.8538149682454624
+review: 20240304010333924
+stability: 15.521223368349466
 tags: 中药 ?
 title: 金荞麦
 type: text/vnd.tiddlywiki
