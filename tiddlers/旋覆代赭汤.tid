@@ -1,17 +1,17 @@
 created: 20231119032322905
 creator: KylePan
-difficulty: 3.5189843947072097
-due: 20240309024124409
+difficulty: 3.5307549055039242
+due: 20240330013053229
 grade: 1
-history: [{"due":"20231218071041269","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217071041269"},{"due":"20231219112143444","interval":1,"difficulty":1.773935412429729,"stability":0.11806790392114878,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231218112143444"},{"due":"20240102013714259","interval":2,"difficulty":1.141775366457712,"stability":12.968504551867673,"retrievability":0.16783995402798293,"grade":1,"lapses":1,"reps":2,"review":"20231220013714259"},{"due":"20240302065928304","interval":14,"difficulty":1.2342646849916006,"stability":58.62302218425464,"retrievability":0.8924893185338885,"grade":1,"lapses":1,"reps":3,"review":"20240103065928302"},{"due":"20240304140412671","interval":60,"difficulty":2.3320401366094643,"stability":1.097623272188053,"retrievability":0.8977754516178638,"grade":0,"lapses":2,"reps":1,"review":"20240303140412670"},{"due":"20240305011931842","interval":1,"difficulty":3.4405135206261823,"stability":0.8131393194811983,"retrievability":0.9084733840167178,"grade":0,"lapses":3,"reps":1,"review":"20240304011931842"}]
-interval: 1
+history: [{"due":"20231218071041269","interval":0,"difficulty":0.956170980055279,"stability":0.21875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231217071041269"},{"due":"20231219112143444","interval":1,"difficulty":1.773935412429729,"stability":0.11806790392114878,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20231218112143444"},{"due":"20240102013714259","interval":2,"difficulty":1.141775366457712,"stability":12.968504551867673,"retrievability":0.16783995402798293,"grade":1,"lapses":1,"reps":2,"review":"20231220013714259"},{"due":"20240302065928304","interval":14,"difficulty":1.2342646849916006,"stability":58.62302218425464,"retrievability":0.8924893185338885,"grade":1,"lapses":1,"reps":3,"review":"20240103065928302"},{"due":"20240304140412671","interval":60,"difficulty":2.3320401366094643,"stability":1.097623272188053,"retrievability":0.8977754516178638,"grade":0,"lapses":2,"reps":1,"review":"20240303140412670"},{"due":"20240305011931842","interval":1,"difficulty":3.4405135206261823,"stability":0.8131393194811983,"retrievability":0.9084733840167178,"grade":0,"lapses":3,"reps":1,"review":"20240304011931842"},{"due":"20240309024124409","interval":1,"difficulty":3.5189843947072097,"stability":3.536645699817985,"retrievability":0.8784708740810269,"grade":1,"lapses":3,"reps":2,"review":"20240305024124405"}]
+interval: 7
 lapses: 3
-modified: 20240305024124410
+modified: 20240312013053229
 modifier: KylePan
-reps: 2
-retrievability: 0.8784708740810269
-review: 20240305024124405
-stability: 3.536645699817985
+reps: 3
+retrievability: 0.8117705107967147
+review: 20240312013053229
+stability: 17.652894892129485
 tags: 方剂 ?
 title: 旋覆代赭汤
 type: text/vnd.tiddlywiki
