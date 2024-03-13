@@ -1,17 +1,17 @@
 created: 20231113060933829
 creator: KylePan
-difficulty: 4.135564343704766
-due: 20240313075628971
+difficulty: 4.235513388273019
+due: 20240714021403024
 grade: 1
-history: [{"due":"20231130061106368","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129061106368"},{"due":"20231203014709766","interval":1,"difficulty":3.852327106252045,"stability":3.481502087013605,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20231130014709766"},{"due":"20231215025120272","interval":4,"difficulty":3.938315178543057,"stability":11.011417685541923,"retrievability":0.885988072291012,"grade":1,"lapses":0,"reps":3,"review":"20231204025120272"},{"due":"20240111024537500","interval":11,"difficulty":4.038413506940521,"stability":27.181975536584407,"retrievability":0.9000983283974637,"grade":1,"lapses":0,"reps":4,"review":"20231215024537500"}]
-interval: 28
+history: [{"due":"20231130061106368","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231129061106368"},{"due":"20231203014709766","interval":1,"difficulty":3.852327106252045,"stability":3.481502087013605,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20231130014709766"},{"due":"20231215025120272","interval":4,"difficulty":3.938315178543057,"stability":11.011417685541923,"retrievability":0.885988072291012,"grade":1,"lapses":0,"reps":3,"review":"20231204025120272"},{"due":"20240111024537500","interval":11,"difficulty":4.038413506940521,"stability":27.181975536584407,"retrievability":0.9000983283974637,"grade":1,"lapses":0,"reps":4,"review":"20231215024537500"},{"due":"20240313075628971","interval":28,"difficulty":4.135564343704766,"stability":60.967237359273355,"retrievability":0.8971508367642451,"grade":1,"lapses":0,"reps":5,"review":"20240112075628971"}]
+interval: 61
 lapses: 0
-modified: 20240112075628971
+modified: 20240313021403024
 modifier: KylePan
-reps: 5
-retrievability: 0.8971508367642451
-review: 20240112075628971
-stability: 60.967237359273355
+reps: 6
+retrievability: 0.8999490445682529
+review: 20240313021403024
+stability: 122.55896364260232
 tags: 中药 ?
 title: 知母
 

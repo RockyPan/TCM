@@ -1,17 +1,17 @@
 created: 20231127131130598
 creator: KylePan
-difficulty: 1.3687524673440807
-due: 20240312012628700
+difficulty: 1.4584654520767757
+due: 20240429021051757
 grade: 1
-history: [{"due":"20240301013005500","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240228013005500"}]
-interval: 2
+history: [{"due":"20240301013005500","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240228013005500"},{"due":"20240312012628700","interval":2,"difficulty":1.3687524673440807,"stability":10.819489985567232,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20240301012628700"}]
+interval: 12
 lapses: 0
-modified: 20240301012628700
+modified: 20240313021051757
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20240301012628700
-stability: 10.819489985567232
+reps: 3
+retrievability: 0.889712984732695
+review: 20240313021051757
+stability: 46.91742532387697
 tags: 中药 ?
 title: 重楼
 type: text/vnd.tiddlywiki
