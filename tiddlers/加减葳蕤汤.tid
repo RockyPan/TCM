@@ -1,17 +1,17 @@
 created: 20231113034555204
 creator: KylePan
-difficulty: 5.392431799735877
-due: 20240316020957601
+difficulty: 5.488737464742648
+due: 20240708012052892
 grade: 1
-history: [{"due":"20231127064303295","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125064303295"},{"due":"20231203031301652","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127031301651"},{"due":"20231217024833836","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231203024833828"},{"due":"20240116093946367","interval":14,"difficulty":5.29168348736227,"stability":30.238529839360552,"retrievability":0.9000370602143911,"grade":1,"lapses":0,"reps":4,"review":"20231217093946365"}]
-interval: 30
+history: [{"due":"20231127064303295","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125064303295"},{"due":"20231203031301652","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127031301651"},{"due":"20231217024833836","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231203024833828"},{"due":"20240116093946367","interval":14,"difficulty":5.29168348736227,"stability":30.238529839360552,"retrievability":0.9000370602143911,"grade":1,"lapses":0,"reps":4,"review":"20231217093946365"},{"due":"20240316020957601","interval":30,"difficulty":5.392431799735877,"stability":59.67047048784958,"retrievability":0.9007483123736075,"grade":1,"lapses":0,"reps":5,"review":"20240116020957601"}]
+interval: 62
 lapses: 0
-modified: 20240116020957601
+modified: 20240318012052892
 modifier: KylePan
-reps: 5
-retrievability: 0.9007483123736075
-review: 20240116020957601
-stability: 59.67047048784958
+reps: 6
+retrievability: 0.8963056650067714
+review: 20240318012052891
+stability: 112.10225324972656
 tags: 方剂 ?
 title: 加减葳蕤汤
 type: text/vnd.tiddlywiki
