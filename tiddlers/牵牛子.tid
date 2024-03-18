@@ -1,17 +1,17 @@
 created: 20231127134032946
 creator: KylePan
-difficulty: 5
-due: 20240317014339438
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20240325014541817
+grade: 1
+history: [{"due":"20240317014339438","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014339438"}]
+interval: 3
 lapses: 0
-modified: 20240315014339438
+modified: 20240318014541817
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240315014339438
-stability: 2
+reps: 2
+retrievability: 0.8538149682454624
+review: 20240318014541817
+stability: 7.290234566162131
 tags: 中药 ?
 title: 牵牛子
 type: text/vnd.tiddlywiki

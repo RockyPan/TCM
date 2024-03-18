@@ -1,17 +1,17 @@
 created: 20231127134123844
 creator: KylePan
-difficulty: 5
-due: 20240317014345287
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20240315014345287
+difficulty: 6.0538149682454625
+due: 20240319014522217
+grade: 0
+history: [{"due":"20240317014345287","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014345287"}]
+interval: 3
+lapses: 1
+modified: 20240318014522217
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20240315014345287
-stability: 2
+retrievability: 0.8538149682454624
+review: 20240318014522217
+stability: 1.4816364413634358
 tags: 中药 ?
 title: 千金子
 type: text/vnd.tiddlywiki

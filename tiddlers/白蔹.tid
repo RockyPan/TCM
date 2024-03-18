@@ -1,17 +1,17 @@
 created: 20231127132828160
 creator: KylePan
-difficulty: 5
-due: 20240317014228883
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20240325013949658
+grade: 1
+history: [{"due":"20240317014228883","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014228883"}]
+interval: 3
 lapses: 0
-modified: 20240315014228883
+modified: 20240318013949658
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240315014228883
-stability: 2
+reps: 2
+retrievability: 0.8538149682454624
+review: 20240318013949658
+stability: 7.290234566162131
 tags: 中药 ?
 title: 白蔹
 type: text/vnd.tiddlywiki

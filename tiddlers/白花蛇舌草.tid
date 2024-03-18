@@ -1,17 +1,17 @@
 created: 20231127132515356
 creator: KylePan
-difficulty: 5
-due: 20240317014157584
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20240325013940193
+grade: 1
+history: [{"due":"20240317014157584","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014157584"}]
+interval: 3
 lapses: 0
-modified: 20240315014157584
+modified: 20240318013940193
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240315014157584
-stability: 2
+reps: 2
+retrievability: 0.8538149682454624
+review: 20240318013940193
+stability: 7.290234566162131
 tags: 中药 ?
 title: 白花蛇舌草
 type: text/vnd.tiddlywiki

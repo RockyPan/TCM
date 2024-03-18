@@ -1,17 +1,17 @@
 created: 20231127133536280
 creator: KylePan
-difficulty: 5
-due: 20240317014308190
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20240325014455057
+grade: 1
+history: [{"due":"20240317014308190","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014308190"}]
+interval: 3
 lapses: 0
-modified: 20240315014308190
+modified: 20240318014455057
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240315014308190
-stability: 2
+reps: 2
+retrievability: 0.8538149682454624
+review: 20240318014455057
+stability: 7.290234566162131
 tags: 中药 ?
 title: 芦荟
 type: text/vnd.tiddlywiki
