@@ -1,17 +1,17 @@
 created: 20231113035831660
 creator: KylePan
-difficulty: 5.389298771688526
-due: 20240318010113049
+difficulty: 5.487206990549589
+due: 20240710012700708
 grade: 1
-history: [{"due":"20231127070618025","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125070618025"},{"due":"20231203082620255","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127082620255"},{"due":"20231217025447953","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231203025447950"},{"due":"20240116094903798","interval":14,"difficulty":5.29168348736227,"stability":30.238529839360552,"retrievability":0.9000370602143911,"grade":1,"lapses":0,"reps":4,"review":"20231217094903796"}]
-interval: 31
+history: [{"due":"20231127070618025","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231125070618025"},{"due":"20231203082620255","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231127082620255"},{"due":"20231217025447953","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231203025447950"},{"due":"20240116094903798","interval":14,"difficulty":5.29168348736227,"stability":30.238529839360552,"retrievability":0.9000370602143911,"grade":1,"lapses":0,"reps":4,"review":"20231217094903796"},{"due":"20240318010113049","interval":31,"difficulty":5.389298771688526,"stability":60.660305958968486,"retrievability":0.8976152843262561,"grade":1,"lapses":0,"reps":5,"review":"20240117010113048"}]
+interval: 62
 lapses: 0
-modified: 20240117010113049
+modified: 20240319012700708
 modifier: KylePan
-reps: 5
-retrievability: 0.8976152843262561
-review: 20240117010113048
-stability: 60.660305958968486
+reps: 6
+retrievability: 0.8979082188610629
+review: 20240319012700708
+stability: 112.9332915856122
 tags: 中药 ?
 title: 芒硝
 type: text/vnd.tiddlywiki
