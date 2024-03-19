@@ -1,17 +1,17 @@
 created: 20231127134123844
 creator: KylePan
-difficulty: 6.0538149682454625
-due: 20240319014522217
+difficulty: 7.185173557648704
+due: 20240320014205939
 grade: 0
-history: [{"due":"20240317014345287","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014345287"}]
-interval: 3
-lapses: 1
-modified: 20240318014522217
+history: [{"due":"20240317014345287","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014345287"},{"due":"20240319014522217","interval":3,"difficulty":6.0538149682454625,"stability":1.4816364413634358,"retrievability":0.8538149682454624,"grade":0,"lapses":1,"reps":1,"review":"20240318014522217"}]
+interval: 1
+lapses: 2
+modified: 20240319014205939
 modifier: KylePan
 reps: 1
-retrievability: 0.8538149682454624
-review: 20240318014522217
-stability: 1.4816364413634358
+retrievability: 0.9313585894032408
+review: 20240319014205939
+stability: 1.097623272188053
 tags: 中药 ?
 title: 千金子
 type: text/vnd.tiddlywiki
