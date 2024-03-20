@@ -1,17 +1,17 @@
 created: 20231127131220529
 creator: KylePan
-difficulty: 1.3225674355895431
-due: 20240320010620268
+difficulty: 1.4196471733481981
+due: 20240520014000315
 grade: 1
-history: [{"due":"20240303012650010","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240301012650010"}]
-interval: 3
+history: [{"due":"20240303012650010","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240301012650010"},{"due":"20240320010620268","interval":3,"difficulty":1.3225674355895431,"stability":15.521223368349466,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20240304010620268"}]
+interval: 16
 lapses: 0
-modified: 20240304010620268
+modified: 20240320014000315
 modifier: KylePan
-reps: 2
-retrievability: 0.8538149682454624
-review: 20240304010620268
-stability: 15.521223368349466
+reps: 3
+retrievability: 0.8970797377586552
+review: 20240320014000315
+stability: 61.167684304914545
 tags: 中药 ?
 title: 拳参
 type: text/vnd.tiddlywiki

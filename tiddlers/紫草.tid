@@ -1,17 +1,17 @@
 created: 20231127133140122
 creator: KylePan
-difficulty: 6.0538149682454625
-due: 20240319014908664
+difficulty: 7.121243790300657
+due: 20240321012814746
 grade: 0
-history: [{"due":"20240317014251534","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014251534"}]
-interval: 3
-lapses: 1
-modified: 20240318014908664
+history: [{"due":"20240317014251534","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014251534"},{"due":"20240319014908664","interval":3,"difficulty":6.0538149682454625,"stability":1.4816364413634358,"retrievability":0.8538149682454624,"grade":0,"lapses":1,"reps":1,"review":"20240318014908664"}]
+interval: 2
+lapses: 2
+modified: 20240320012814746
 modifier: KylePan
 reps: 1
-retrievability: 0.8538149682454624
-review: 20240318014908664
-stability: 1.4816364413634358
+retrievability: 0.8674288220551943
+review: 20240320012814745
+stability: 1.097623272188053
 tags: 中药 ?
 title: 紫草
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231127132021155
 creator: KylePan
-difficulty: 1.3225674355895431
-due: 20240320010614900
+difficulty: 1.4196471733481981
+due: 20240520013951032
 grade: 1
-history: [{"due":"20240303012819563","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240301012819563"}]
-interval: 3
+history: [{"due":"20240303012819563","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240301012819563"},{"due":"20240320010614900","interval":3,"difficulty":1.3225674355895431,"stability":15.521223368349466,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20240304010614900"}]
+interval: 16
 lapses: 0
-modified: 20240304010614901
+modified: 20240320013951032
 modifier: KylePan
-reps: 2
-retrievability: 0.8538149682454624
-review: 20240304010614900
-stability: 15.521223368349466
+reps: 3
+retrievability: 0.8970797377586552
+review: 20240320013951032
+stability: 61.167684304914545
 tags: 中药 ?
 title: 青果
 type: text/vnd.tiddlywiki

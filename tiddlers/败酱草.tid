@@ -1,17 +1,17 @@
 created: 20231127131730857
 creator: KylePan
-difficulty: 1.3225674355895431
-due: 20240320010126453
+difficulty: 1.4196471733481981
+due: 20240520013026353
 grade: 1
-history: [{"due":"20240303012744591","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240301012744591"}]
-interval: 3
+history: [{"due":"20240303012744591","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240301012744591"},{"due":"20240320010126453","interval":3,"difficulty":1.3225674355895431,"stability":15.521223368349466,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20240304010126452"}]
+interval: 16
 lapses: 0
-modified: 20240304010126453
+modified: 20240320013026353
 modifier: KylePan
-reps: 2
-retrievability: 0.8538149682454624
-review: 20240304010126452
-stability: 15.521223368349466
+reps: 3
+retrievability: 0.8970797377586552
+review: 20240320013026353
+stability: 61.167684304914545
 tags: 中药 ?
 title: 败酱草
 type: text/vnd.tiddlywiki
