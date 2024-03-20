@@ -1,17 +1,17 @@
 created: 20231113054140703
 creator: KylePan
-difficulty: 5.389298771688526
-due: 20240319030116364
+difficulty: 5.487206990549589
+due: 20240711012554466
 grade: 1
-history: [{"due":"20231128102459706","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102459706"},{"due":"20231204094308472","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128094308472"},{"due":"20231218035852534","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231204035852534"},{"due":"20240117112327283","interval":14,"difficulty":5.29168348736227,"stability":30.238529839360552,"retrievability":0.9000370602143911,"grade":1,"lapses":0,"reps":4,"review":"20231218112327283"}]
-interval: 31
+history: [{"due":"20231128102459706","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126102459706"},{"due":"20231204094308472","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128094308472"},{"due":"20231218035852534","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231204035852534"},{"due":"20240117112327283","interval":14,"difficulty":5.29168348736227,"stability":30.238529839360552,"retrievability":0.9000370602143911,"grade":1,"lapses":0,"reps":4,"review":"20231218112327283"},{"due":"20240319030116364","interval":31,"difficulty":5.389298771688526,"stability":60.660305958968486,"retrievability":0.8976152843262561,"grade":1,"lapses":0,"reps":5,"review":"20240118030116364"}]
+interval: 62
 lapses: 0
-modified: 20240118030116364
+modified: 20240320012554466
 modifier: KylePan
-reps: 5
-retrievability: 0.8976152843262561
-review: 20240118030116364
-stability: 60.660305958968486
+reps: 6
+retrievability: 0.8979082188610629
+review: 20240320012554465
+stability: 112.9332915856122
 tags: 中药 ?
 title: 芫花
 type: text/vnd.tiddlywiki

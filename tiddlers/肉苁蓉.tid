@@ -1,17 +1,17 @@
 created: 20231113053502456
 creator: KylePan
-difficulty: 5.389298771688526
-due: 20240319025513612
+difficulty: 5.487206990549589
+due: 20240711011104899
 grade: 1
-history: [{"due":"20231128025953757","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126025953757"},{"due":"20231204033542902","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128033542902"},{"due":"20231218035636214","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231204035636213"},{"due":"20240117021703605","interval":14,"difficulty":5.29168348736227,"stability":30.238529839360552,"retrievability":0.9000370602143911,"grade":1,"lapses":0,"reps":4,"review":"20231218021703605"}]
-interval: 31
+history: [{"due":"20231128025953757","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231126025953757"},{"due":"20231204033542902","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231128033542902"},{"due":"20231218035636214","interval":6,"difficulty":5.191646427147878,"stability":14.005473642002045,"retrievability":0.891646427147878,"grade":1,"lapses":0,"reps":3,"review":"20231204035636213"},{"due":"20240117021703605","interval":14,"difficulty":5.29168348736227,"stability":30.238529839360552,"retrievability":0.9000370602143911,"grade":1,"lapses":0,"reps":4,"review":"20231218021703605"},{"due":"20240319025513612","interval":31,"difficulty":5.389298771688526,"stability":60.660305958968486,"retrievability":0.8976152843262561,"grade":1,"lapses":0,"reps":5,"review":"20240118025513612"}]
+interval: 62
 lapses: 0
-modified: 20240118025513612
+modified: 20240320011104899
 modifier: KylePan
-reps: 5
-retrievability: 0.8976152843262561
-review: 20240118025513612
-stability: 60.660305958968486
+reps: 6
+retrievability: 0.8979082188610629
+review: 20240320011104899
+stability: 112.9332915856122
 tags: 中药 ?
 title: 肉苁蓉
 type: text/vnd.tiddlywiki
