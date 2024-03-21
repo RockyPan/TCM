@@ -1,17 +1,17 @@
 created: 20231127133950767
 creator: KylePan
-difficulty: 7.121243790300657
-due: 20240321011146988
-grade: 0
-history: [{"due":"20240317014332166","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014332166"},{"due":"20240319014812153","interval":3,"difficulty":6.0538149682454625,"stability":1.4816364413634358,"retrievability":0.8538149682454624,"grade":0,"lapses":1,"reps":1,"review":"20240318014812153"}]
-interval: 2
+difficulty: 7.229717174317375
+due: 20240324011822191
+grade: 1
+history: [{"due":"20240317014332166","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014332166"},{"due":"20240319014812153","interval":3,"difficulty":6.0538149682454625,"stability":1.4816364413634358,"retrievability":0.8538149682454624,"grade":0,"lapses":1,"reps":1,"review":"20240318014812153"},{"due":"20240321011146988","interval":2,"difficulty":7.121243790300657,"stability":1.097623272188053,"retrievability":0.8674288220551943,"grade":0,"lapses":2,"reps":1,"review":"20240320011146988"}]
+interval: 1
 lapses: 2
-modified: 20240320011146988
+modified: 20240321011822191
 modifier: KylePan
-reps: 1
-retrievability: 0.8674288220551943
-review: 20240320011146988
-stability: 1.097623272188053
+reps: 2
+retrievability: 0.9084733840167178
+review: 20240321011822191
+stability: 2.6489480033066366
 tags: 中药 ?
 title: 商陆
 type: text/vnd.tiddlywiki
