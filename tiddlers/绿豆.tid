@@ -1,17 +1,17 @@
 created: 20231127132956254
 creator: KylePan
-difficulty: 5.0538149682454625
-due: 20240325014501337
+difficulty: 5.157597992998135
+due: 20240411015952607
 grade: 1
-history: [{"due":"20240317014246008","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014246007"}]
-interval: 3
+history: [{"due":"20240317014246008","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014246007"},{"due":"20240325014501337","interval":3,"difficulty":5.0538149682454625,"stability":7.290234566162131,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20240318014501337"}]
+interval: 7
 lapses: 0
-modified: 20240318014501337
+modified: 20240325015952607
 modifier: KylePan
-reps: 2
-retrievability: 0.8538149682454624
-review: 20240318014501337
-stability: 7.290234566162131
+reps: 3
+retrievability: 0.9037830247526724
+review: 20240325015952607
+stability: 16.707908977008806
 tags: 中药 ?
 title: 绿豆
 type: text/vnd.tiddlywiki

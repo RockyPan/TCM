@@ -1,17 +1,17 @@
 created: 20231127134032946
 creator: KylePan
-difficulty: 5.0538149682454625
-due: 20240325014541817
+difficulty: 5.157597992998135
+due: 20240411020020855
 grade: 1
-history: [{"due":"20240317014339438","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014339438"}]
-interval: 3
+history: [{"due":"20240317014339438","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014339438"},{"due":"20240325014541817","interval":3,"difficulty":5.0538149682454625,"stability":7.290234566162131,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20240318014541817"}]
+interval: 7
 lapses: 0
-modified: 20240318014541817
+modified: 20240325020020855
 modifier: KylePan
-reps: 2
-retrievability: 0.8538149682454624
-review: 20240318014541817
-stability: 7.290234566162131
+reps: 3
+retrievability: 0.9037830247526724
+review: 20240325020020854
+stability: 16.707908977008806
 tags: 中药 ?
 title: 牵牛子
 type: text/vnd.tiddlywiki

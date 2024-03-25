@@ -1,17 +1,17 @@
 created: 20231127133446937
 creator: KylePan
-difficulty: 5.0538149682454625
-due: 20240325014235737
+difficulty: 5.157597992998135
+due: 20240411015911119
 grade: 1
-history: [{"due":"20240317014300478","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014300478"}]
-interval: 3
+history: [{"due":"20240317014300478","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014300478"},{"due":"20240325014235737","interval":3,"difficulty":5.0538149682454625,"stability":7.290234566162131,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20240318014235737"}]
+interval: 7
 lapses: 0
-modified: 20240318014235737
+modified: 20240325015911119
 modifier: KylePan
-reps: 2
-retrievability: 0.8538149682454624
-review: 20240318014235737
-stability: 7.290234566162131
+reps: 3
+retrievability: 0.9037830247526724
+review: 20240325015911119
+stability: 16.707908977008806
 tags: 中药 ?
 title: 番泻叶
 type: text/vnd.tiddlywiki
