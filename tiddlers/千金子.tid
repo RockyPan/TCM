@@ -1,17 +1,17 @@
 created: 20231127134123844
 creator: KylePan
-difficulty: 7.293646941665423
-due: 20240323013921040
+difficulty: 7.312713036652993
+due: 20240403012603499
 grade: 1
-history: [{"due":"20240317014345287","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014345287"},{"due":"20240319014522217","interval":3,"difficulty":6.0538149682454625,"stability":1.4816364413634358,"retrievability":0.8538149682454624,"grade":0,"lapses":1,"reps":1,"review":"20240318014522217"},{"due":"20240320014205939","interval":1,"difficulty":7.185173557648704,"stability":1.097623272188053,"retrievability":0.9313585894032408,"grade":0,"lapses":2,"reps":1,"review":"20240319014205939"}]
-interval: 1
+history: [{"due":"20240317014345287","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014345287"},{"due":"20240319014522217","interval":3,"difficulty":6.0538149682454625,"stability":1.4816364413634358,"retrievability":0.8538149682454624,"grade":0,"lapses":1,"reps":1,"review":"20240318014522217"},{"due":"20240320014205939","interval":1,"difficulty":7.185173557648704,"stability":1.097623272188053,"retrievability":0.9313585894032408,"grade":0,"lapses":2,"reps":1,"review":"20240319014205939"},{"due":"20240323013921040","interval":1,"difficulty":7.293646941665423,"stability":2.6394171465554392,"retrievability":0.9084733840167178,"grade":1,"lapses":2,"reps":2,"review":"20240320013921039"}]
+interval: 5
 lapses: 2
-modified: 20240320013921040
+modified: 20240325012603499
 modifier: KylePan
-reps: 2
-retrievability: 0.9084733840167178
-review: 20240320013921039
-stability: 2.6394171465554392
+reps: 3
+retrievability: 0.8190660949875699
+review: 20240325012603498
+stability: 9.064876724446231
 tags: 中药 ?
 title: 千金子
 type: text/vnd.tiddlywiki
