@@ -1,17 +1,17 @@
 created: 20231127132241656
 creator: KylePan
-difficulty: 5.0538149682454625
-due: 20240325014851056
+difficulty: 5.144630199919458
+due: 20240413012138056
 grade: 1
-history: [{"due":"20240317014137665","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014137665"}]
-interval: 3
+history: [{"due":"20240317014137665","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014137665"},{"due":"20240325014851056","interval":3,"difficulty":5.0538149682454625,"stability":7.290234566162131,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20240318014851056"}]
+interval: 8
 lapses: 0
-modified: 20240318014851057
+modified: 20240326012138056
 modifier: KylePan
-reps: 2
-retrievability: 0.8538149682454624
-review: 20240318014851056
-stability: 7.290234566162131
+reps: 3
+retrievability: 0.8908152316739952
+review: 20240326012138056
+stability: 18.066876873010155
 tags: 中药 ?
 title: 鸦胆子
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231127133705469
 creator: KylePan
-difficulty: 5.0538149682454625
-due: 20240325014856616
+difficulty: 5.144630199919458
+due: 20240413012432519
 grade: 1
-history: [{"due":"20240317014318038","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014318038"}]
-interval: 3
+history: [{"due":"20240317014318038","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014318038"},{"due":"20240325014856616","interval":3,"difficulty":5.0538149682454625,"stability":7.290234566162131,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20240318014856616"}]
+interval: 8
 lapses: 0
-modified: 20240318014856616
+modified: 20240326012432519
 modifier: KylePan
-reps: 2
-retrievability: 0.8538149682454624
-review: 20240318014856616
-stability: 7.290234566162131
+reps: 3
+retrievability: 0.8908152316739952
+review: 20240326012432519
+stability: 18.066876873010155
 tags: 中药 ?
 title: 郁李仁
 type: text/vnd.tiddlywiki
