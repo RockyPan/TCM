@@ -1,17 +1,17 @@
 created: 20231113011535345
 creator: KylePan
-difficulty: 5.357330429913678
-due: 20240326013608563
+difficulty: 5.457627358294258
+due: 20240801012933031
 grade: 1
-history: [{"due":"20231116013209783","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114013209783"},{"due":"20231122071227775","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116071227774"},{"due":"20231211130215297","interval":8,"difficulty":5.1582034015854665,"stability":16.869537326515847,"retrievability":0.8582034015854654,"grade":1,"lapses":0,"reps":3,"review":"20231124130215294"},{"due":"20240116010057687","interval":17,"difficulty":5.257470363438438,"stability":35.94694856062865,"retrievability":0.8992669618529714,"grade":1,"lapses":0,"reps":4,"review":"20231211010057687"}]
-interval: 36
+history: [{"due":"20231116013209783","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231114013209783"},{"due":"20231122071227775","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20231116071227774"},{"due":"20231211130215297","interval":8,"difficulty":5.1582034015854665,"stability":16.869537326515847,"retrievability":0.8582034015854654,"grade":1,"lapses":0,"reps":3,"review":"20231124130215294"},{"due":"20240116010057687","interval":17,"difficulty":5.257470363438438,"stability":35.94694856062865,"retrievability":0.8992669618529714,"grade":1,"lapses":0,"reps":4,"review":"20231211010057687"},{"due":"20240326013608563","interval":36,"difficulty":5.357330429913678,"stability":70.21984650055995,"retrievability":0.89986006647524,"grade":1,"lapses":0,"reps":5,"review":"20240116013608562"}]
+interval: 70
 lapses: 0
-modified: 20240116013608563
+modified: 20240326012933031
 modifier: KylePan
-reps: 5
-retrievability: 0.89986006647524
-review: 20240116013608562
-stability: 70.21984650055995
+reps: 6
+retrievability: 0.9002969283805797
+review: 20240326012933031
+stability: 127.7578898051578
 tags: 中药 ?
 title: 白芍
 type: text/vnd.tiddlywiki
