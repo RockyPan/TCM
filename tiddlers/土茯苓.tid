@@ -1,17 +1,17 @@
 created: 20231127131411158
 creator: KylePan
-difficulty: 3.659479146768157
-due: 20240326011340997
+difficulty: 3.723214952577462
+due: 20240409015218522
 grade: 1
-history: [{"due":"20240303012714513","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240301012714513"},{"due":"20240320010645196","interval":3,"difficulty":1.3225674355895431,"stability":15.521223368349466,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20240304010645196"},{"due":"20240321014031720","interval":16,"difficulty":2.4196471733481983,"stability":1.4816364413634358,"retrievability":0.8970797377586552,"grade":0,"lapses":1,"reps":1,"review":"20240320014031720"},{"due":"20240322011835312","interval":1,"difficulty":3.5510057627514393,"stability":1.097623272188053,"retrievability":0.9313585894032408,"grade":0,"lapses":2,"reps":1,"review":"20240321011835312"}]
-interval: 1
+history: [{"due":"20240303012714513","interval":0,"difficulty":1.2687524673440806,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240301012714513"},{"due":"20240320010645196","interval":3,"difficulty":1.3225674355895431,"stability":15.521223368349466,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20240304010645196"},{"due":"20240321014031720","interval":16,"difficulty":2.4196471733481983,"stability":1.4816364413634358,"retrievability":0.8970797377586552,"grade":0,"lapses":1,"reps":1,"review":"20240320014031720"},{"due":"20240322011835312","interval":1,"difficulty":3.5510057627514393,"stability":1.097623272188053,"retrievability":0.9313585894032408,"grade":0,"lapses":2,"reps":1,"review":"20240321011835312"},{"due":"20240326011340997","interval":1,"difficulty":3.659479146768157,"stability":3.5962083273830725,"retrievability":0.9084733840167178,"grade":1,"lapses":2,"reps":2,"review":"20240322011340997"}]
+interval: 5
 lapses: 2
-modified: 20240322011340997
+modified: 20240327015218522
 modifier: KylePan
-reps: 2
-retrievability: 0.9084733840167178
-review: 20240322011340997
-stability: 3.5962083273830725
+reps: 3
+retrievability: 0.8637358058093045
+review: 20240327015218521
+stability: 13.312298556843158
 tags: 中药 ?
 title: 土茯苓
 type: text/vnd.tiddlywiki

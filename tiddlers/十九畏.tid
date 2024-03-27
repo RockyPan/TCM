@@ -1,17 +1,17 @@
 created: 20231127110233181
 creator: KylePan
-difficulty: 4.384323415828896
-due: 20240326012006489
+difficulty: 4.479962096658341
+due: 20240529015059625
 grade: 1
-history: [{"due":"20240208022000338","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022000338"},{"due":"20240209143016119","interval":2,"difficulty":4.085421121632138,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20240208143016113"},{"due":"20240213075412491","interval":1,"difficulty":4.21677971103538,"stability":3.613869542474606,"retrievability":0.9313585894032408,"grade":1,"lapses":1,"reps":2,"review":"20240209075412486"},{"due":"20240226122758672","interval":5,"difficulty":4.281134084983142,"stability":12.416892146637261,"retrievability":0.8643543739477624,"grade":1,"lapses":1,"reps":3,"review":"20240214122758668"}]
-interval: 12
+history: [{"due":"20240208022000338","interval":0,"difficulty":2.9854211216321387,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240206022000338"},{"due":"20240209143016119","interval":2,"difficulty":4.085421121632138,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20240208143016113"},{"due":"20240213075412491","interval":1,"difficulty":4.21677971103538,"stability":3.613869542474606,"retrievability":0.9313585894032408,"grade":1,"lapses":1,"reps":2,"review":"20240209075412486"},{"due":"20240226122758672","interval":5,"difficulty":4.281134084983142,"stability":12.416892146637261,"retrievability":0.8643543739477624,"grade":1,"lapses":1,"reps":3,"review":"20240214122758668"},{"due":"20240326012006489","interval":12,"difficulty":4.384323415828896,"stability":28.677798372527885,"retrievability":0.9031893308457535,"grade":1,"lapses":1,"reps":4,"review":"20240226012006489"}]
+interval: 30
 lapses: 1
-modified: 20240226012006489
+modified: 20240327015059625
 modifier: KylePan
-reps: 4
-retrievability: 0.9031893308457535
-review: 20240226012006489
-stability: 28.677798372527885
+reps: 5
+retrievability: 0.895638680829445
+review: 20240327015059625
+stability: 62.53836780745027
 tags: 中药 ?
 title: 十九畏
 type: text/vnd.tiddlywiki
