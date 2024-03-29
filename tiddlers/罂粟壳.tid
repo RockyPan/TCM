@@ -1,17 +1,17 @@
 created: 20231116054919817
 creator: KylePan
-difficulty: 1.8505495692701792
-due: 20240329024435918
+difficulty: 1.9507407109111112
+due: 20241022011051728
 grade: 1
-history: [{"due":"20231211075313686","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210075313686"},{"due":"20231217024734155","interval":1,"difficulty":1.6593598759969754,"stability":5.766471149385786,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231211024734155"},{"due":"20240110124408724","interval":6,"difficulty":1.75552788387127,"stability":23.749673314708716,"retrievability":0.8961680078742948,"grade":1,"lapses":0,"reps":3,"review":"20231217124408722"}]
-interval: 25
+history: [{"due":"20231211075313686","interval":0,"difficulty":1.7275095844283441,"stability":0.3375,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231210075313686"},{"due":"20231217024734155","interval":1,"difficulty":1.6593598759969754,"stability":5.766471149385786,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":2,"review":"20231211024734155"},{"due":"20240110124408724","interval":6,"difficulty":1.75552788387127,"stability":23.749673314708716,"retrievability":0.8961680078742948,"grade":1,"lapses":0,"reps":3,"review":"20231217124408722"},{"due":"20240329024435918","interval":25,"difficulty":1.8505495692701792,"stability":78.15752867430754,"retrievability":0.895021685398909,"grade":1,"lapses":0,"reps":4,"review":"20240111024435918"}]
+interval: 78
 lapses: 0
-modified: 20240111024435918
+modified: 20240329011051728
 modifier: KylePan
-reps: 4
-retrievability: 0.895021685398909
-review: 20240111024435918
-stability: 78.15752867430754
+reps: 5
+retrievability: 0.9001911416409322
+review: 20240329011051728
+stability: 207.10439080172364
 tags: 中药 ?
 title: 罂粟壳
 type: text/vnd.tiddlywiki
