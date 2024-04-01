@@ -1,17 +1,17 @@
 created: 20231128124947040
 creator: KylePan
-difficulty: 2.043253369025958
-due: 20240331011602614
-grade: -1
-history: []
-interval: 0
+difficulty: 2.0970683372714207
+due: 20240413111755790
+grade: 1
+history: [{"due":"20240331011602614","interval":0,"difficulty":2.043253369025958,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240329011602614"}]
+interval: 3
 lapses: 0
-modified: 20240329011602614
+modified: 20240401111755790
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240329011602614
-stability: 2
+reps: 2
+retrievability: 0.8538149682454624
+review: 20240401111755790
+stability: 11.792186059913963
 tags: 中药 ?
 title: 丁公藤
 type: text/vnd.tiddlywiki

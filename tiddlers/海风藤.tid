@@ -1,17 +1,17 @@
 created: 20231128124803160
 creator: KylePan
-difficulty: 2.043253369025958
-due: 20240331011554622
-grade: -1
-history: []
-interval: 0
+difficulty: 2.0970683372714207
+due: 20240413111905890
+grade: 1
+history: [{"due":"20240331011554622","interval":0,"difficulty":2.043253369025958,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240329011554622"}]
+interval: 3
 lapses: 0
-modified: 20240329011554622
+modified: 20240401111905890
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240329011554622
-stability: 2
+reps: 2
+retrievability: 0.8538149682454624
+review: 20240401111905890
+stability: 11.792186059913963
 tags: 中药 ?
 title: 海风藤
 type: text/vnd.tiddlywiki

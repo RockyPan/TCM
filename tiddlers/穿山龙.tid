@@ -1,17 +1,17 @@
 created: 20231128125238531
 creator: KylePan
-difficulty: 2.043253369025958
-due: 20240331011623910
-grade: -1
-history: []
-interval: 0
+difficulty: 2.0970683372714207
+due: 20240413111724414
+grade: 1
+history: [{"due":"20240331011623910","interval":0,"difficulty":2.043253369025958,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240329011623910"}]
+interval: 3
 lapses: 0
-modified: 20240329011623910
+modified: 20240401111724414
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20240329011623910
-stability: 2
+reps: 2
+retrievability: 0.8538149682454624
+review: 20240401111724414
+stability: 11.792186059913963
 tags: 中药 ?
 title: 穿山龙
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20231128125042297
 creator: KylePan
-difficulty: 2.043253369025958
-due: 20240331011609791
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20240329011609791
+difficulty: 3.0970683372714207
+due: 20240402112056053
+grade: 0
+history: [{"due":"20240331011609791","interval":0,"difficulty":2.043253369025958,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240329011609791"}]
+interval: 3
+lapses: 1
+modified: 20240401112056053
 modifier: KylePan
 reps: 1
-retrievability: 1
-review: 20240329011609791
-stability: 2
+retrievability: 0.8538149682454624
+review: 20240401112056052
+stability: 1.4816364413634358
 tags: 中药 ?
 title: 昆明山海棠
 type: text/vnd.tiddlywiki

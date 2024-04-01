@@ -1,17 +1,17 @@
 created: 20231127133140122
 creator: KylePan
-difficulty: 8.380088475207948
-due: 20240331015617615
+difficulty: 8.46292184401456
+due: 20240414112353114
 grade: 1
-history: [{"due":"20240317014251534","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014251534"},{"due":"20240319014908664","interval":3,"difficulty":6.0538149682454625,"stability":1.4816364413634358,"retrievability":0.8538149682454624,"grade":0,"lapses":1,"reps":1,"review":"20240318014908664"},{"due":"20240321012814746","interval":2,"difficulty":7.121243790300657,"stability":1.097623272188053,"retrievability":0.8674288220551943,"grade":0,"lapses":2,"reps":1,"review":"20240320012814745"},{"due":"20240322012428342","interval":1,"difficulty":8.229717174317374,"stability":0.8131393194811983,"retrievability":0.9084733840167178,"grade":0,"lapses":3,"reps":1,"review":"20240321012428342"},{"due":"20240324012530324","interval":1,"difficulty":8.3081880483984,"stability":2.3058172549120215,"retrievability":0.8784708740810269,"grade":1,"lapses":3,"reps":2,"review":"20240322012530323"}]
-interval: 3
+history: [{"due":"20240317014251534","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240315014251534"},{"due":"20240319014908664","interval":3,"difficulty":6.0538149682454625,"stability":1.4816364413634358,"retrievability":0.8538149682454624,"grade":0,"lapses":1,"reps":1,"review":"20240318014908664"},{"due":"20240321012814746","interval":2,"difficulty":7.121243790300657,"stability":1.097623272188053,"retrievability":0.8674288220551943,"grade":0,"lapses":2,"reps":1,"review":"20240320012814745"},{"due":"20240322012428342","interval":1,"difficulty":8.229717174317374,"stability":0.8131393194811983,"retrievability":0.9084733840167178,"grade":0,"lapses":3,"reps":1,"review":"20240321012428342"},{"due":"20240324012530324","interval":1,"difficulty":8.3081880483984,"stability":2.3058172549120215,"retrievability":0.8784708740810269,"grade":1,"lapses":3,"reps":2,"review":"20240322012530323"},{"due":"20240331015617615","interval":3,"difficulty":8.380088475207948,"stability":5.918236824845142,"retrievability":0.8719004268095492,"grade":1,"lapses":3,"reps":3,"review":"20240325015617615"}]
+interval: 7
 lapses: 3
-modified: 20240325015617615
+modified: 20240401112353114
 modifier: KylePan
-reps: 3
-retrievability: 0.8719004268095492
-review: 20240325015617615
-stability: 5.918236824845142
+reps: 4
+retrievability: 0.8828333688066113
+review: 20240401112353114
+stability: 12.854660844837163
 tags: 中药 ?
 title: 紫草
 type: text/vnd.tiddlywiki
